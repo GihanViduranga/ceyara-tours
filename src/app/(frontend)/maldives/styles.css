@@ -1,0 +1,755 @@
+/* Maldives Page Styles */
+.maldives-page {
+  min-height: 100vh;
+  background: #ffffff;
+}
+
+/* Hero Section */
+.maldives-hero {
+  position: relative;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  overflow: hidden;
+}
+
+.maldives-hero-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.maldives-hero-image {
+  object-fit: cover;
+}
+
+.maldives-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(0, 51, 102, 0.4) 0%, rgba(0, 77, 128, 0.6) 100%);
+  z-index: 1;
+}
+
+.maldives-hero-content {
+  position: relative;
+  z-index: 2;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.maldives-hero-subtitle {
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  opacity: 0.95;
+}
+
+.maldives-hero-title {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 4rem;
+  font-weight: 400;
+  margin-bottom: 3rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  line-height: 1.2;
+}
+
+.maldives-hero-subtitle-small {
+  font-size: 1.5rem;
+  font-weight: 300;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.maldives-hero-buttons {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.maldives-hero-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.maldives-hero-btn-primary {
+  background: #4a90e2;
+  color: white;
+}
+
+.maldives-hero-btn-primary:hover {
+  background: #357abd;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(74, 144, 226, 0.4);
+}
+
+.maldives-hero-btn-secondary {
+  background: #e91e63;
+  color: white;
+}
+
+.maldives-hero-btn-secondary:hover {
+  background: #c2185b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(233, 30, 99, 0.4);
+}
+
+/* Curated Itineraries Section */
+.maldives-itineraries {
+  padding: 5rem 0;
+  background: #ffffff;
+}
+
+.maldives-section-title {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 3rem;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: #003366;
+}
+
+.maldives-filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+}
+
+.maldives-filter-btn {
+  background: transparent;
+  border: none;
+  color: #666;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  transition: color 0.3s ease;
+}
+
+.maldives-filter-btn:hover {
+  color: #003366;
+}
+
+.maldives-filter-btn.active {
+  color: #003366;
+  font-weight: 600;
+  border-bottom: 2px solid #003366;
+}
+
+.maldives-filter-divider {
+  color: #ccc;
+  font-size: 1.25rem;
+}
+
+.maldives-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 2.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.maldives-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.maldives-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.maldives-card-image {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}
+
+.maldives-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.maldives-card:hover .maldives-card-img {
+  transform: scale(1.05);
+}
+
+.maldives-card-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.maldives-card-title {
+  font-size: 1.5rem;
+  color: #003366;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  line-height: 1.3;
+}
+
+.maldives-card-location {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.maldives-card-description {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+  flex: 1;
+}
+
+.maldives-card-readmore {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #4a90e2;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+  width: fit-content;
+}
+
+.maldives-card-readmore:hover {
+  background: #357abd;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(74, 144, 226, 0.3);
+}
+
+.maldives-loading,
+.maldives-empty {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #666;
+  font-size: 1.1rem;
+}
+
+/* Detail Page Styles */
+.maldives-detail-page {
+  min-height: 100vh;
+  background: #ffffff;
+}
+
+.maldives-detail-hero {
+  position: relative;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  overflow: hidden;
+}
+
+.maldives-detail-hero-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.maldives-detail-hero-image {
+  object-fit: cover;
+}
+
+.maldives-detail-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(0, 51, 102, 0.5) 0%, rgba(0, 77, 128, 0.7) 100%);
+  z-index: 1;
+}
+
+.maldives-detail-hero-content {
+  position: relative;
+  z-index: 2;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.maldives-detail-hero-content h1 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 3.5rem;
+  font-weight: 400;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  line-height: 1.2;
+}
+
+.maldives-detail-intro {
+  padding: 4rem 0;
+  background: white;
+}
+
+.maldives-detail-intro-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.maldives-detail-intro-content h2 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 2.5rem;
+  color: #003366;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+}
+
+.maldives-detail-intro-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.maldives-full-description {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.maldives-detail-actions {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.maldives-btn-primary,
+.maldives-btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+}
+
+.maldives-btn-primary {
+  background: #4a90e2;
+  color: white;
+}
+
+.maldives-btn-primary:hover {
+  background: #357abd;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(74, 144, 226, 0.4);
+}
+
+.maldives-btn-secondary {
+  background: #e91e63;
+  color: white;
+}
+
+.maldives-btn-secondary:hover {
+  background: #c2185b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(233, 30, 99, 0.4);
+}
+
+/* Tabs Section */
+.maldives-detail-tabs {
+  padding: 3rem 0 5rem;
+  background: #f8f9fa;
+}
+
+.maldives-tabs-nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 1rem;
+}
+
+.maldives-tab {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  border: none;
+  color: #666;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0.75rem 1.5rem;
+  transition: all 0.3s ease;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -1rem;
+}
+
+.maldives-tab:hover {
+  color: #003366;
+}
+
+.maldives-tab.active {
+  color: #003366;
+  border-bottom-color: #003366;
+  font-weight: 600;
+}
+
+.maldives-tab svg {
+  width: 20px;
+  height: 20px;
+}
+
+.maldives-tab-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Itinerary Days */
+.maldives-itinerary-days {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.maldives-day-card {
+  background: #e8e8e8;
+  border-radius: 12px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.maldives-day-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.maldives-day-badge {
+  background: #4a90e2;
+  color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+.maldives-day-title {
+  font-size: 1.5rem;
+  color: #003366;
+  font-weight: 600;
+  margin: 0;
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+.maldives-day-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.maldives-day-activities ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.maldives-day-activities li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #d0d0d0;
+  color: #555;
+  line-height: 1.6;
+}
+
+.maldives-day-activities li:last-child {
+  border-bottom: none;
+}
+
+.maldives-day-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.maldives-day-image {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.maldives-day-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Highlights, Destinations, FAQs */
+.maldives-highlights,
+.maldives-destinations,
+.maldives-faqs {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+}
+
+.maldives-highlights-list,
+.maldives-destinations-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.maldives-highlights-list li,
+.maldives-destinations-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid #e0e0e0;
+  color: #555;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.maldives-highlights-list li:last-child,
+.maldives-destinations-list li:last-child {
+  border-bottom: none;
+}
+
+.maldives-faqs-list {
+  margin-bottom: 2rem;
+}
+
+.maldives-faq-item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.maldives-faq-item:last-child {
+  border-bottom: none;
+}
+
+.maldives-faq-question {
+  font-size: 1.25rem;
+  color: #003366;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.maldives-faq-answer {
+  color: #666;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+.maldives-tips {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e0e0e0;
+}
+
+.maldives-tips-title {
+  font-size: 1.5rem;
+  color: #003366;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.maldives-tips-content {
+  color: #666;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+/* Responsive Styles */
+@media (max-width: 1024px) {
+  .maldives-grid {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+
+  .maldives-day-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .maldives-hero {
+    height: 500px;
+  }
+
+  .maldives-hero-title {
+    font-size: 2.5rem;
+  }
+
+  .maldives-hero-subtitle-small {
+    font-size: 1.25rem;
+  }
+
+  .maldives-hero-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .maldives-hero-btn {
+    width: 100%;
+    max-width: 300px;
+    justify-content: center;
+  }
+
+  .maldives-section-title {
+    font-size: 2.5rem;
+  }
+
+  .maldives-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 0 1rem;
+  }
+
+  .maldives-detail-hero {
+    height: 400px;
+  }
+
+  .maldives-detail-hero-content h1 {
+    font-size: 2.5rem;
+  }
+
+  .maldives-detail-intro-content h2 {
+    font-size: 2rem;
+  }
+
+  .maldives-tabs-nav {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .maldives-tab {
+    width: 100%;
+    justify-content: center;
+    border-bottom: 2px solid transparent;
+    margin-bottom: 0;
+  }
+
+  .maldives-tab.active {
+    border-bottom-color: #003366;
+    margin-bottom: 0;
+  }
+
+  .maldives-day-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .maldives-day-content {
+    grid-template-columns: 1fr;
+  }
+
+  .maldives-day-images {
+    grid-template-columns: 1fr;
+  }
+
+  .maldives-detail-actions {
+    flex-direction: column;
+  }
+
+  .maldives-btn-primary,
+  .maldives-btn-secondary {
+    width: 100%;
+    max-width: 300px;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .maldives-hero-title {
+    font-size: 2rem;
+  }
+
+  .maldives-section-title {
+    font-size: 2rem;
+  }
+
+  .maldives-card-content {
+    padding: 1rem;
+  }
+
+  .maldives-card-title {
+    font-size: 1.25rem;
+  }
+
+  .maldives-day-card {
+    padding: 1.5rem;
+  }
+
+  .maldives-day-badge {
+    width: 50px;
+    height: 50px;
+    font-size: 0.9rem;
+  }
+
+  .maldives-day-title {
+    font-size: 1.25rem;
+  }
+}
+
