@@ -1,0 +1,76 @@
+{
+  "name": "ceyara-tours-payload-cms",
+  "version": "1.0.0",
+  "description": "Ceyara Tours website with Payload CMS 1.7.5",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "cross-env NODE_OPTIONS=\"--no-deprecation --max-old-space-size=8000\" next build",
+    "dev": "cross-env NODE_OPTIONS=--no-deprecation next dev",
+    "devsafe": "rm -rf .next && cross-env NODE_OPTIONS=--no-deprecation next dev",
+    "generate:types": "cross-env NODE_OPTIONS=--no-deprecation payload generate:types",
+    "lint": "cross-env NODE_OPTIONS=--no-deprecation next lint",
+    "payload": "cross-env NODE_OPTIONS=--no-deprecation payload",
+    "start": "cross-env NODE_OPTIONS=--no-deprecation next start",
+    "test": "npm run test:int && npm run test:e2e",
+    "test:e2e": "cross-env NODE_OPTIONS=\"--no-deprecation --no-experimental-strip-types\" playwright test",
+    "test:int": "cross-env NODE_OPTIONS=--no-deprecation vitest run --config ./vitest.config.mts"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^7.18.0",
+    "@payloadcms/db-mongodb": "^3.67.0",
+    "@payloadcms/graphql": "^3.67.0",
+    "@payloadcms/next": "^3.67.0",
+    "@payloadcms/storage-gcs": "^3.67.0",
+    "@payloadcms/ui": "^3.67.0",
+    "@swc/core": "^1.14.0",
+    "aws4": "^1.13.2",
+    "cross-env": "^7.0.3",
+    "dotenv": "16.4.7",
+    "graphql": "^16.8.1",
+    "mongoose": "^8.19.2",
+    "next": "^15.0.0",
+    "nodemailer": "^6.9.8",
+    "payload": "^3.67.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "scheduler": "^0.20.2",
+    "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.54.1",
+    "@testing-library/react": "16.3.0",
+    "@types/node": "^22.5.4",
+    "@types/nodemailer": "^6.4.14",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "4.5.2",
+    "eslint": "^9.16.0",
+    "eslint-config-next": "^15.0.0",
+    "ignore-loader": "^0.1.2",
+    "jsdom": "26.1.0",
+    "playwright": "1.54.1",
+    "playwright-core": "1.54.1",
+    "prettier": "^3.4.2",
+    "typescript": "5.7.3",
+    "vite-tsconfig-paths": "5.1.4",
+    "vitest": "3.2.3"
+  },
+  "engines": {
+    "node": "^18.20.2 || >=20.9.0",
+    "pnpm": "^9 || ^10"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "esbuild",
+      "unrs-resolver"
+    ],
+    "overrides": {
+      "react": "^19.0.0",
+      "react-dom": "^19.0.0",
+      "@types/react": "^19.0.0",
+      "@types/react-dom": "^19.0.0"
+    }
+  }
+}
