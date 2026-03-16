@@ -1,0 +1,1270 @@
+/* Day Tours Page Styles */
+.day-tours-page {
+  width: 100%;
+  overflow-x: hidden;
+  min-height: 100vh;
+  background: #f8f9fa;
+}
+
+.day-tours-hero {
+  position: relative;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  margin-bottom: 4rem;
+  overflow: hidden;
+}
+
+.day-tours-hero-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.day-tours-hero-image {
+  object-fit: cover;
+}
+
+.day-tours-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(0, 51, 102, 0.5) 0%, rgba(0, 77, 128, 0.7) 100%);
+  z-index: 1;
+}
+
+.day-tours-hero-content {
+  position: relative;
+  z-index: 2;
+  padding: 2rem;
+  max-width: 900px;
+}
+
+.day-tours-hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.day-tours-hero-subtitle {
+  font-size: 1.25rem;
+  opacity: 0.95;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.day-tours-intro {
+  padding: 4rem 0;
+  background: white;
+}
+
+.day-tours-intro-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.day-tours-intro-content h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  color: #003366;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.day-tours-intro-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.day-tours-tours {
+  padding: 4rem 0;
+  background: #f8f9fa;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  color: #003366;
+  text-align: center;
+  margin-bottom: 3rem;
+  font-weight: 600;
+}
+
+.tours-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.tour-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.tour-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.tour-card-image {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}
+
+.tour-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.tour-card:hover .tour-img {
+  transform: scale(1.05);
+}
+
+.tour-duration-badge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: rgba(255, 107, 53, 0.95);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  backdrop-filter: blur(10px);
+}
+
+.tour-card-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.tour-card-content h3 {
+  font-size: 1.5rem;
+  color: #003366;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+
+.tour-card-content p {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+  text-align: center;
+  flex: 1;
+}
+
+.tour-card-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+  border-top: 1px solid #e9ecef;
+  margin-top: auto;
+}
+
+.tour-enquire-btn {
+  background: #003366;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+}
+
+.tour-enquire-btn:hover {
+  background: #004d80;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 51, 102, 0.2);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Responsive Styles for Day Tours Page */
+@media (max-width: 768px) {
+  .day-tours-hero {
+    height: 300px;
+    margin-bottom: 2rem;
+  }
+
+  .day-tours-hero h1 {
+    font-size: 2rem;
+  }
+
+  .day-tours-hero-subtitle {
+    font-size: 1rem;
+  }
+
+  .day-tours-intro {
+    padding: 2rem 0;
+  }
+
+  .day-tours-intro-content h2 {
+    font-size: 2rem;
+  }
+
+  .day-tours-intro-content p {
+    font-size: 1rem;
+  }
+
+  .day-tours-tours {
+    padding: 2rem 0;
+  }
+
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .tours-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .tour-card-footer {
+    justify-content: center;
+  }
+
+  .tour-enquire-btn {
+    width: auto;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .day-tours-hero {
+    height: 250px;
+  }
+
+  .day-tours-hero h1 {
+    font-size: 1.75rem;
+  }
+
+  .day-tours-hero-subtitle {
+    font-size: 0.9rem;
+  }
+
+  .section-title {
+    font-size: 1.75rem;
+  }
+
+  .day-tours-intro-content h2 {
+    font-size: 1.75rem;
+  }
+}
+
+/* Day Tour Detail Page Styles */
+.day-tour-detail-page {
+  min-height: 100vh;
+  background: white;
+  padding: 4rem 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.day-tour-detail-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.day-tour-detail-image-wrapper {
+  position: relative;
+  width: 110%;
+  height: 650px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.day-tour-detail-image-curved {
+  position: relative;
+  left: -24%;
+  width: 120%;
+  height: 125%;
+  overflow: hidden;
+  mask-size: cover;
+  mask-position: center;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+}
+
+.day-tour-detail-image {
+  object-fit: cover;
+}
+
+.day-tour-detail-content {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.day-tour-detail-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #000;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.day-tour-detail-description {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333;
+  margin: 0;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+.day-tour-detail-buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.day-tour-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  min-width: fit-content;
+}
+
+.day-tour-btn-explore {
+  background: #0066cc;
+}
+
+.day-tour-btn-explore:hover {
+  background: #0052a3;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 102, 204, 0.3);
+}
+
+.day-tour-btn-book {
+  background: #ff3366;
+}
+
+.day-tour-btn-book:hover {
+  background: #e62952;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 51, 102, 0.3);
+}
+
+.day-tour-btn svg {
+  flex-shrink: 0;
+}
+
+.day-tour-btn span {
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  flex: 0 1 auto;
+}
+
+/* Places Carousel Section */
+.places-carousel-section {
+  padding: 5rem 0;
+  background: white;
+  margin-top: 4rem;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.places-carousel-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #003366;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.places-carousel-container {
+  position: relative;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.places-carousel-cards {
+  position: relative;
+  width: 100%;
+  min-height: 600px;
+  overflow: hidden;
+}
+
+/* Main Featured Card */
+.places-featured-card {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.places-card-image-wrapper {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.places-card-image {
+  transition: transform 0.5s ease;
+}
+
+.places-featured-card:hover .places-card-image {
+  transform: scale(1.05);
+}
+
+.places-card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.6) 100%);
+  z-index: 1;
+}
+
+.places-card-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 2.5rem;
+  z-index: 2;
+  color: white;
+  text-align: left;
+  padding-right: 50%;
+}
+
+.places-card-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: white;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.places-card-text {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.95);
+  max-width: 100%;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Smaller Overlapping Cards - Horizontal Layout */
+.places-small-cards {
+  display: flex;
+  gap: 1rem;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.places-small-cards::-webkit-scrollbar {
+  display: none;
+}
+
+.places-small-card {
+  position: relative;
+  width: 180px;
+  min-width: 180px;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  background: white;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.places-small-card:hover {
+  transform: translateY(-5px) scale(1.05);
+}
+
+.places-small-card-image-wrapper {
+  position: relative;
+  width: 100%;
+  height: 140px;
+  overflow: hidden;
+}
+
+.places-small-card-image {
+  transition: transform 0.3s ease;
+}
+
+.places-small-card:hover .places-small-card-image {
+  transform: scale(1.1);
+}
+
+.places-small-card-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, transparent 100%);
+  z-index: 1;
+}
+
+.places-small-card-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem 0.75rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  margin: 0;
+  z-index: 2;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Navigation Arrows */
+.places-carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.3s ease;
+  color: #003366;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.places-carousel-arrow:hover {
+  background: white;
+  color: #003366;
+  transform: translateY(-50%) scale(1.1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.places-carousel-arrow-left {
+  left: 20px;
+}
+
+.places-carousel-arrow-right {
+  right: 20px;
+}
+
+.places-carousel-arrow svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* Detailed Description Section */
+.day-tour-detail-description-section {
+  padding: 4rem 0;
+  background: #f8f9fa;
+  margin-top: 5.5rem;
+}
+
+.day-tour-detail-description-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.day-tour-detail-intro {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 3rem;
+  text-align: justify;
+}
+
+.day-tour-detail-section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #003366;
+  margin-bottom: 2rem;
+  margin-top: 0;
+}
+
+.day-tour-detail-historical-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.day-tour-detail-historical-list li {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #333;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  position: relative;
+  min-height: 1.8em;
+}
+
+.day-tour-detail-historical-list li::before {
+  content: '';
+  display: block;
+  width: 8px;
+  height: 8px;
+  background-color: #ff6b35;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: calc(0.9em - 4px);
+}
+
+.day-tour-detail-historical-list li strong {
+  color: #003366;
+  font-weight: 600;
+}
+
+/* Responsive Styles for Day Tour Detail Page */
+@media (max-width: 1024px) {
+  .day-tour-detail-container {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  .day-tour-detail-image-wrapper {
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .day-tour-detail-image-curved {
+    left: 0;
+    width: 100%;
+    height: 100%;
+    mask-size: cover;
+    mask-position: center;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
+    -webkit-mask-position: center;
+    -webkit-mask-repeat: no-repeat;
+  }
+
+  .day-tour-detail-content {
+    text-align: center;
+  }
+
+  .day-tour-detail-buttons {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .day-tour-detail-page {
+    padding: 2rem 0;
+  }
+
+  .day-tour-detail-container {
+    gap: 2rem;
+    padding: 0 1rem;
+  }
+
+  .day-tour-detail-image-wrapper {
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .day-tour-detail-image-curved {
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .day-tour-detail-content {
+    padding: 1rem 0;
+    gap: 1.5rem;
+  }
+
+  .day-tour-detail-title {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  .day-tour-detail-description {
+    font-size: 1rem;
+    line-height: 1.7;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    padding: 0;
+    margin: 0;
+  }
+
+  .day-tour-detail-buttons {
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .day-tour-btn {
+    width: 100%;
+    justify-content: center;
+    padding: 0.9rem 1.5rem;
+    font-size: 0.9rem;
+    white-space: normal;
+    min-height: 48px;
+    text-align: center;
+  }
+
+  .day-tour-btn span {
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.4;
+    flex: 1;
+    text-align: center;
+  }
+
+  .day-tour-btn svg {
+    flex-shrink: 0;
+    width: 14px;
+    height: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .day-tour-detail-page {
+    padding: 1.5rem 0;
+  }
+
+  .day-tour-detail-container {
+    gap: 1.5rem;
+    padding: 0 0.75rem;
+  }
+
+  .day-tour-detail-title {
+    font-size: 1.75rem;
+    line-height: 1.2;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  .day-tour-detail-content {
+    padding: 0.5rem 0;
+    gap: 1.25rem;
+  }
+
+  .day-tour-detail-description {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
+
+  .day-tour-detail-image-wrapper {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .day-tour-detail-image-curved {
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .day-tour-detail-buttons {
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+  }
+
+  .day-tour-btn {
+    padding: 0.85rem 1.25rem;
+    font-size: 0.85rem;
+    min-height: 44px;
+  }
+
+  .day-tour-btn span {
+    font-size: 0.85rem;
+    line-height: 1.3;
+  }
+
+  .day-tour-btn svg {
+    width: 12px;
+    height: 12px;
+  }
+}
+
+@media (max-width: 360px) {
+  .day-tour-detail-container {
+    padding: 0 0.5rem;
+  }
+
+  .day-tour-detail-title {
+    font-size: 1.5rem;
+  }
+
+  .day-tour-detail-description {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .day-tour-btn {
+    padding: 0.75rem 1rem;
+    font-size: 0.8rem;
+    min-height: 42px;
+  }
+
+  .day-tour-btn span {
+    font-size: 0.8rem;
+  }
+}
+
+/* Day Tour Cards Section */
+.day-tour-cards-section {
+  padding: 5rem 0;
+  background: white;
+  margin-top: 4rem;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.day-tour-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Responsive Styles for Description Section */
+@media (max-width: 768px) {
+  .day-tour-detail-description-section {
+    padding: 3rem 0;
+    margin-top: 3rem;
+  }
+
+  .day-tour-cards-section {
+    padding: 3rem 0;
+    margin-top: 3rem;
+  }
+
+  .day-tour-cards-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .day-tour-detail-intro {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .day-tour-detail-section-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .day-tour-detail-historical-list li {
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+    padding-left: 1.25rem;
+  }
+
+  .day-tour-detail-historical-list li::before {
+    top: calc(0.9em - 4px);
+  }
+}
+
+@media (max-width: 480px) {
+  .day-tour-detail-description-section {
+    padding: 2rem 0;
+    margin-top: 2rem;
+  }
+
+  .day-tour-detail-section-title {
+    font-size: 1.75rem;
+  }
+
+  .day-tour-detail-intro {
+    font-size: 0.95rem;
+    text-align: left;
+  }
+
+  .day-tour-detail-historical-list li {
+    font-size: 0.95rem;
+    padding-left: 1rem;
+  }
+
+  .day-tour-detail-historical-list li::before {
+    width: 6px;
+    height: 6px;
+    top: calc(0.9em - 3px);
+  }
+}
+
+/* Responsive Styles for Places Carousel */
+@media (max-width: 1024px) and (min-width: 769px) {
+  .places-carousel-cards {
+    min-height: 500px;
+  }
+
+  .places-featured-card {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .places-card-image-wrapper {
+    height: 450px;
+  }
+
+  .places-small-cards {
+    bottom: 15px;
+    right: 15px;
+    gap: 0.75rem;
+    max-width: calc(50% - 15px);
+    width: max-content;
+    padding: 0;
+    margin: 0;
+  }
+
+  .places-card-content {
+    padding-right: 55%;
+  }
+
+  .places-small-card {
+    width: 160px;
+    min-width: 160px;
+  }
+
+  .places-small-card-image-wrapper {
+    height: 120px;
+  }
+
+  .places-carousel-arrow {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .places-carousel-section {
+    padding: 3rem 0;
+    margin-top: 3rem;
+  }
+
+  .places-carousel-container {
+    padding: 0 15px;
+  }
+
+  .places-carousel-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .places-carousel-cards {
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: visible;
+  }
+
+  .places-featured-card {
+    max-width: 100%;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .places-card-image-wrapper {
+    height: 350px;
+  }
+
+  .places-card-content {
+    padding: 2rem;
+    padding-right: 2rem;
+  }
+
+  .places-card-title {
+    font-size: 1.5rem;
+  }
+
+  .places-card-text {
+    font-size: 0.9rem;
+    max-width: 100%;
+  }
+
+  .places-small-cards {
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    right: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 0.75rem;
+    max-width: calc(100% - 30px);
+    width: max-content;
+    overflow-x: auto;
+    padding: 0;
+    margin: 0;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .places-small-cards::-webkit-scrollbar {
+    display: none;
+  }
+
+  .places-small-card {
+    width: 140px;
+    min-width: 140px;
+    flex-shrink: 0;
+  }
+
+  .places-small-card-image-wrapper {
+    height: 120px;
+  }
+
+  .places-small-card-title {
+    font-size: 0.85rem;
+    padding: 0.75rem 0.5rem;
+  }
+
+  .places-carousel-arrow {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .places-carousel-container {
+    padding: 0 10px;
+  }
+
+  .places-carousel-title {
+    font-size: 1.75rem;
+  }
+
+  .places-carousel-cards {
+    min-height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: visible;
+  }
+
+  .places-featured-card {
+    max-width: 100%;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .places-card-image-wrapper {
+    height: 300px;
+  }
+
+  .places-card-content {
+    padding: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .places-card-title {
+    font-size: 1.25rem;
+  }
+
+  .places-card-text {
+    font-size: 0.85rem;
+    max-width: 100%;
+  }
+
+  .places-small-cards {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    right: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    max-width: calc(100% - 20px);
+    width: max-content;
+    overflow-x: auto;
+    padding: 0;
+    margin: 0;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .places-small-cards::-webkit-scrollbar {
+    display: none;
+  }
+
+  .places-small-card {
+    width: 120px;
+    min-width: 120px;
+    flex-shrink: 0;
+  }
+
+  .places-small-card-image-wrapper {
+    height: 100px;
+  }
+
+  .places-small-card-title {
+    font-size: 0.75rem;
+    padding: 0.5rem;
+  }
+
+  .places-carousel-arrow {
+    display: none;
+  }
+}
+
+/* Video Section Styles */
+.day-tour-video-section {
+  padding: 5rem 0;
+  background: white;
+  margin-top: 4rem;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.day-tour-video-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #003366;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.day-tour-video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.day-tour-video-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 20px;
+}
+
+/* Responsive Styles for Video Section */
+@media (max-width: 768px) {
+  .day-tour-video-section {
+    padding: 3rem 0;
+    margin-top: 3rem;
+  }
+
+  .day-tour-video-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .day-tour-video-wrapper {
+    border-radius: 15px;
+  }
+
+  .day-tour-video-iframe {
+    border-radius: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .day-tour-video-section {
+    padding: 2rem 0;
+    margin-top: 2rem;
+  }
+
+  .day-tour-video-title {
+    font-size: 1.75rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .day-tour-video-wrapper {
+    border-radius: 10px;
+  }
+
+  .day-tour-video-iframe {
+    border-radius: 10px;
+  }
+}
+
