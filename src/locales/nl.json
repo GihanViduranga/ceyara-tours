@@ -1,0 +1,2399 @@
+{
+  "nav": {
+    "tailorMadeTours": "Reizen op maat",
+    "itineraries": "Reisroutes",
+    "dayTours": "Dagtochten",
+    "accommodation": "Accommodaties",
+    "discoverSriLanka": "Ontdek Sri Lanka",
+    "ourStory": "Ons verhaal",
+    "maldives": "Malediven",
+    "blog": "Blog",
+    "registration": "Registratie",
+    "planYourTrip": "PLAN UW REIS",
+    "enquireNow": "NU AANVRAGEN"
+  },
+  "hero": {
+    "title": "Ontdek de schoonheid van Sri Lanka",
+    "subtitle": "Uw reis, onze prioriteit",
+    "tagline": "Ervaar adembenemende landschappen, rijke cultuur en onvergetelijke avonturen met Ceyara Tours",
+    "curatedItineraries": "Geselecteerde routes",
+    "tailormadeExperiences": "Ervaringen op maat",
+    "dayTours": "Dagtours",
+    "dayToursSubtitle": "Ontdek onze zorgvuldig samengestelde selectie van dagtours en ervaringen"
+  },
+  "about": {
+    "title": "Over Ceyara Tours",
+    "description": "Wij tonen de schoonheid en cultuur van Sri Lanka. Onze reizen bieden authentieke ervaringen die u verbinden met het hart van het eiland.",
+    "experience": "Jaren ervaring",
+    "tours": "Succesvolle reizen",
+    "customers": "Tevreden klanten",
+    "destinations": "Bestemmingen",
+    "magicalMemories": "Magische herinneringen,",
+    "bespokeExperiences": "maatwerkervaringen",
+    "description1": "Ceyara Tours creëert magische herinneringen en ervaringen op maat die cultuur en natuur van Sri Lanka onthullen.",
+    "description2": "Onze belofte: een persoonlijk verhaal, niet slechts een reis – van afgelegen stranden tot oude tempels.",
+    "planTrip": "PLAN UW REIS NAAR SRI LANKA"
+  },
+  "stats": {
+    "area": "km² oppervlakte",
+    "provinces": "Provincies",
+    "places": "Bezienswaardigheden"
+  },
+  "features": {
+    "title": "Geselecteerde routes",
+    "expertGuides": {
+      "title": "Huwelijksreis in Sri Lanka",
+      "description": "Zoekt u een manier om te ontspannen na de druk van de bruiloftsplanning? Een huwelijksreis in Sri Lanka biedt stellen de mogelijkheid om te ontspannen aan exotische kuststranden, oude tempels te verkennen en romantische zonsondergangen in het paradijs te genieten.",
+      "alt": "Huwelijksreis in Sri Lanka"
+    },
+    "authenticExperiences": {
+      "title": "Wellnessreis Sri Lanka",
+      "description": "Als u op zoek bent naar onontdekte ontsnappingen om uw lichaam, geest en ziel te voeden, dan is deze 13-daagse wellnessreis in Sri Lanka perfect voor u. Vind ultieme sereniteit en ontspanning en trakteer uzelf op een verblijf in de meest gekoesterde eco-vriendelijke retraites verspreid over het eiland.",
+      "alt": "Wellnessreis Sri Lanka"
+    },
+    "flexibleItineraries": {
+      "title": "Betoverend Sri Lanka | Enchanting Ceylon",
+      "description": "Dit is een uitgebreide reis met veel inbegrepen activiteiten om het maximale uit uw tijd in het land te halen. Ervaar het beste van de cultuur, natuur en erfgoed van Sri Lanka in één onvergetelijke reis.",
+      "alt": "Betoverend Sri Lanka Tour"
+    },
+    "bestPrice": {
+      "title": "Last-minute reis in Sri Lanka",
+      "description": "De last-minute reis in Sri Lanka is gewijd aan last-minute reizigers. Maak u geen zorgen over last-minute beslissingen, onze experts staan op elk moment voor u klaar om al uw last-minute verzoeken te accommoderen en een goed geplande tour op maat te creëren.",
+      "alt": "Last-minute reis in Sri Lanka"
+    },
+    "readMore": "Lees meer"
+  },
+  "destinations": {
+    "title": "Populaire bestemmingen",
+    "hillCountry": {
+      "title": "Heuvelland",
+      "description": "Ella, Nuwara Eliya, Kandy"
+    },
+    "coastalParadise": {
+      "title": "Kustparadijs",
+      "description": "Galle, Mirissa, Trincomalee"
+    },
+    "wildlifeSafari": {
+      "title": "Safari",
+      "description": "Yala, Wilpattu, Udawalawe"
+    },
+    "culturalTriangle": {
+      "title": "Culturele Driehoek",
+      "description": "Anuradhapura, Polonnaruwa, Sigiriya"
+    }
+  },
+  "cta": {
+    "title": "Klaar om Sri Lanka te verkennen?",
+    "description": "Sluit u aan bij duizenden tevreden reizigers die met ons het eilandparadijs ontdekten",
+    "viewAllTours": "Alle reizen bekijken"
+  },
+  "footer": {
+    "tagline": "Uw toegang tot het paradijs",
+    "description": "Ontdek de betoverende schoonheid van Sri Lanka met onze zorgvuldig samengestelde reizen.",
+    "quickLinks": {
+      "title": "Snelle links",
+      "tailorMadeTours": "Reizen op maat",
+      "itineraries": "Reisroutes",
+      "dayTours": "Dagtochten",
+      "accommodation": "Accommodaties",
+      "discoverSriLanka": "Ontdek Sri Lanka",
+      "maldives": "Malediven"
+    },
+    "destinations": {
+      "title": "Populaire bestemmingen",
+      "sigiriya": "Sigiriya-rotsvesting",
+      "kandy": "Tempel van Kandy",
+      "anuradhapura": "Anuradhapura",
+      "ella": "Ella",
+      "galle": "Fort van Galle",
+      "yala": "Nationaal park Yala"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "123 Tourism Street, Colombo 01, Sri Lanka"
+    },
+    "copyright": "Alle rechten voorbehouden.",
+    "privacyPolicy": "Privacybeleid",
+    "termsConditions": "Algemene voorwaarden",
+    "cookies": "Cookiebeleid",
+    "certifications": {
+      "tripAdvisor": "Tripadvisor-uitmuntendheid",
+      "licensed": "Gelicentieerde touroperator",
+      "insured": "Volledig verzekerd"
+    }
+  },
+  "enquiry": {
+    "title": "Plan uw droom Sri Lanka avontuur",
+    "subtitle": "Krijg gepersonaliseerde reisadviezen en directe offertes via WhatsApp",
+    "feature1": "Aangepaste routes",
+    "feature2": "Beste accommodaties",
+    "feature3": "Expert lokale gidsen",
+    "formTitle": "Vertel ons over uw reis",
+    "formSubtitle": "Vul het formulier in en we sturen u een gedetailleerde offerte via WhatsApp",
+    "name": "Volledige naam",
+    "email": "E-mailadres",
+    "phone": "Telefoonnummer",
+    "country": "Land",
+    "travelDates": "Gewenste reisdatums",
+    "duration": "Reisduur",
+    "travelers": "Aantal reizigers",
+    "budget": "Budgetbereik",
+    "interests": "Reisinteresses",
+    "message": "Aanvullende vereisten",
+    "namePlaceholder": "Voer uw volledige naam in",
+    "emailPlaceholder": "uw.email@voorbeeld.com",
+    "phonePlaceholder": "+94 77 123 456",
+    "countryPlaceholder": "bijv. Nederland",
+    "travelDatesPlaceholder": "bijv. 15-25 maart 2024",
+    "selectDuration": "Selecteer duur",
+    "selectTravelers": "Selecteer aantal reizigers",
+    "selectBudget": "Selecteer budgetbereik",
+    "interestsPlaceholder": "bijv. Wildlife, Cultuur, Stranden, Avontuur...",
+    "messagePlaceholder": "Speciale vereisten of vragen...",
+    "days": "dagen",
+    "person": "persoon",
+    "people": "personen",
+    "sendViaWhatsApp": "Verstuur via WhatsApp",
+    "sendViaMessenger": "Verstuur via Messenger",
+    "formNote": "Uw aanvraag wordt direct naar onze reisexperts gestuurd via WhatsApp of Messenger voor directe reactie"
+  },
+  "adventureNature": {
+    "title": "Avontuur & Natuur Tours",
+    "subtitle": "Ervaar de wilde kant van Sri Lanka met opwindende avonturen en adembenemende natuurlijke schoonheid",
+    "introTitle": "Ontdek de Natuurlijke Wonderen van Sri Lanka",
+    "introDescription1": "Ga op een onvergetelijke reis door de diverse landschappen van Sri Lanka, van mistige bergtoppen tot weelderige regenwouden en ongerepte watervallen. Onze Avontuur & Natuur tours zijn ontworpen voor thrillseekers en natuurliefhebbers die de ongerepte schoonheid van het eiland willen verkennen.",
+    "introDescription2": "Of u nu wandelt op oude paden, wilde dieren in hun natuurlijke habitat observeert of kampeert onder sterrenhemels, onze ervaren gidsen zorgen voor een veilig en memorabel avontuur.",
+    "toursTitle": "Uitgelichte Avontuurtours",
+    "enquireNow": "Nu Vragen",
+    "readMore": "Lees Meer",
+    "featuresTitle": "Wat te Verwachten",
+    "feature1Title": "Bergwandelen",
+    "feature1Description": "Daag uzelf uit met begeleide wandelingen door de hoogste pieken van Sri Lanka en schilderachtige bergketens.",
+    "feature2Title": "Natuurpaden",
+    "feature2Description": "Verken ongerepte regenwouden, watervallen en verborgen juwelen met ervaren natuurgidsen.",
+    "feature3Title": "Ontmoetingen met Wilde Dieren",
+    "feature3Description": "Spot exotische vogels, olifanten en andere wilde dieren in hun natuurlijke habitats tijdens begeleide safari's.",
+    "feature4Title": "Buitensportactiviteiten",
+    "feature4Description": "Ervaar kamperen, rotsklimmen en andere buitensportavonturen in adembenemende natuurlijke omgevingen.",
+    "ctaTitle": "Klaar voor Uw Avontuur?",
+    "ctaDescription": "Neem contact met ons op om uw perfecte avontuur- en natuurtour in Sri Lanka aan te passen",
+    "ctaButton": "Plan Uw Avontuur",
+    "tourNotFound": "Tour Niet Gevonden",
+    "tourNotFoundDescription": "De tour die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Tours",
+    "tours": {
+      "tour1": {
+        "title": "Off-Road Avontuur Tour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Ga op een opwindende 4WD-reis door de wilde gebieden van Sri Lanka, van jungles tot duinen, met wandelingen, safari's en verblijven in unieke eco-resorts."
+      },
+      "tour2": {
+        "title": "Ervaar Waarachtige Elegantie en Luxe met de W15 Collectie",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "De reis begint met een rustgevend overnachting in Colombo. Begin fris aan uw avontuur terwijl u verder rijdt naar…"
+      },
+      "tour3": {
+        "title": "Arboretum Tour in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Botanische Tuinen in Sri Lanka zijn aan alle kanten omgeven door weelderig gebladerte, waardoor het een ideale bestemming is voor natuurliefhebbers. Leer over de Arboretum Parken…"
+      },
+      "tour4": {
+        "title": "Eco Tour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Onze Eco Tour is gemaakt door enkele van de meest unieke ervaringen te combineren die u ooit kunt krijgen, waarbij u de verborgen ontsnappingen in Sri Lanka verkent temidden van de machtige natuur om u heen."
+      },
+      "tour5": {
+        "title": "Betoverend Sri Lanka | Betoverend Ceylon",
+        "duration": "10 Nachten – 11 Dagen",
+        "description": "Beginnend in Negombo, reist u door het platteland naar betoverende schatten in de culturele driehoek van Sri Lanka die overvloedig aanwezig zijn van Anuradhapura tot Kandy…"
+      },
+      "tour6": {
+        "title": "Wandelen & Trekking Tour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Welkom op het paradijselijke eiland – Sri Lanka. U bent in een van de grootste avonturen van uw leven met Blue Lanka Tours, Wandelen en Trekking Tour."
+      },
+      "tour7": {
+        "title": "Heuvels Fotografie Tour in Sri Lanka",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Wilt u de natuur op zijn best verkennen met uw camera? Deze heuvels fotografie tour in Sri Lanka geeft u precies dat! Neemt u mee naar uitzichtpunten in Kandy, Nuwara Eliya en Ella…"
+      },
+      "tour8": {
+        "title": "Home Stay Explorer Tour in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Bent u het beu om in hotels te verblijven en zoekt u een gezellige ontsnapping op uw volgende reis? Als u ja heeft geantwoord, dan heeft u alleen een prettige plek nodig om te verblijven…"
+      },
+      "tour9": {
+        "title": "Last Minute Tour in Sri Lanka",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Last Minute Tour in Sri Lanka is gewijd aan last-minute reizigers. Maak u geen zorgen over last-minute beslissingen, onze experts staan op elk moment voor u klaar…"
+      },
+      "tour10": {
+        "title": "Avontuur Tour in Sri Lanka",
+        "duration": "7 Nachten – 14 Dagen",
+        "description": "Avontuurliefhebbers, jong of oud, zullen deze tourroute zeker waarderen. Het omvat spannende activiteiten zoals wildsafari's, rotsklimmen, wildwatervaren…"
+      },
+      "tour11": {
+        "title": "Natuurpaden Tour in Sri Lanka",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Natuurpaden Tour van Blue Lanka Tours is een van de meest adembenemende routes die we te bieden hebben. Als een van 's werelds meest populaire toeristische bestemmingen…"
+      },
+      "tour12": {
+        "title": "Gevederde Paden van Ceylon",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Deze 15-daagse vogelkijktour in Sri Lanka is een paradijs voor natuurliefhebbers en biedt de kans om de diverse ecosystemen van het land te verkennen en een grote verscheidenheid aan vogelsoorten te spotten."
+      },
+      "tour13": {
+        "title": "Echo's van de Natuur in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Deze 15-daagse wildtour in Sri Lanka biedt een heerlijke mix van avontuur en ontspanning en toont de rijke biodiversiteit en prachtige landschappen van het land."
+      },
+      "tour14": {
+        "title": "Off the Beaten Track Tour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Off the Beaten Track Tour in Sri Lanka is een van de meest gezochte tours van Blue Lanka Tours op hun handmatig geselecteerde lijst van locaties en tourattracties…"
+      },
+      "tour15": {
+        "title": "Regenwoud Tours Sri Lanka",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Sri Lanka heeft de trots verworven als 'groen paradijs' van de wereld en is gezegend met groene vegetatie in elke hoek van het eiland."
+      },
+      "tour16": {
+        "title": "Thee Tour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Een absolute must voor theeliefhebbers, een Thee Tour met Blue Lanka Tours die de belangrijkste Theeplantages en theeerwaringen in het land dekt. Deze ervaringsgerichte tour…"
+      },
+      "tour17": {
+        "title": "Veddah Dorp Tour in Sri Lanka",
+        "duration": "8 Nachten – 9 Dagen",
+        "description": "Wij geloven dat ons Veddah Dorp Tour Itinerarium u de kans geeft die niet voor altijd beschikbaar zal zijn. Met de snelle ontwikkelingen de authentieke bewoning van de aboriginals"
+      },
+      "tour18": {
+        "title": "Wandeltour Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Sri Lanka is gezegend met prachtige natuurcreaties en het heuvelland van het eiland is de beste certificering daarvoor. Borrelende watervallen, met thee bedekte velden, opwindende bergen…"
+      },
+      "tour19": {
+        "title": "Fiets Tour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Sri Lanka is een uitstekende fietsbestemming, met goed onderhouden routes en diverse, schilderachtige natuurlijke omgevingen. Er is zoveel te waarderen…"
+      },
+      "tour20": {
+        "title": "Grotten Tour in Sri Lanka",
+        "duration": "Beslis Uw Eigen Dagen",
+        "description": "Speleologie is een recreatieve activiteit van het verkennen van grotten. Het is een wetenschappelijke studie van grotten, hoe ze zijn opgebouwd, structuur, fysieke kenmerken, geschiedenis en hun levensvorm."
+      }
+    }
+  },
+  "cultureHeritage": {
+    "title": "Cultuur en erfgoed tours",
+    "subtitle": "Ontdek het rijke culturele erfgoed en oude wonderen van Sri Lanka",
+    "introTitle": "Verken de culturele schatten van Sri Lanka",
+    "introDescription1": "Ga op reis door de tijd terwijl u het rijke culturele erfgoed en oude beschavingen van Sri Lanka verkent. Onze Cultuur en Erfgoed tours brengen u naar UNESCO Werelderfgoedlocaties, oude steden, heilige tempels en historische monumenten die het verhaal vertellen van meer dan 2.500 jaar beschaving.",
+    "introDescription2": "Van de oude rotsfort van Sigiriya tot de heilige Tempel van de Tandrelikwie in Kandy, ervaar de architectonische wonderen, religieuze betekenis en culturele tradities die Sri Lanka een unieke bestemming maken voor geschiedenis- en cultuurliefhebbers.",
+    "toursTitle": "Uitgelichte Cultuur en Erfgoed Tours",
+    "enquireNow": "Vraag nu aan",
+    "readMore": "Lees meer",
+    "tourNotFound": "Tour niet gevonden",
+    "tourNotFoundDescription": "De tour die u zoekt bestaat niet.",
+    "backToTours": "Terug naar tours",
+    "tours": {
+      "tour1": {
+        "title": "Culturele Fotografie Tour in Sri Lanka",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Naast zijn prachtige natuurlijke landschap heeft Sri Lanka een rijke cultuur en erfgoed. Dit is uw kans om de hedendaagse perceptie van eeuwenoude geschiedenis vast te leggen…"
+      },
+      "tour2": {
+        "title": "Culturele Tour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Voor een diepgaande analyse van de geschiedenis, cultuur en traditie van het oude en moderne Sri Lanka is deze culturele tour van Sri Lanka precies wat u nodig heeft. Beginnend met Anuradhapura…"
+      },
+      "tour3": {
+        "title": "Culturele Driehoek Tour in Sri Lanka",
+        "duration": "6 Nachten – 7 Dagen",
+        "description": "De Culturele Driehoek is vernoemd naar drie belangrijke historische sites die een driehoek vormen."
+      },
+      "tour4": {
+        "title": "Ramayana Tour",
+        "duration": "6 Nachten – 7 Dagen",
+        "description": "Veel generaties zijn gefascineerd geweest door het verhaal van de Ramayana en als gevolg daarvan is er een significante impact geweest op kunst en cultuur in heel India en Zuidoost-Azië…"
+      },
+      "tour5": {
+        "title": "UNESCO Werelderfgoedlocaties Tour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "De Werelderfgoedlijst van UNESCO omvat acht unieke attracties in Sri Lanka die worden beschouwd als onderdeel van het werelderfgoed en moeten worden beschermd."
+      },
+      "tour6": {
+        "title": "Veddah Dorp Tour in Sri Lanka",
+        "duration": "8 Nachten – 9 Dagen",
+        "description": "Wij geloven dat onze Veddah Dorp Tour Itinerary u een kans biedt die niet voor altijd beschikbaar zal zijn. Met de snelle ontwikkelingen is de authentieke bewoning…"
+      }
+    }
+  },
+  "familyTours": {
+    "title": "Familietours",
+    "subtitle": "Creëer onvergetelijke herinneringen met uw dierbaren in Sri Lanka",
+    "introTitle": "Familieavonturen in Sri Lanka",
+    "introDescription1": "Ga op een familieavontuur door de diverse landschappen en bezienswaardigheden van Sri Lanka, ontworpen om reizigers van alle leeftijden te verrassen. Onze familietours bieden de perfecte balans tussen avontuur, cultuur, ontspanning en plezier.",
+    "introDescription2": "Van wildsafari's en strandplezier tot culturele ervaringen en educatieve bezoeken – wij zorgen ervoor dat elk gezinslid een onvergetelijke reis beleeft. Onze routes omvatten kindvriendelijke accommodaties, veilige activiteiten, flexibele schema's en deskundige gidsen.",
+    "toursTitle": "Aanbevolen Familietours",
+    "enquireNow": "Vraag nu aan",
+    "readMore": "Lees meer",
+    "tourNotFound": "Tour niet gevonden",
+    "tourNotFoundDescription": "De tour die u zoekt bestaat niet.",
+    "backToTours": "Terug naar tours",
+    "tours": {
+      "tour1": {
+        "title": "Sri Lanka Tour met een Baby",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Ontdek de wonderen van Sri Lanka met uw baby tijdens een gezinsvriendelijke vakantie met zachte avonturen en luxe verblijven bij culturele locaties, heuvels en stranden."
+      },
+      "tour2": {
+        "title": "Familieplezier in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Sri Lanka wordt steeds populairder als familievakantiebestemming dankzij zijn landelijke schoonheid, vriendelijke mensen, ruime accommodaties en leuke buitenactiviteiten."
+      },
+      "tour3": {
+        "title": "Familietour in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Ga met uw gezin op een spannend avontuur met deze speciaal ontworpen familietour in Sri Lanka. Terwijl de jongeren de 'Mini Adam's Peak' beklimmen,…"
+      },
+      "tour4": {
+        "title": "Kindertour met de Grote Vijf van Sri Lanka",
+        "duration": "5 Nachten – 6 Dagen",
+        "description": "Van luiaardberen tot potvissen – Sri Lanka is de thuisbasis van enkele van de meest opmerkelijke wilde dieren ter wereld en dus een must voor gezinnen met kinderen…"
+      },
+      "tour5": {
+        "title": "Sri Lanka Tour met Kinderen",
+        "duration": "6 Nachten – 7 Dagen",
+        "description": "Deze 7-daagse Sri Lanka Tour met kinderen is ontworpen voor maximaal plezier tijdens een niet te korte, niet te lange vakantie…"
+      },
+      "tour6": {
+        "title": "Strandtour in Sri Lanka",
+        "duration": "7 Dagen – Oostkust 7 Dagen – Westkust 7 Dagen – Zuidkust – 14 Dagen",
+        "description": "Gun uzelf een prachtige gouden teint terwijl u ontspant op het zachte zand en de kalme wateren van Sri Lanka."
+      }
+    }
+  },
+  "luxuryBespoke": {
+    "title": "Luxe Op Maat Gemaakte Reizen",
+    "subtitle": "Beleef het ultieme in gepersonaliseerd luxe reizen door Sri Lanka",
+    "introTitle": "Geniet van Exclusieve Sri Lankaanse Ervaringen",
+    "introDescription1": "Ontdek Sri Lanka in ongeëvenaarde stijl en comfort met onze Luxe Op Maat Gemaakte Reizen. Deze zorgvuldig samengestelde ervaringen combineren wereldklasse accommodaties, privétransfers, exclusieve activiteiten en gepersonaliseerde service om de ultieme luxereis op maat van uw wensen te creëren.",
+    "introDescription2": "Van boutiquehotels en luxe resorts tot privéstrandvilla's en erfgoedproperties, wij bieden op maat gemaakte reisschema's die het allerbeste van Sri Lanka tonen. Of het nu gaat om een romantisch uitstapje, wellnessretraite of viering van een speciale gelegenheid, onze luxereizen zorgen ervoor dat elk moment buitengewoon is.",
+    "toursTitle": "Uitgelichte Luxe Op Maat Reizen",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "Hervind Luxe met Amaya Retreats",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Deze 12-daagse reis omvat enkele van de geweldige properties van een geliefd lokaal hospitalitymerk in Sri Lanka – Amaya. Geniet van samengestelde ervaringen, luxueuze voorzieningen en gepersonaliseerde service op schilderachtige bestemmingen tijdens deze verfijnde ontsnapping."
+      },
+      "tour2": {
+        "title": "Ervaar Ware Elegantie en Luxe met W15 Collection",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "De reis begint met een rustig overnachtingverblijf in Colombo voordat u verder gaat naar handgekozen W15 properties over het eiland. Geniet van verfijnde diners, op maat gemaakte excursies en de perfecte balans tussen ontspanning en verkenning gedurende uw verblijf."
+      },
+      "tour3": {
+        "title": "Breng Uw Vakantie Door in de Huizen van Authentieke Sri Lankaanse Gastvrijheid",
+        "duration": "15 Nachten – 16 Dagen",
+        "description": "Verken iconische en verborgen juweeltjes van Sri Lanka tijdens een Jetwing Hotels vakantie, met samengestelde verblijven in de culturele driehoek, mistige heuvels en gouden kusten. Ervaar oprechte eilandgastvrijheid, meeslepende excursies en luxueus comfort op elke locatie."
+      },
+      "tour4": {
+        "title": "Langzaam Verlopende Luxe Reis in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Sri Lanka is de ideale plek voor een luxe gezins-, koppel-, solo- of groepsvakantie, met genoeg om reizigers bezig te houden op dit kleine eiland. Deze langzaam verlopende reis richt zich op verwennende verblijven, ontspannen ervaringen en op maat gemaakte avonturen afgestemd op uw voorkeuren."
+      },
+      "tour5": {
+        "title": "Sri Lanka Door De Ogen Van Uga Properties",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Uga Escapes toont een selectie van Sri Lankaanse ontsnappingen die de perfecte balans vinden tussen natuur, verzorging en avontuur. Ontdek boutiqueluxe in kustretraites, culturele hartlanden en wildreservaten met samengestelde ervaringen bij elke stop."
+      },
+      "tour6": {
+        "title": "Luxe Boutique Reis Met Resplendent Ceylon Properties",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Blue Lanka Tours' 12-daagse Luxe Boutique Reis met Resplendent Ceylon properties is gemaakt voor reizigers die een langzaam verlopende, ultra-luxe vakantie zoeken. Geniet van bekroonde gastvrijheid, gastronomische keuken en samengestelde ervaringen op de meest exclusieve locaties van Sri Lanka."
+      },
+      "tour7": {
+        "title": "Luxe Reis Rond Sri Lanka Met Teardrop Hotels",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Verken zowel de klassiekers als minder bekende hoeken van Sri Lanka tijdens een Teardrop Hotels reis. Verblijf in karaktervolle boutique properties, geniet van lokaal geïnspireerde luxe en ervaar meeslepende ervaringen die de tijdloze charme van het eiland onthullen."
+      }
+    }
+  },
+  "purposeBuilt": {
+    "title": "Speciale Themareizen",
+    "subtitle": "Reizen op maat van uw specifieke doelen en interesses",
+    "introTitle": "Reizen met een duidelijke missie",
+    "introDescription1": "Onze Speciale Themareizen worden zorgvuldig ontwikkeld voor heel gerichte wensen. Of u nu feest viert, een passie volgt of een bepaald type ervaring zoekt, deze routes voldoen precies aan uw verwachtingen.",
+    "introDescription2": "Van romantische huwelijksreizen en wellness tot culturele immersies, fotografietrips en solo-avonturen: elke reis combineert accommodaties, activiteiten en ontmoetingen die perfect aansluiten op uw reisdoel.",
+    "toursTitle": "Uitgelichte themareizen",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "De wildernis in met rustieke retreats",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Ontdek Sri Lanka's ongetemde kant tijdens een zorgvuldig samengestelde tocht langs nationale parken, afgelegen dorpen en karaktervolle eco-retreats. Safariritten bij zonsopkomst, ontmoetingen met de gemeenschap en begeleide natuurwandelingen zorgen voor pure immersie zonder in te leveren op comfort."
+      },
+      "tour2": {
+        "title": "Op de luipaardensporen in Sri Lanka",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Volg de schuwe luipaarden in Yala, Wilpattu, Kumana en Horton Plains met ervaren rangers. Tussen de safari's geniet u van boutique verblijven, culturele haltes en smaakvolle streekgerechten."
+      },
+      "tour3": {
+        "title": "Offroad-avontuur in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Ga op 4x4-expeditie van regenwoudpaden tot kustduinen. Pittige trajecten, canyonwandelingen en overnachtingen in eco-lodges laten de ruigste kant van het eiland zien."
+      },
+      "tour4": {
+        "title": "Toegankelijke rondreis Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Reis zorgeloos met een programma dat volledig op toegankelijkheid is ingericht. Barrièrevrije hotels, aangepaste voertuigen en getrainde gidsen maken elk hoogtepunt comfortabel en inclusief."
+      },
+      "tour5": {
+        "title": "Gemtour door Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Ga met meester-gemmologen naar mijnen, slijperijen en privé-ateliers in het edelsteendriehoek. Leer traditionele slijptechnieken, ontmoet ambachtsfamilies en stel uw eigen collectie Ceylon-schatten samen."
+      },
+      "tour6": {
+        "title": "Fotoreis door het hoogland",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Leg nevelige valleien, theeterrassen en watervallen vast met professionele fotografen. Shoots bij zonsopkomst, panoramatreinen en edit-workshops tillen uw beelden naar een hoger niveau."
+      },
+      "tour7": {
+        "title": "Homestay-explorertocht",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Leef als een local in zorgvuldig gekozen gastgezinnen. Kook mee, help bij dagelijkse taken en verken tempels, markten en natuurgebieden in een authentisch tempo."
+      },
+      "tour8": {
+        "title": "Huwelijksreis in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Kom tot rust na de bruiloft met privévilla's, diners aan zee, duo-spabehandelingen en maatwerkexcursies. Van verborgen stranden tot nevelige bergen: romantiek in elk detail."
+      },
+      "tour9": {
+        "title": "Solo-tour door Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Voor zelfstandige ontdekkers combineert deze reis begeleide activiteiten met vrije tijd. Veiligheidsbewuste gidsen, flexibele dagen en lokale connecties laten u het eiland op uw manier beleven."
+      },
+      "tour10": {
+        "title": "Sri Lanka & Malediven combinatie",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Combineer cultuur en natuur in Sri Lanka met turkooizen lagunes op de Malediven. Privétransfers, gecoördineerde vluchten en zorgvuldig gekozen uitstappen creëren balans tussen ontdekking en strandrust."
+      },
+      "tour11": {
+        "title": "Wellnessreis Sri Lanka",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Herstel balans met ayurvedische consults, mindful beweging en plantaardige cuisine. Wellnessretreats, helende rituelen en natuurmomenten verfrissen lichaam, geest en ziel."
+      },
+      "tour12": {
+        "title": "Theereis in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Dompel u onder in de Ceylon-thee-erfenis. Overnacht in planter-bungalows, bezoek estates met experts en proef zeldzame single-estate thee van blad tot kop."
+      },
+      "tour13": {
+        "title": "Wildlife-fotoreis",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Ga mee met gespecialiseerde natuurgidsen op ochtend- en avondsafari om luipaarden, olifanten en vogels vast te leggen. Workshops over tracking, compositie en ethiek verfijnen elke opname."
+      },
+      "tour14": {
+        "title": "Veddah-dorpsreis",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Maak kennis met de inheemse Veddah-gemeenschap via respectvolle uitwisselingen. Leer traditionele technieken, boskennis en rituelen en steun de bescherming van dit levend erfgoed."
+      },
+      "tour15": {
+        "title": "Culturele fotoreis",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Documenteer festivals, ambachtslieden en erfgoedlocaties met exclusieve toegang. Begeleide shoots, vergunningen en culturele briefings zorgen voor tijdloze, verhalende beelden."
+      },
+      "tour16": {
+        "title": "Culinaire tour Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Proef Sri Lanka via kookworkshops, specerijentuin-bezoeken en streetfood-safaris. Kook met chefs en gezinnen en leer regionale klassiekers en geheime recepten."
+      },
+      "tour17": {
+        "title": "Geoffrey Bawa architectuurreis",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Vier de visionaire architect Geoffrey Bawa met privérondleidingen door zijn iconische creaties – van tropisch modernistische villa's tot weelderige tuinen. Architectuurhistorici belichten het genie achter elk ontwerp."
+      }
+    }
+  },
+  "northEastCoast": {
+    "title": "Noord- & Oostkust Tours",
+    "subtitle": "Verken de ongerepte stranden en ongerepte schoonheid van Sri Lanka's Noord- & Oostkust",
+    "introTitle": "Ontdek Sri Lanka's Verborgen Kustjuwelen",
+    "introDescription1": "Venture off the beaten path om de adembenemende Noord- en Oostkustregio's van Sri Lanka te verkennen. Deze gebieden bieden ongerepte stranden, kristalhelder water, levendige koraalriffen en een uniek cultureel tapijt dat ze onderscheidt van de meer toeristische zuidkust. Ervaar authentiek kustleven, watersporten en de warme gastvrijheid van de lokale gemeenschappen.",
+    "introDescription2": "Van de historische stad Jaffna tot het surfparadijs Arugam Bay, van de rustige stranden van Trincomalee tot de serene kusten van Passikudah, onze Noord- & Oostkust tours tonen regio's die hun natuurlijke schoonheid en culturele authenticiteit hebben behouden, en bieden reizigers een onvergetelijk kustavontuur.",
+    "toursTitle": "Uitgelichte Noord- & Oostkust Tours",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "Noordwest-, Oost- & Centraal Tour in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "De Noordwest-, Oost- en Centraal Tour in Sri Lanka combineert het beste van wildlife, geschiedenis en cultuur met focus op het minder bereisde Noordwesten. Ontdek oude steden, kustescapades en natuurreservaten op deze uitgebreide reis."
+      },
+      "tour2": {
+        "title": "Onaangeroerd Noord-Oost Tour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Deze veertien-daagse aanbevolen Onaangeroerd Noord-Oost route is uw definitieve gids voor Sri Lanka's noordoosten, met afgelegen culturele sites, verborgen stranden en authentieke lokale ervaringen weg van het gebruikelijke toeristische pad."
+      }
+    }
+  },
+  "popularTours": {
+    "title": "Populaire Tours",
+    "subtitle": "Ontdek de meest geliefde en aanbevolen reiservaringen van Sri Lanka",
+    "introTitle": "Beleef het beste van Sri Lanka",
+    "introDescription1": "Onze collectie Populaire Tours bundelt de meest gevraagde reisroutes die duizenden reizigers hebben betoverd. Deze zorgvuldig samengestelde ervaringen laten het allerbeste van Sri Lanka zien, met iconische bezienswaardigheden, indrukwekkende natuur, rijk cultureel erfgoed en onvergetelijke avonturen die wereldwijd lovende recensies kregen.",
+    "introDescription2": "Van het betoverende culturele driehoek en de nevelige hooglanden tot ongerepte stranden en spannende safaritochten: onze populaire tours bieden perfect gebalanceerde reisschema's die de essentie van Sri Lanka vangen. Deze bewezen routes leveren uitzonderlijke waarde en blijvende herinneringen voor zowel nieuwe bezoekers als terugkerende reizigers.",
+    "toursTitle": "Meest populaire rondreizen in Sri Lanka",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Tour niet gevonden",
+    "tourNotFoundDescription": "De tour die u zoekt bestaat niet.",
+    "backToTours": "Terug naar tours",
+    "tours": {
+      "tour1": {
+        "title": "De wildernis in met rustieke retreats",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Ontdek de ongetemde kant van Sri Lanka tijdens een zorgvuldig samengestelde reis langs nationale parken, afgelegen dorpen en rustieke eco-retreats. Deze exclusieve route combineert intieme wildlife-ontmoetingen, panoramische ritten en buiten-de-gebaande-paden-ervaringen zonder in te leveren op comfort."
+      },
+      "tour2": {
+        "title": "Op jacht naar luipaarden in Sri Lanka",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Volg de schuwe luipaarden van Sri Lanka in Yala, Wilpattu, Kumana en Horton Plains, met boutique verblijven en begeleide safari's. Culturele stops, uitzichtpunten en lokale gastronomie maken deze onvergetelijke wildlife-queeste compleet."
+      },
+      "tour3": {
+        "title": "Klassieke rondreis Sri Lanka",
+        "duration": "8 Nachten – 9 Dagen",
+        "description": "Beleef de hoogtepunten van Sri Lanka met een klassieke route die erfgoedsteden, koele theelanden, dierenrijke vlaktes en zonovergoten stranden in balans brengt. Perfect voor eerste bezoekers."
+      },
+      "tour4": {
+        "title": "Ontdek Kandy, Nuwara Eliya en Bentota in Sri Lanka",
+        "duration": "5 Nachten – 6 Dagen",
+        "description": "Combineer de culturele charme van Kandy, de frisse theepaden van Nuwara Eliya en de kustsfeer van Bentota in één naadloze getaway. Ideaal voor reizigers die variatie, panoramische ritten en iconische ervaringen zoeken in minder dan een week."
+      },
+      "tour5": {
+        "title": "Familiereis door Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Deze reis is ontworpen voor nieuwsgierige gezinnen en brengt cultuur, zachte avonturen en rustmomenten in evenwicht. Geniet samen van wildlife-ontmoetingen, interactieve activiteiten en kindvriendelijke resorts."
+      },
+      "tour6": {
+        "title": "Fotoreis door het bergland van Sri Lanka",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Leg het bergland van Sri Lanka vast met zonsopgangpanorama's, nevelige plantages, watervallen en charmante bergstadjes. Begeleide sessies en tips van experts helpen fotografen van elk niveau aan het perfecte shot."
+      },
+      "tour7": {
+        "title": "Last-minute rondreis Sri Lanka",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Spontaan op reis gaan was nog nooit zo makkelijk. Ons team regelt de beste beschikbare accommodaties, plant de hoogtepunten en creëert een flexibel schema dat toch alle must-sees van Sri Lanka omvat."
+      },
+      "tour8": {
+        "title": "Ramayana-tour",
+        "duration": "6 Nachten – 7 Dagen",
+        "description": "Volg het legendarische Ramayana-pad door Sri Lanka met bezoeken aan heilige tempels, verborgen grotten en culturele landmarks. Gepassioneerde gidsen brengen het epos tot leven terwijl jij geniet van comfortabele verblijven en meeslepende verhalen."
+      },
+      "tour9": {
+        "title": "Ontspan en kom tot rust in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Schakel een versnelling terug en laad op met een herstellende reis die boutique hotels, ayurvedische behandelingen, afgelegen stranden en schilderachtige retreats combineert. Ideaal voor wie ontspanning met lichte verkenning wil combineren."
+      },
+      "tour10": {
+        "title": "Shoppingtour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Dompel je onder in de bruisende shopsfeer van Sri Lanka – van handgemaakte juwelen en batik tot thee, specerijen en designboetieks. Experts selecteren de beste markten, ateliers en galerieën en houden ruimte voor sightseeing."
+      },
+      "tour11": {
+        "title": "Korte break in Sri Lanka",
+        "duration": "2 Nachten – 3 Dagen",
+        "description": "Haal alles uit een korte ontsnapping met een zorgvuldig samengesteld programma dat een iconische culturele ervaring, een vleugje natuur en volop ontspanning in slechts drie onvergetelijke dagen bundelt."
+      },
+      "tour12": {
+        "title": "Korte break in Sri Lanka 1",
+        "duration": "3 Nachten – 4 Dagen",
+        "description": "Perfect als verlenging of lang weekend: deze korte break combineert kustontspanning met een snufje avontuur zodat elke dag moeiteloos gevuld is."
+      },
+      "tour13": {
+        "title": "Korte break in Sri Lanka 2",
+        "duration": "3 Nachten – 4 Dagen",
+        "description": "Een compact reisschema voor prijsbewuste reizigers met highlight-excursies, uitgekozen culinaire stops en comfortabele verblijven die de warme gastvrijheid van Sri Lanka tonen."
+      },
+      "tour14": {
+        "title": "Solo-rondreis Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Speciaal voor soloreizigers: deze tour focust op veiligheid, flexibiliteit en meeslepende ervaringen. Ontmoet lokale experts, sluit je aan bij kleinschalige avonturen en logeer in accommodaties die independent explorers waarderen."
+      },
+      "tour15": {
+        "title": "Sri Lanka & Malediven combinatiereis",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Ervaar het beste van twee eilandparadijzen. Ontdek de culturele hoogtepunten en weelderige landschappen van Sri Lanka en sluit af op de ongerepte stranden van de Malediven in een water- of strandvilla."
+      },
+      "tour16": {
+        "title": "Sri Lanka reisplan 7 dagen",
+        "duration": "6 Nachten – 7 Dagen",
+        "description": "Ideaal als je weinig tijd hebt: in één week zie je de belangrijkste culturele sites, het bergland, de wildlife en je eindigt met ontspanning aan zee."
+      },
+      "tour17": {
+        "title": "Sri Lanka reisplan 14 dagen",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Breng twee weken door in Sri Lanka's diverse landschappen – van oude koninkrijken en mistige theeroutes tot nationale parken en kustretreats – in een zorgvuldig getimed tempo."
+      },
+      "tour18": {
+        "title": "Sri Lanka reisplan 21 dagen",
+        "duration": "20 Nachten – 21 Dagen",
+        "description": "Een volledige expeditie van drie weken die elke hoek van Sri Lanka beslaat. Duik diep in cultuur, keuken, natuur, avontuur en strandontspanning met genoeg tijd in elke regio."
+      },
+      "tour19": {
+        "title": "Wildlife-tour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Ontmoet olifanten, luipaarden, lippenberen, walvissen en een kleurrijke vogelschat in Sri Lanka's top nationale parken en mariene gebieden. Ervaren natuurgidsen begeleiden elke safari."
+      },
+      "tour20": {
+        "title": "Strandtour in Sri Lanka",
+        "duration": "Aanpasbaar: 7 tot 21 dagen",
+        "description": "Stel je ideale strandvakantie samen met modulaire verblijven aan de oost-, west- en zuidkust. Combineer strandresorts, watersport, walvisobservatie en zorgeloze zonnige dagen."
+      },
+      "tour21": {
+        "title": "Gevleugelde paden van Ceylon",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Een paradijs voor vogelliefhebbers: deze tour doorkruist bossen, wetlands en hooglanden om endemische en trekvogels te spotten samen met gespecialiseerde ornithologen."
+      },
+      "tour22": {
+        "title": "Luxe rondreis Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Geniet van Sri Lanka's meest luxueuze kant met geselecteerde accommodaties, curated ervaringen, privétransfers, gastronomische maaltijden en maatwerkexcursies."
+      },
+      "tour23": {
+        "title": "Rondreizen Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Ontdek het eiland met een gebalanceerde rondreis die het culturele driehoek, het bergland, natuurreservaten en strandretreats omvat – voor een compleet beeld van Sri Lanka."
+      },
+      "tour24": {
+        "title": "UNESCO-werelderfgoedtour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Vink alle acht UNESCO-werelderfgoedsites van Sri Lanka af met deskundige gidsen, exclusieve toegang en meeslepende verhalen die eeuwen geschiedenis tot leven brengen."
+      },
+      "tour25": {
+        "title": "Echo's van de wildernis in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Combineer avontuur en rust met een natuurgericht schema vol jeepsafari's, gespecialiseerde lodges, riviercruises en wellnessmomenten midden in de wildernis."
+      },
+      "tour26": {
+        "title": "04 dagen-tour Kandy – Nuwara Eliya – Colombo",
+        "duration": "3 Nachten – 4 Dagen",
+        "description": "Haal het maximale uit een kort verblijf met een route die de spirituele plekken van Kandy, de theeglans van Nuwara Eliya en de stadsenergie van Colombo verbindt – inclusief begeleide highlights."
+      },
+      "tour27": {
+        "title": "Verrijk je vakantie met lokale ervaringen",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Verrijk je vakantie met authentieke lokale ervaringen via hands-on workshops, communitybezoeken, kooklessen en immersieve verblijven die het eilandleven vieren."
+      },
+      "tour28": {
+        "title": "Gemtour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Volg Sri Lanka's legendarische edelsteenroute met mijnbezoeken, ambachtelijke ateliers en sessies over Ceylon-saffieren, gecombineerd met panoramische ritten en culturele stops."
+      }
+    }
+  },
+
+  "cms": {
+    "destinations": {
+      "Hill Country": "Heuvelland",
+      "Coastal Paradise": "Kustparadijs",
+      "Wildlife Safari": "Safari",
+      "Cultural Triangle": "Culturele Driehoek"
+    },
+    "itineraries": {
+      "Adventure & Nature based Tours": "Avontuur en natuur tours",
+      "Culture & Heritage Tours": "Cultuur en erfgoed tours",
+      "Family Tours": "Familie tours",
+      "Luxury Bespoke Tours": "Luxe maatwerk tours",
+      "North & East Coast Tours": "Noord- en oostkust tours",
+      "Popular Tours": "Populaire tours",
+      "Purpose Built Tours": "Doelgerichte tours",
+      "Romantic Tours": "Romantische tours",
+      "Special Transit Tours": "Speciale transit tours",
+      "Sports Based Tours": "Sportgebaseerde tours",
+      "Sustainable Tours": "Duurzame tours",
+      "Wellness Tours": "Wellness tours",
+      "Wildlife Tours": "Wildlife tours",
+      "introDescription1": "Ontdek onze gevarieerde selectie van zorgvuldig samengestelde reisroutes die het beste van Sri Lanka laten zien. Van avontuur- en natuurervaringen tot cultureel erfgoed en luxe maatwerk tours, we hebben iets voor elke reiziger.",
+      "introDescription2": "Elke reisroute is doordacht ontworpen door ons expertteam om u onvergetelijke ervaringen en authentieke ontmoetingen te bieden met de Sri Lankaanse cultuur, natuur en gastvrijheid."
+    },
+    "dayTours": {
+      "introDescription1": "Welkom op het prachtige smaragdgroene eiland dat Sri Lanka heet! Laat ons u begroeten met een groet van \"Ayubowan\" wat betekent \"Moge u lang en gezond leven\" en bieden u een spannende reeks tours om te genieten en uw vakantie tot een genot te maken!",
+      "introDescription2": "Tours die u meenemen van de commerciële hoofdstad Colombo naar de verrassend groene Heuvels; naar de bezienswaardigheden en geluiden van de bruisende steden van het diepe Zuiden; naar de oude steden in de Culturele gordel en naar de noordelijke kustgebieden waar het rijke culturele erfgoed van ons eiland wordt gevierd in het dagelijks leven.",
+      "introDescription3": "Kom en bekijk de verscheidenheid aan beschikbare tours en wij bij Blue Lanka Tours helpen u graag verder!"
+    },
+    "accommodation": {
+      "title": "Accommodatie in Sri Lanka",
+      "introDescription1": "Ontdek ongeëvenaard comfort en elegantie met Ceyara Tours' zorgvuldig samengestelde selectie accommodaties in Sri Lanka. Ons premium reisbureau zorgt ervoor dat uw verblijf een naadloze mix is van luxe en authenticiteit. Van idyllische strandresorts tot charmante boutique schuilplaatsen, elke accommodatie is zorgvuldig gekozen om de unieke charme van de omgeving weer te geven. Ervaar het toppunt van gastvrijheid terwijl u ontspant in handgeplukte logies die de schoonheid van uw Sri Lankaanse verblijf versterken. Laat Ceyara Tours uw reiservaring verhogen met accommodaties die resoneren met de ziel van dit boeiende eilandland.",
+      "introDescription2": "Ervaar de perfecte fusie van luxe en lokale charme met Ceyara Tours' handgeplukte accommodaties in heel Sri Lanka. Elk verblijf is doordacht geselecteerd om u comfort, sereniteit en een authentiek gevoel van plaats te bieden. Of u nu de rustgevende geluiden van oceaangolven, de koele mist van heuvelachtige retraites, of de culturele warmte van erfgoedstijl villa's verkiest, onze collectie zorgt voor een onvergetelijke ervaring. Geniet van wereldklasse gastvrijheid, unieke omgevingen en verfijnde details die de rijke schoonheid van Sri Lanka weerspiegelen. Met Ceyara Tours wordt elk moment van uw verblijf een gekoesterd deel van uw reis.",
+      "loading": "Accommodaties laden...",
+      "errorLoading": "Fout bij het laden van accommodaties",
+      "noAccommodations": "Er zijn momenteel geen accommodaties beschikbaar.",
+      "notFound": "Accommodatie niet gevonden",
+      "notFoundDescription": "De accommodatie die u zoekt bestaat niet.",
+      "backToAccommodations": "Terug naar accommodaties",
+      "roomsAndSuites": "Kamers en suites",
+      "noOfRestaurants": "Aantal restaurants",
+      "locatedIn": "Gelegen in",
+      "managedBy": "Beheerd door",
+      "exploreMore": "MEER ONTDEKKEN",
+      "planATourForMe": "PLAN EEN TOUR VOOR MIJ",
+      "mostPopularFacilities": "Meest populaire faciliteiten",
+      "roomTypes": "Kamertypen",
+      "roomSize": "Kamergrootte",
+      "room": "Kamer",
+      "rooms": "Kamers",
+      "restaurant": "Restaurant",
+      "restaurants": "Restaurants"
+    },
+    "discover": {
+      "title": "Ontdek Sri Lanka",
+      "description": "Verken de betoverende schoonheid, rijke cultuur en onvergetelijke ervaringen die Sri Lanka een werkelijk magische bestemming maken.",
+      "loading": "Laden...",
+      "errorLoading": "Fout bij het laden van gegevens",
+      "exploreMore": "MEER ONTDEKKEN",
+      "tailorMakeTour": "TOUR OP MAAT MAKEN",
+      "topAttractions": "Top attracties",
+      "destinations": {
+        "title": "Bestemmingen",
+        "description": "Ontdek de diverse en boeiende bestemmingen in heel Sri Lanka, elk met unieke ervaringen en adembenemende schoonheid.",
+        "pageDescription": "Ontdek de diverse en boeiende bestemmingen in heel Sri Lanka, elk met unieke ervaringen en adembenemende schoonheid.",
+        "loading": "Bestemmingen laden...",
+        "errorLoading": "Fout bij het laden van bestemmingen",
+        "noItems": "Geen bestemmingen beschikbaar.",
+        "notFound": "Bestemming niet gevonden",
+        "notFoundDescription": "De bestemming die u zoekt bestaat niet.",
+        "backToDestinations": "Terug naar bestemmingen",
+        "discoverAll": "Ontdek alle bestemmingen"
+      },
+      "experiences": {
+        "title": "Ervaringen",
+        "description": "Dompel uzelf onder in authentieke Sri Lankaanse ervaringen die blijvende herinneringen creëren en uw band met dit prachtige eiland verdiepen.",
+        "pageDescription": "Dompel uzelf onder in authentieke Sri Lankaanse ervaringen die blijvende herinneringen creëren en uw band met dit prachtige eiland verdiepen.",
+        "loading": "Ervaringen laden...",
+        "errorLoading": "Fout bij het laden van ervaringen",
+        "noItems": "Geen ervaringen beschikbaar.",
+        "notFound": "Ervaring niet gevonden",
+        "notFoundDescription": "De ervaring die u zoekt bestaat niet.",
+        "backToExperiences": "Terug naar ervaringen",
+        "discoverAll": "Ontdek alle ervaringen",
+        "whereYouCanExperience": "Waar u kunt ervaren"
+      }
+    },
+    "menu": {
+      "Destinations": "Bestemmingen",
+      "Experiences": "Ervaringen",
+      "About": "Over ons",
+      "Our Team": "Ons team"
+    }
+  },
+  "itineraryTours": {
+    "sayYesInSerendipity": {
+      "title": "Zeg Ja op het Eiland van Serendipiteit",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze romantische route biedt stellen onvergetelijke huwelijksaanzoek- en trouwerijervaringen op de meest schilderachtige locaties van Sri Lanka, van strandceremonies tot retraites in het heuvelland en culturele vieringen."
+    },
+    "purifyAndDiscover": {
+      "title": "Zuiver en Ontdek Jezelf",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Deze wellnessroute biedt transformerende spirituele reizen door oude Ayurveda-behandelingen, meditatieretraites en yogasessies te midden van de serene natuurlijke landschappen en heilige plaatsen van Sri Lanka."
+    },
+    "landAndSea": {
+      "title": "Sri Lanka Land en Zee",
+      "duration": "10 Nachten – 11 Dagen",
+      "description": "Deze uitgebreide route combineert culturele verkenning van oude steden met strandontspanning en biedt diverse ervaringen van wildlifesafari's tot kustactiviteiten in de gevarieerde landschappen van Sri Lanka."
+    },
+    "intoTheWild": {
+      "title": "De Natuur In met Rustieke Retraites",
+      "duration": "8 Nachten – 9 Dagen",
+      "description": "Deze avontuurlijke route biedt meeslepende wildlevenervaringen en milieuvriendelijke verblijven in nationale parken, met authentieke ontmoetingen met de diverse flora en fauna van Sri Lanka in hun natuurlijke habitats."
+    },
+    "healthyHoliday": {
+      "title": "Gezonde Vakantie met Anasa Wellness Resort",
+      "duration": "5 Nachten – 6 Dagen",
+      "description": "Deze wellnessgerichte route biedt verjongende ervaringen inclusief yoga, meditatie en holistische behandelingen bij Anasa Wellness Resort te midden van de rustige bergomgeving en natuurlijke schoonheid van Ella."
+    },
+    "leopardsTrails": {
+      "title": "Tour op Luipaardpaden in Sri Lanka",
+      "duration": "6 Nachten – 7 Dagen",
+      "description": "Deze wildlevenroute biedt gespecialiseerde luipaardvolgerervaringen in de nationale parken Yala en Wilpattu, met uitzonderlijke mogelijkheden om de iconische grote katten van Sri Lanka in hun natuurlijke habitat te observeren."
+    },
+    "authenticHospitality": {
+      "title": "Breng Uw Vakantie Door in de Huizen van Authentieke Sri Lankaanse Gastvrijheid",
+      "duration": "9 Nachten – 10 Dagen",
+      "description": "Deze culturele onderdompelingsroute biedt authentieke homestay-ervaringen bij lokale families, met echte inzichten in Sri Lankaanse tradities, keuken en warme gastvrijheid in verschillende regio's."
+    },
+    "tourWithBaby": {
+      "title": "Sri Lanka Tour met een Baby",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze gezinsvriendelijke route biedt comfortabele, babyveilige reiservaringen met kindvriendelijke accommodaties en zachte activiteiten geschikt voor gezinnen die reizen met baby's en jonge kinderen door heel Sri Lanka."
+    },
+    "w15Collection": {
+      "title": "Ervaar Ware Elegantie en Luxe met W15 Collectie",
+      "duration": "4 Nachten – 5 Dagen",
+      "description": "Deze luxe route biedt exclusieve verblijven bij W15-eigendommen, met premium ervaringen met verfijnde accommodaties, gepersonaliseerde diensten en toegang tot unieke attracties in zorgvuldig geselecteerde bestemmingen."
+    },
+    "amayaRetreats": {
+      "title": "Herontdek Luxe met Amaya Retreats",
+      "duration": "11 Nachten – 12 Dagen",
+      "description": "Amaya Hotels and Resorts toont een prachtige collectie eigendommen verspreid over verschillende maar belangrijke regio's van het land en met deze route laten we u zes van de belangrijkste eigendommen verkennen."
+    },
+    "offRoadAdventure": {
+      "title": "Off Road Avonturentour in Sri Lanka",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Begin aan een robuuste 15-daagse expeditie door de wildste terreinen van Sri Lanka, ontworpen voor avonturiers en natuurliefhebbers."
+    },
+    "cinnamonFlagship": {
+      "title": "Geef Uw Vakantie Lokale Sfeer bij het Vlaggenschip van Cinnamon",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Deze 14-daagse meeslepende reis toont het beste van het erfgoed, wildleven en kustlijn van Sri Lanka, waarbij comfort, cultuur en avontuur worden gecombineerd."
+    },
+    "cricketTour": {
+      "title": "Sri Lanka vs Australië 2025 – Cricket Tour",
+      "duration": "18 Nachten – 19 Dagen",
+      "description": "Woon de opwinding bij van de Sri Lanka vs Australië 2025 Testserie terwijl u de meest iconische attracties van Sri Lanka verkent."
+    },
+    "classicTour": {
+      "title": "Klassieke Tour in Sri Lanka",
+      "duration": "8 Nachten – 9 Dagen",
+      "description": "Onze exclusieve klassieke tourroute biedt toegang tot een geweldige reisherinnering op dit kleine eiland Sri Lanka gemengd met een overweldigende dosis geschiedenis…"
+    },
+    "exploreKandyNuwaraBentota": {
+      "title": "Verken Kandy, Nuwara Eliya en Bentota in Sri Lanka",
+      "duration": "5 Nachten – 6 Dagen",
+      "description": "Sri Lanka is snel een van de populairste toeristische bestemmingen van Azië. Deze natie is rijk aan oude historische sites, prachtige stranden en adembenemende natuurlijke schoonheid."
+    },
+    "featheredTrails": {
+      "title": "Gevederde Paden van Ceylon",
+      "duration": "8 Nachten – 9 Dagen",
+      "description": "Deze gespecialiseerde vogelkijkroute biedt uitzonderlijke vogelervaringen in diverse habitats, met mogelijkheden om de endemische en migrerende vogelsoorten van Sri Lanka te observeren op prime locaties over het hele eiland."
+    },
+    "echoesOfWild": {
+      "title": "Echo's van de Natuur in Sri Lanka",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze wildlevenavontuurroute biedt meeslepende safari-ervaringen in meerdere nationale parken, met ontmoetingen met olifanten, luipaarden en diverse fauna in de beschermde wildernisgebieden van Sri Lanka."
+    },
+    "unforgettableAdventuresSLMaldives": {
+      "title": "Onvergetelijke Avonturen in Sri Lanka en Maldiven",
+      "duration": "10 Nachten – 11 Dagen",
+      "description": "Deze dubbele bestemmingsroute combineert de culturele en wildlevenervaringen van Sri Lanka met luxe eilandresorts van de Maldiven, met diverse avonturen van oude ruïnes tot overwatervilla's en maritieme activiteiten."
+    },
+    "twinCenterSLMaldives": {
+      "title": "Twin Center Sri Lanka Maldiven Tour",
+      "duration": "9 Nachten – 10 Dagen",
+      "description": "Deze gecombineerde route biedt culturele verkenning in de erfgoedsites van Sri Lanka gevolgd door strandontspanning in luxe resorts van de Maldiven, met diverse ervaringen van oude wonderen tot tropisch paradijs."
+    },
+    "divingMaldivesExplorer": {
+      "title": "Opwindende Duikervaring met Maldives Explorer",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze duikgerichte route biedt uitzonderlijke onderwateravonturen op de belangrijkste duiklocaties van de Maldiven, waarbij levendige koraalriffen, diverse zeeleven en spectaculaire onderwaterlandschappen worden verkend met professionele begeleiding."
+    },
+    "teenAdventureSLMaldives": {
+      "title": "Tiener Avonturentour in Sri Lanka en Maldiven",
+      "duration": "11 Nachten – 12 Dagen",
+      "description": "Deze actievolle route biedt spannende activiteiten voor tieners inclusief watersporten, wildlifesafari's en culturele avonturen door zowel de diverse landschappen van Sri Lanka als de adembenemende maritieme omgeving van de Maldiven."
+    },
+    "familyHolidaySLMaldives": {
+      "title": "Gezinsvakantie in Sri Lanka en Maldiven",
+      "duration": "12 Nachten – 13 Dagen",
+      "description": "Deze uitgebreide gezinsroute biedt kindvriendelijke activiteiten, culturele ervaringen en strandontspanning in beide bestemmingen, met memorabele avonturen geschikt voor alle leeftijden van wildleven tot watersporten."
+    },
+    "waterSportsSLMaldives": {
+      "title": "Sri Lanka Maldiven Watersporten Tour",
+      "duration": "10 Nachten – 11 Dagen",
+      "description": "Deze aquatische avontuurroute biedt uitgebreide watersportactiviteiten in beide bestemmingen, van surfen en walvisobservatie in Sri Lanka tot duiken, snorkelen en luxe maritieme ervaringen in de Maldiven."
+    },
+    "honeymoonSLMaldives": {
+      "title": "Sri Lanka Maldiven Honeymoon Tour",
+      "duration": "12 Nachten – 13 Dagen",
+      "description": "Deze romantische route biedt stellen luxueuze ervaringen inclusief privédiners, spa-behandelingen en exclusieve accommodaties bij de culturele sites van Sri Lanka en de overwatervilla's en ongerepte stranden van de Maldiven."
+    },
+    "adultFriendlySLMaldives": {
+      "title": "Sri Lanka Maldiven Tour met Volwassenenvriendelijke Hotels",
+      "duration": "11 Nachten – 12 Dagen",
+      "description": "Deze alleen-voor-volwassenen route biedt verfijnde accommodaties en rustige ervaringen op maat voor stellen en volwassen reizigers, met exclusieve resorts, fijne dining en ontspanningsgerichte activiteiten in beide bestemmingen."
+    },
+    "bestOfBothWorlds": {
+      "title": "Het Beste van Beide Werelden Sri Lanka en Maldiven",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Deze uitgebreide dubbele bestemmingsroute combineert het culturele erfgoed en wildlevenervaringen van Sri Lanka met het luxe eilandparadijs van de Maldiven, met diverse avonturen van oude ruïnes tot overwaterbungalows."
+    },
+    "babyMooningSLMaldives": {
+      "title": "Baby Mooning in Sri Lanka en Maldiven",
+      "duration": "10 Nachten – 11 Dagen",
+      "description": "Deze prenatale vakantieroute biedt ontspannende en veilige ervaringen voor aanstaande ouders, met zachte activiteiten, spa-behandelingen en comfortabele accommodaties op maat voor zwangerschap in beide bestemmingen."
+    },
+    "privateIslandHoliday": {
+      "title": "08 Dagen Privé Eiland Vakantie in Maldiven",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze exclusieve route biedt volledige privacy en luxe op een privé Maldivisch eiland, met gepersonaliseerde diensten, ongerepte stranden en op maat gemaakte ervaringen in een intieme tropische paradijsomgeving."
+    },
+    "romanceBeachHurawalhi": {
+      "title": "Romantiek op het Strand Hurawalhi Island Resort",
+      "duration": "6 Nachten – 7 Dagen",
+      "description": "Deze intieme Maldiven route biedt stellen exclusieve romantische ervaringen bij Hurawalhi Island Resort, met privédiners, overwatervilla's en 's werelds grootste onderwaterrestaurant voor dineren."
+    },
+    "nightlyEntertainmentKurumba": {
+      "title": "08 Dagen Nachtelijk Entertainment bij Kurumba Maldiven",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze levendige Maldiven route biedt dagelijks entertainment en activiteiten bij Kurumba Resort, met livemuziek, culturele optredens, thema-avonden en diverse recreatieve opties naast luxe strandaccommodatie."
+    },
+    "luxuryFamilyWaldorf": {
+      "title": "08 Dagen Luxe Gezinsvakantie bij Waldorf Astoria Maldiven",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze premium gezinsroute biedt exclusieve ervaringen bij Waldorf Astoria Maldiven, met gezinsvilla's, kindclubs, watersporten en gepersonaliseerde diensten in een luxueuze tropische eilandomgeving."
+    },
+    "luxuryEscapeSoneva": {
+      "title": "08 Dagen Luxe Ontsnapping naar Soneva Fushi",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze exclusieve Maldiven route biedt blotevoetenluxe bij Soneva Fushi, met ruime villa's, privézwembaden, astronomisch observatorium en milieuvriendelijke luxe ervaringen in de ongerepte Baa Atol UNESCO Biosfeer."
+    },
+    "honeymoonUniqueMaldives": {
+      "title": "08 Dagen Honeymoon in een Uniek Maldiven Resort",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze romantische Maldiven route biedt stellen exclusieve honeymoon-ervaringen bij een onderscheidend resort, met privé overwatervilla's, gepersonaliseerde diensten en unieke romantische activiteiten in een intieme setting."
+    },
+    "allInclusiveMaldives": {
+      "title": "07 Dagen All-Inclusive Vakantie in Maldiven",
+      "duration": "6 Nachten – 7 Dagen",
+      "description": "Dit uitgebreide Maldiven pakket biedt volledige all-inclusive luxe bij een premium resort, met onbeperkt dineren, drankjes, watersporten en spa-behandelingen in een ongerept tropisch eilandparadijs."
+    },
+    "familyEscapeMaldives": {
+      "title": "07 Dagen Gezinsontsnapping naar Maldiven",
+      "duration": "6 Nachten – 7 Dagen",
+      "description": "Deze gezinsvriendelijke Maldiven route biedt kindgerichte activiteiten en accommodaties bij een gezinsresort, met kindclubs, watersporten en veilige strandervaringen voor alle leeftijden in het paradijs."
+    },
+    "exploreNorthMale": {
+      "title": "07 Dagen Verken Noord Malé",
+      "duration": "6 Nachten – 7 Dagen",
+      "description": "Deze Maldiven route biedt verkenning van de diverse eilanden van het Noord Malé Atol, met lokale cultuur, wateractiviteiten en resortervaringen terwijl u geniet van handige toegang vanaf de internationale luchthaven."
+    },
+    "luxuryKudadoo": {
+      "title": "06 Dagen Luxe Ontsnapping naar Kudadoo Maldiven Privé Eiland",
+      "duration": "5 Nachten – 6 Dagen",
+      "description": "Deze exclusieve Maldiven route biedt ultieme privacy en all-inclusive luxe bij Kudadoo Private Island, met overwaterresidenties, gepersonaliseerde butler service en onbeperkte ervaringen in een intieme setting."
+    },
+    "bespokeMaldives": {
+      "title": "06 Dagen Op Maat Gemaakte Ervaring in Maldiven",
+      "duration": "5 Nachten – 6 Dagen",
+      "description": "Deze aangepaste Maldiven route biedt gepersonaliseerde luxe ervaringen op maat voor individuele voorkeuren, met privé-excursies, gastronomische dining en exclusieve activiteiten in een premium resortomgeving."
+    },
+    "hardRockMaldives": {
+      "title": "05 Dagen met Hard Rock Hotel Maldiven",
+      "duration": "4 Nachten – 5 Dagen",
+      "description": "Deze levendige Maldiven route biedt muziekthematische luxe bij Hard Rock Hotel, met rocksterfaciliteiten, live entertainment en energieke sfeer naast ongerepte stranden en wateractiviteiten."
+    },
+    "lastMinuteGatewayMaldives": {
+      "title": "05 Dagen Last Minute Toegangspoort naar Maldiven",
+      "duration": "4 Nachten – 5 Dagen",
+      "description": "Deze spontane Maldiven ontsnapping biedt snelle tropische ontspanning met handige resortopties nabij Malé, met directe toegang tot het paradijs, wateractiviteiten en strandontspanning zonder uitgebreide planning."
+    },
+    "dreamEscapeMaldives": {
+      "title": "05 Dagen Droomontsnapping naar Maldiven",
+      "duration": "4 Nachten – 5 Dagen",
+      "description": "Deze ideale Maldiven ontsnapping biedt paradijselijke ervaringen bij uitstek met overwatervilla's, kristalheldere lagunes, snorkelen met zeeleven en romantische zonsondergangmomenten in een luxe resortomgeving."
+    },
+    "shortBreakMaldives": {
+      "title": "04 Dagen Korte Pauze in Maldiven",
+      "duration": "3 Nachten – 4 Dagen",
+      "description": "Deze compacte Maldiven ontsnapping biedt snelle tropische verjonging met handige resortverblijven nabij Malé, met snelle toegang tot stranden, snorkelen en ontspanning in een paradijselijke eilandomgeving."
+    },
+    "luxuryMiniBreakComo": {
+      "title": "04 Dagen Luxe Mini Pauze in COMO Cocoa Island",
+      "duration": "3 Nachten – 4 Dagen",
+      "description": "Deze exclusieve Maldiven retraite biedt verfijnde luxe bij COMO Cocoa Island, met overwatersuites, wellnessbehandelingen, gastronomische dining en toegang tot ongerepte lagune in een intieme privé eilandomgeving."
+    },
+    "wildlifePhotography": {
+      "title": "Wildleven Fotografietour in Sri Lanka",
+      "duration": "10 Nachten – 11 Dagen",
+      "description": "Deze gespecialiseerde fotografieroute biedt uitzonderlijke wildlevenobservatiemogelijkheden in de nationale parken van Sri Lanka, met professionele begeleiding voor het vastleggen van luipaarden, olifanten en diverse endemische soorten."
+    },
+    "exploreNorthwestEastCentral": {
+      "title": "Verken Noordwest Oost Centraal Tour in Sri Lanka",
+      "duration": "14 Nachten – 15 Dagen",
+      "description": "Deze uitgebreide Sri Lanka route biedt uitgebreide culturele en natuurlijke verkenning in meerdere regio's, met oude steden, wildlevenparken, heuvelland en kustervaringen over het hele eiland."
+    },
+    "familyTourSL": {
+      "title": "Gezinstour in Sri Lanka",
+      "duration": "11 Nachten – 12 Dagen",
+      "description": "Neem uw gezin mee op een spannende vakantie door te kiezen voor deze exclusief ontworpen gezinstour in Sri Lanka. Terwijl de jongeren en de fitte…"
+    },
+    "hillCountryPhotography": {
+      "title": "Heuvelland Fotografietour in Sri Lanka",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Deze heuvelland fotografietour in Sri Lanka geeft u precies dat! Door u naar uitzichtpunten in Kandy, Nuwara Eliya en Ella te brengen, krijgt u de kans om te vangen…"
+    },
+    "gemTour": {
+      "title": "Edelsteentour in Sri Lanka",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Sri Lanka is een van de grootste edelsteenproducenten ter wereld en staat al vele eeuwen bekend om zijn gespecialiseerde edelstenen…"
+    },
+    "lastMinuteTourSL": {
+      "title": "Last Minute Tour in Sri Lanka",
+      "duration": "7 Nachten – 8 Dagen",
+      "description": "Last Minute Tour in Sri Lanka is gewijd aan last-minute reizigers. Maak u geen zorgen over last-minute beslissingen, onze experts staan voor u klaar op elk moment…"
+    },
+    "ramayanaTour": {
+      "title": "Ramayana Tour",
+      "duration": "6 Nachten – 7 Dagen",
+      "description": "Veel generaties zijn gefascineerd geweest door het verhaal van Ramayana en als gevolg daarvan is er een significante impact geweest op kunst en cultuur in heel India en Zuidoost-Azië…"
+    },
+    "relaxAndUnwind": {
+      "title": "Ontspan en Laat Los in Sri Lanka",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Zoekt u een pauze van uw snelle routine? Ontsnap naar de parel van de Indische Oceaan voor een absolute ontspanning en loslaat tour in Sri Lanka."
+    },
+    "shoppingTour": {
+      "title": "Shoppingtour in Sri Lanka",
+      "duration": "14 Nachten – 15 Dagen",
+      "description": "Winkelen in Sri Lanka is een traktatie, zoals iedereen die deze prachtige eilandnatie heeft bezocht zal bevestigen. Er is veel om mee naar huis te nemen, van prachtig gecreëerde sieraden tot batiks…"
+    },
+    "shortBreakTourSL": {
+      "title": "Korte Pauze Tour in Sri Lanka",
+      "duration": "2 Nachten – 3 Dagen",
+      "description": "Zoekt u een korte en plezierige pauze in Sri Lanka? Zoek dan niet verder en omarm dit 3-daagse vakantiepakket dat we zorgvuldig hebben ontworpen om u het maximale voordeel te bieden…"
+    },
+    "shortBreakTourSL1": {
+      "title": "Korte Pauze Tour in Sri Lanka 1",
+      "duration": "3 Nachten – 4 Dagen",
+      "description": "Blue Lanka's Korte Pauze Avonturen zullen zeker alle vakjes aanvinken, of u nu op zoek bent naar de ultieme vakantietoevoeging of een klein avontuur. Ze zitten vol waarde…"
+    },
+    "shortBreakTourSL2": {
+      "title": "Korte Pauze Tour in Sri Lanka 2",
+      "duration": "3 Nachten – 4 Dagen",
+      "description": "Blue Lanka's Korte Pauze Avonturen zullen zeker alle vakjes aanvinken, of u nu op zoek bent naar de ultieme vakantietoevoeging of een klein avontuur…"
+    },
+    "soloTour": {
+      "title": "Solo Tour in Sri Lanka",
+      "duration": "14 Nachten – 15 Dagen",
+      "description": "Blue Lanka Tours is een van de toonaangevende luxe reisbedrijven die ook de niche van solo zwervers bedient, door extra zorg te besteden aan de veiligheid van vrouwelijke/mannelijke solo reizigers…"
+    },
+    "sriLankaMaldivesTour": {
+      "title": "Sri Lanka en Maldiven Tour",
+      "duration": "12 Nachten – 13 Dagen",
+      "description": "Grijp dit exclusieve aanbod van Sri Lanka en Maldiven Tour waar u de mogelijkheid heeft om de grote verscheidenheid aan toerisme van Sri Lanka te verkennen evenals de ongerepte stranden van de Maldiven…"
+    },
+    "sriLankaItinerary7Days": {
+      "title": "Sri Lanka Route 7 Dagen",
+      "duration": "6 Nachten – 7 Dagen",
+      "description": "Zoekt u een korte vakantie om te ontspannen, los te laten en ook te genieten van wat leuke activiteiten? Deze Sri Lanka route van 07 dagen is precies wat u nodig heeft…"
+    },
+    "sriLankaItinerary14Days": {
+      "title": "Sri Lanka Route 14 Dagen",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Als twee weken alles is wat u heeft, kunnen we er het beste van maken in Sri Lanka. Met een verscheidenheid aan landschappen – van de mooiste stranden tot panoramische heuvelland uitzichten tot wildlevenachtergronden…"
+    },
+    "sriLankaItinerary21Days": {
+      "title": "Sri Lanka Route 21 Dagen",
+      "duration": "20 Nachten – 21 Dagen",
+      "description": "Blue Lanka Tours heeft een uitgebreide Sri Lanka Route 21 Dagen ontworpen waar u de mogelijkheid krijgt om alle landschapsvariëteiten en tourattracties te ervaren die het land…"
+    },
+    "sriLankaLuxuryTour": {
+      "title": "Luxe Tour in Sri Lanka",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Blue Lanka Tours biedt luxe op zijn best in deze uniek ontworpen luxe tour van Sri Lanka. In deze route richten we ons op het bieden van eersteklas accommodatie en transport…"
+    },
+    "sriLankaRoundTours": {
+      "title": "Rondreizen in Sri Lanka",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Een rondreis door Sri Lanka zal de meerderheid van de populaire toeristische attracties dekken – van geschiedenis en cultuur tot uniek wildleven en adembenemende natuurlijke schoonheid…"
+    },
+    "unescoWorldHeritage": {
+      "title": "UNESCO Werelderfgoed Sites Tour in Sri Lanka",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "De Werelderfgoedlijst van UNESCO omvat acht unieke attracties in Sri Lanka die worden beschouwd als onderdeel van het werelderfgoed en moeten worden beschermd."
+    },
+    "wildlifeTourSL": {
+      "title": "Wildleventour in Sri Lanka",
+      "duration": "13 Nachten – 14 Dagen",
+      "description": "Het Departement voor Wildlevenbehoud heeft 22 Nationale Parken in Sri Lanka aangewezen, waardoor het een wereldwijd erkende hotspot is voor zijn biodiversiteit."
+    },
+    "beachTourSL": {
+      "title": "Strandtour in Sri Lanka",
+      "duration": "7 Dagen – 7 Dagen Oostkust – 7 Dagen Westkust – 7 Dagen Zuidkust – 14 Dagen",
+      "description": "Geef uzelf een mooie gouden zongebruinde kleur terwijl u ontspant op het zachte zand en kalme wateren van Sri Lanka."
+    },
+    "kandyNuwaraColombo": {
+      "title": "04 Dagen- Kandy- Nuwara-Eliya- Colombo Tour",
+      "duration": "3 Nachten – 4 Dagen",
+      "description": "Blue Lanka Tours' 04-daagse tourroute is ideaal voor een korte vakantie in Sri Lanka vanuit India, kan zelfs last-minute worden geboekt en komt met een reeks voordelen…"
+    }
+  },
+  "dayTours": {
+    "anuradhapuraDayTour": {
+      "title": "Anuradhapura dagtour",
+      "location": "Anuradhapura",
+      "description": "De oude stad Anuradhapura is een UNESCO Werelderfgoed vanwege zijn goed bewaard gebleven historische ruïnes die teruggaan tot de eeuwen…",
+      "introDescription": "Duik diep in de geschiedenis van Sri Lanka met een Anuradhapura dagtour. Verken de oude stad die meer dan 1.300 jaar als hoofdstad van Sri Lanka diende. Ontdek prachtige dagoba's, oude kloosters en de heilige Bodhi-boom, een van de oudste historisch gedocumenteerde bomen ter wereld.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Anuradhapura is een UNESCO Werelderfgoed erkend voor zijn goed bewaard gebleven historische ruïnes daterend uit de 4e eeuw v.Chr. tot de 11e eeuw n.Chr. Het diende als hoofdstad van Sri Lanka tijdens deze periode en was een belangrijk centrum van het Theravada-boeddhisme gedurende vele eeuwen. Bekend als een van de oudste bewoonde steden ter wereld, ligt Anuradhapura ongeveer 205 km ten noorden van Colombo, in de Noord-Centrale Provincie van Sri Lanka. De stad trekt miljoenen toeristen naar zijn oude ruïnes, met massieve dagoba's, vervallen tempels, gigantische bakstenen torens en archaïsche poelen. Huidige sites worden voornamelijk gebruikt als tempels en heilige plaatsen, wat respect van bezoekers vereist.",
+        "historicalProminenceTitle": "Historische prominentie van Anuradhapura",
+        "historicalPoints": {
+          "4thCenturyBC": "4e eeuw v.Chr.: Werd de hoofdstad van het oude Lanka tijdens het bewind van Koning Pandukhabaya.",
+          "3rdCenturyBC": "3e eeuw v.Chr. (Introductie van het boeddhisme): Het boeddhisme werd geïntroduceerd tijdens het bewind van Koning Devanampiyatissa.",
+          "kingTissaFirstStupa": "Eerste Stupa van Koning Tissa: Bouwde de eerste Stupa van het land om de relikwie van het rechter sleutelbeen van de Boeddha te huisvesten.",
+          "sacredBoSapling": "Heilige Bo-zaailing: Koning Tissa plantte ook de heilige Bo-zaailing, gebracht door Prinses Sangamitta (dochter van de Indiase keizer Asoka). Deze boom wordt beschouwd als de oudste levende boom ter wereld.",
+          "kingTissaIrrigation": "Irrigatie van Koning Tissa: Bouwde irrigatietanks en een kunstmatig meer (nog steeds in gebruik) voor binnenlandse landbouw.",
+          "end3rdCenturyBC": "Einde van de 3e eeuw v.Chr. (Koning Mahasena): Bouwde 16 irrigatietanks en de hoogste stupa, Jethavanaramaya.",
+          "2ndCenturyBC": "2e eeuw v.Chr. (Koning Dutugemunu): Veroverde de stad met succes terug van binnenvallende Indiase legers.",
+          "kingDutugemunuConstruction": "Bouwimpuls van Koning Dutugemunu: Zijn bewind zag massale bouw, inclusief de Ruwanweliseya Stupa, de Mirisavetiya Tempel en de Bronzen Tempel."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "jetavanaramaDagoba": {
+            "title": "Jetavanarama Dagoba",
+            "description": "Gebouwd in de 3e eeuw door Koning Mahasena, stond deze massieve stupa oorspronkelijk meer dan 100 meter hoog, wat het een van de hoogste structuren van zijn tijd maakte."
+          },
+          "isurumuniyaVihara": {
+            "title": "Isurumuniya Vihara",
+            "description": "Een rots tempel beroemd om zijn ingewikkelde houtsnijwerk, inclusief het beroemde \"Geliefden\" beeldhouwwerk, daterend uit de 3e eeuw v.Chr."
+          },
+          "thuparamaDagoba": {
+            "title": "Thuparama Dagoba",
+            "description": "Gebouwd in de 3e eeuw v.Chr. door Koning Devanampiya Tissa, het is de oudste dagoba in Sri Lanka en zou het rechter sleutelbeen van de Boeddha bevatten."
+          },
+          "kuttamPokuna": {
+            "title": "Kuttam Pokuna",
+            "description": "Deze tweeling badvijvers, gebouwd tussen de 8e en 10e eeuw, tonen geavanceerde hydraulische engineering en werden gebruikt door monniken voor rituele baden."
+          },
+          "mirisavatiyaDagoba": {
+            "title": "Mirisavatiya Dagoba",
+            "description": "Gebouwd door Koning Dutugemunu na zijn overwinning op Koning Elara, werd deze stupa gebouwd op de plek waar de scepter van de koning, die een relikwie van de Boeddha bevatte, werd geconsacreerd."
+          },
+          "ruwanwalisayaDagoba": {
+            "title": "Ruwanwalisaya Dagoba",
+            "description": "Gebouwd in de 2e eeuw v.Chr. door Koning Dutugemunu, deze stupa is beroemd om zijn perfecte \"bubbel\" vorm en is een van de meest vereerde boeddhistische monumenten in Sri Lanka."
+          },
+          "abhayagiriDagoba": {
+            "title": "Abhayagiri Dagoba",
+            "description": "Opgericht in de 1e eeuw v.Chr., was deze massieve stupa onderdeel van een klooster dat 5.000 monniken huisvestte en was een centrum voor zowel Mahayana als Theravada boeddhisme."
+          },
+          "sriMahaBodhi": {
+            "title": "Sri Maha Bodhi",
+            "description": "Een heilige vijgenboom gekweekt uit een stek van de oorspronkelijke Bodhi-boom waaronder de Boeddha verlichting bereikte, wat het een van de oudste levende bomen met een bekende plantdatum maakt."
+          }
+        }
+      }
+    },
+    "belihuloyaDayTour": {
+      "title": "Belihuloya dagtour",
+      "location": "Belihuloya",
+      "description": "Ontdek de schilderachtige schoonheid van Belihuloya, een charmant heuvelstation omringd door theeplantages, watervallen en weelderige groene landschappen.",
+      "introDescription": "Ontdek de schilderachtige schoonheid van Belihuloya, een charmant heuvelstation omringd door theeplantages, watervallen en weelderige groene landschappen.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Belihuloya is een schilderachtig heuvelstation gelegen in de centrale hooglanden van Sri Lanka, dat bezoekers een perfecte mix biedt van natuurlijke schoonheid, avontuur en rust. Genesteld tussen de heuvelstations van Nuwara Eliya en Haputale, biedt Belihuloya een unieke kans om het koele klimaat en de adembenemende landschappen van het heuvelland van Sri Lanka te ervaren.",
+        "historicalProminenceTitle": "Highlights van Belihuloya",
+        "historicalPoints": {
+          "scenicBeauty": "Schilderachtige schoonheid: Omringd door glooiende heuvels, theeplantages en mistige bergen, biedt Belihuloya op elke hoek adembenemende panoramische uitzichten.",
+          "hillStation": "Heuvelstation: Gelegen op een hoogte van ongeveer 1.500 meter boven zeeniveau, geniet het gebied het hele jaar door van een koel, aangenaam klimaat.",
+          "climate": "Klimaat: Het gematigde klimaat maakt het een ideale ontsnapping aan de tropische hitte, met temperaturen variërend van 15°C tot 25°C het hele jaar door.",
+          "biodiversity": "Biodiversiteit: De regio is rijk aan flora en fauna, met talrijke endemische soorten vogels, vlinders en planten die gedijen in de bergbossen.",
+          "adventureActivities": "Avontuurlijke activiteiten: Het gebied biedt mogelijkheden voor wandelen, trektochten, vogelspotten en het verkennen van nabijgelegen watervallen en natuurlijke poelen.",
+          "culturalHeritage": "Cultureel erfgoed: Ervaar de lokale theecultuur, bezoek theefabrieken en maak kennis met de vriendelijke lokale gemeenschappen.",
+          "naturalWonders": "Natuurlijke wonderen: Ontdek verborgen watervallen, ongerepte beken en weelderige bossen die Belihuloya een paradijs voor natuurliefhebbers maken.",
+          "touristDestination": "Toeristische bestemming: Hoewel minder druk dan andere heuvelstations, krijgt Belihuloya erkenning als een off-the-beaten-path bestemming voor reizigers die op zoek zijn naar authentieke ervaringen."
+        }
+      }
+    },
+    "colomboDayTour": {
+      "title": "Dagtour van Colombo",
+      "location": "Colombo",
+      "description": "Ontdek de bruisende hoofdstad van Sri Lanka, waar koloniale architectuur samenkomt met moderne wolkenkrabbers en levendige markten.",
+      "introDescription": "Ontdek de bruisende hoofdstad van Sri Lanka, waar koloniale architectuur samenkomt met moderne wolkenkrabbers en levendige markten.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Colombo, de commerciële hoofdstad van Sri Lanka, is een bruisende stad die haar koloniale verleden prachtig vermengt met moderne ontwikkeling. Dit oude erfgoed weerspiegelt zich vandaag in de stad in termen van zijn architectuur bestaande uit koloniale gebouwen evenals wolkenkrabbers en winkelcentra.",
+        "historicalProminenceTitle": "Over Colombo",
+        "historicalPoints": {
+          "colonialHeritage": "Koloniaal erfgoed: Colombo heeft goed bewaard gebleven koloniale architectuur uit de Portugese, Nederlandse en Britse perioden.",
+          "commercialCapital": "Commerciële hoofdstad: Als grootste stad en commerciële hub van Sri Lanka is Colombo de toegangspoort tot het eiland.",
+          "culturalDiversity": "Culturele diversiteit: Ervaar een rijke mix van Singalese, Tamil, moslim- en Burgher-culturen.",
+          "modernDevelopment": "Moderne ontwikkeling: Getuige van de transformatie van de stad met moderne wolkenkrabbers, winkelcentra en luxe hotels.",
+          "religiousSites": "Religieuze sites: Bezoek boeddhistische tempels, hindoeïstische kovils, moskeeën en kerken die religieuze harmonie tonen.",
+          "marketsShopping": "Markten & winkelen: Verken levendige markten zoals Pettah en moderne winkelcomplexen.",
+          "culinaryScene": "Culinaire scene: Geniet van diverse keukens van straatvoedsel tot fijne restaurants.",
+          "coastalBeauty": "Kustschoonheid: Geniet van de schilderachtige Galle Face Green promenade langs de Indische Oceaan."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "gangaramayaTemple": {
+            "title": "Gangaramaya Tempel",
+            "description": "Een mix van moderne architectuur en cultureel erfgoed, Gangaramaya Tempel is een vredige boeddhistische tempel met heilige relikwieën, standbeelden en een serene meditatieomgeving."
+          },
+          "stLuciasCathedral": {
+            "title": "St. Lucia's Kathedraal",
+            "description": "Deze prachtige katholieke kathedraal heeft neobarokke architectuur, prachtige gebrandschilderde ramen en dient als een spiritueel herkenningspunt voor aanbidders in het hart van Colombo."
+          },
+          "redMosque": {
+            "title": "Rode Moskee (Jami Ul-Alfar Moskee)",
+            "description": "Beroemd om zijn opvallende rood-witte patroon exterieur, de Rode Moskee is een historische islamitische site en een iconisch architectonisch symbool in Colombo."
+          },
+          "nationalMuseum": {
+            "title": "Nationaal Museum",
+            "description": "Het Colombo Nationaal Museum herbergt de rijke geschiedenis, kunst en cultuur van Sri Lanka, met koninklijke artefacten, oude wapens en archeologische schatten."
+          },
+          "kathiresanKovil": {
+            "title": "Kathiresan Kovil",
+            "description": "Een levendige hindoeïstische tempel gewijd aan Heer Murugan, Kathiresan Kovil is bekend om zijn kleurrijke architectuur, gedetailleerde sculpturen en levendige religieuze festivals."
+          },
+          "cargillsBuilding": {
+            "title": "Cargills Gebouw",
+            "description": "Een historisch commercieel gebouw in Colombo, het Cargills Gebouw vertegenwoordigt de koloniale architectuur van de stad en blijft een hub voor winkelen en zaken."
+          },
+          "lotusTower": {
+            "title": "Lotus Toren",
+            "description": "Als hoogste structuur van Sri Lanka biedt de Lotus Toren panoramische stadsuitzichten, een draaiend restaurant en entertainmentfaciliteiten, symboliserend modern Colombo en zijn architectonische wonderen."
+          }
+        }
+      }
+    },
+    "galleDayTour": {
+      "title": "Galle dagtour",
+      "location": "Galle",
+      "description": "Dompel uzelf onder in de charme van de zuidkust van Sri Lanka terwijl u over de legendarische wallen van Galle Fort loopt, erfgoedmonumenten bezoekt en ontspant op zonovergoten stranden.",
+      "introDescription": "Dompel uzelf onder in de charme van de zuidkust van Sri Lanka terwijl u over de legendarische wallen van Galle Fort loopt, erfgoedmonumenten bezoekt en ontspant op zonovergoten stranden.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Het erfgoed van Galle als maritieme hub vermengt Europese vestingwerken met de Sri Lankaanse geest. Breng de dag door met het verkennen van geplaveide steegjes, hoge bastions, ambachtelijke boetieks en de kustontsnappingen die de zuidelijke hoofdstad onvergetelijk maken.",
+        "historicalProminenceTitle": "Highlights van de Galle-ervaring",
+        "historicalPoints": {
+          "unescoHeritage": "UNESCO-erfgoed: Doorkruis de Galle Fort wallen, wachttorens en koloniale herenhuizen die de stad zijn Werelderfgoedstatus hebben opgeleverd.",
+          "colonialArchitecture": "Koloniale architectuur: Spot Nederlandse kerken, Britse administratieve gebouwen en pastelkleurige koopmanshuizen langs de straten.",
+          "culturalBlend": "Culturele mix: Ervaar een harmonieuze mix van Singalese, Moorse, Burgher- en expatgemeenschappen die de smaken en festivals van de stad vormgeven.",
+          "artisanBoutiques": "Ambachtelijke boetieks: Blader door handweeftextiel, edelsteenstuido's, ambachtelijke winkels en chique cafés verscholen in erfgoedgebouwen.",
+          "seasideViews": "Kustuitzichten: Geniet van weidse oceaanpanorama's vanaf de vuurtoren, zonovergoten stranden en palmenomzoomde promenades.",
+          "culinaryFinds": "Culinaire vondsten: Geniet van verse zeevruchten, fusiongerechten en tropische lekkernijen in fortrestaurants en strandhutten.",
+          "adventureStops": "Avontuurlijke stops: Voeg optionele activiteiten toe zoals fietsen, snorkelen of boottochten door nabijgelegen mangroven voor een actieve draai.",
+          "relaxationBreaks": "Ontspanningspauzes: Ontspan met zonsondergangpicknicks op de wallen of spa-behandelingen in boetiekhotels verscholen in het fort."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "galleFort": {
+            "title": "Galle Fort",
+            "description": "Galle Fort is een UNESCO-erfgoedsite met koloniale architectuur, musea, charmante straten, oceaanuitzichten, cafés en culturele monumenten, met een unieke mix van geschiedenis."
+          },
+          "galleLighthouse": {
+            "title": "Galle Vuurtoren",
+            "description": "Galle Vuurtoren is een iconisch kustmonument met oceaanuitzichten, prachtige zonsondergangen, verfrissende zeebries en geweldige fotomogelijkheden, waardoor het een van de highlights van Galle is."
+          },
+          "dutchReformedChurch": {
+            "title": "Nederlandse Hervormde Kerk",
+            "description": "De Nederlandse Hervormde Kerk, gebouwd in de 18e eeuw, heeft koloniale architectuur, historische grafstenen en een vredig interieur, en biedt bezoekers een glimp van het verleden van Galle."
+          },
+          "maritimeMuseum": {
+            "title": "Maritiem Museum",
+            "description": "Het Maritiem Museum belicht de zeevaartgeschiedenis van Galle door middel van scheepswrakexposities, oude handelsartefacten en onderwaterontdekkingen, en biedt bezoekers een educatieve ervaring."
+          },
+          "jungleBeach": {
+            "title": "Jungle Beach",
+            "description": "Jungle Beach is een verborgen kustontsnapping met kalme wateren, zacht zand, weelderige omgeving en geweldig snorkelen, en biedt bezoekers een vredige plek om te ontspannen."
+          },
+          "japanesePeacePagoda": {
+            "title": "Japanse Vredespagode",
+            "description": "De Japanse Vredespagode ligt op een rustige heuveltop met panoramische kustuitzichten, vredige omgeving en een kalmerende spirituele sfeer, waardoor het een prachtige plek is."
+          },
+          "unawatunaBeach": {
+            "title": "Unawatuna Beach",
+            "description": "Unawatuna Beach is een levendige kustbestemming met goudkleurig zand, helder water, strandrestaurants, zwemplekken en nachtleven, en biedt bezoekers een leuke en ontspannende ervaring."
+          },
+          "stiltFishermen": {
+            "title": "Steltenvissers (Koggala)",
+            "description": "Steltenvissers in Koggala tonen traditionele vismethoden naast schilderachtige kusten, en bieden bezoekers cultureel inzicht, fotomogelijkheden en een authentieke Sri Lankaanse ervaring."
+          }
+        }
+      }
+    },
+    "geoffreyBawaWorksSriLanka": {
+      "title": "Geoffrey Bawa werken in Sri Lanka",
+      "location": "Colombo, Zuidkust",
+      "description": "Toen de overleden Geoffrey Manning Bawa de wereld van architectuur betrad, maakte hij zijn stempel met elk ontwerp dat hij produceerde. Het verkennen van modernisme en zijn culturele implicaties…"
+    },
+    "hotAirBallooningDayTour": {
+      "title": "Heeteluchtballon dagtour",
+      "location": "Habarana / Sigiriya / Dambulla",
+      "description": "Geniet van een ervaring van een leven terwijl u de adrenaline voelt terwijl u zweeft boven adembenemende uitzichten op het tropische paradijs van Sri Lanka."
+    },
+    "kandyDayTour": {
+      "title": "Kandy dagtour",
+      "location": "Kandy",
+      "description": "Kandy, populairder bekend als de heuvelhoofdstad van Sri Lanka, is een aantrekkelijke toeristische bestemming. Zijn geschiedenis gaat terug tot de 15e eeuw…",
+      "introDescription": "Kandy, populairder bekend als de heuvelhoofdstad van Sri Lanka, is een aantrekkelijke toeristische bestemming. Zijn geschiedenis gaat terug tot de 15e eeuw toen het werd gesticht als de laatste hoofdstad van het tijdperk van de oude koningen van Sri Lanka. De stad is genesteld in de heuvels van het Kandy-plateau, dat gebieden van tropische plantages doorkruist, voornamelijk thee. Kandy is zowel een administratieve als religieuze stad en is ook de hoofdstad van de Centrale Provincie.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Kandy, populairder bekend als de heuvelhoofdstad van Sri Lanka, is een aantrekkelijke toeristische bestemming. Zijn geschiedenis gaat terug tot de 15e eeuw toen het werd gesticht als de laatste hoofdstad van het tijdperk van de oude koningen van Sri Lanka. De stad is genesteld in de heuvels van het Kandy-plateau, dat gebieden van tropische plantages doorkruist, voornamelijk thee. Kandy is zowel een administratieve als religieuze stad en is ook de hoofdstad van de Centrale Provincie.",
+        "historicalProminenceTitle": "Historische prominentie van Kandy",
+        "historicalPoints": {
+          "15thCentury": "15e eeuw: Kandy werd gesticht als de laatste hoofdstad van het tijdperk van de oude koningen van Sri Lanka.",
+          "templeOfTheTooth": "Tempel van de Tandreliëf: De heilige Tempel van de Tandreliëf (Sri Dalada Maligawa) herbergt de tandrelikwie van de Boeddha, waardoor het een van de belangrijkste boeddhistische sites ter wereld is.",
+          "unescoHeritage": "UNESCO Werelderfgoed: Kandy werd in 1988 uitgeroepen tot UNESCO Werelderfgoed, wat zijn culturele en historische betekenis erkent.",
+          "kandyanKingdom": "Kandyan Koninkrijk: De stad diende als hoofdstad van het Kandyan Koninkrijk, dat meer dan 300 jaar met succes weerstand bood aan Europese koloniale machten.",
+          "britishColonial": "Britse koloniale periode: Kandy viel in 1815 aan de Britten, wat het einde betekende van het onafhankelijke Kandyan Koninkrijk.",
+          "culturalCenter": "Cultureel centrum: Vandaag blijft Kandy een belangrijk cultureel centrum, bekend om zijn traditionele kunsten, ambachten en het jaarlijkse Esala Perahera-festival."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "templeOfTheTooth": {
+            "title": "Tempel van de Tandreliëf",
+            "description": "De heiligste boeddhistische tempel in Sri Lanka, die de tandrelikwie van de Boeddha herbergt en een UNESCO Werelderfgoed is."
+          },
+          "kandyLake": {
+            "title": "Kandy Meer",
+            "description": "Een prachtig kunstmatig meer gebouwd in 1807 door de laatste koning van Kandy, met schilderachtige uitzichten en een vredige sfeer in het hart van de stad."
+          },
+          "royalBotanicalGardens": {
+            "title": "Koninklijke Botanische Tuinen",
+            "description": "Een van de mooiste tropische tuinen in Azië, met meer dan 4.000 plantensoorten, waaronder zeldzame orchideeën, palmen en medicinale planten."
+          },
+          "kandyViewPoint": {
+            "title": "Kandy Uitzichtpunt",
+            "description": "Een panoramisch uitzichtpunt met adembenemende uitzichten op de stad Kandy, het meer en de omliggende heuvels."
+          },
+          "kandyMarket": {
+            "title": "Kandy Markt",
+            "description": "Een levendige lokale markt waar u het dagelijks leven van Kandy kunt ervaren, winkelen voor specerijen, fruit en lokaal handwerk."
+          },
+          "bahirawakandaBuddha": {
+            "title": "Bahirawakanda Boeddha Standbeeld",
+            "description": "Een massief wit Boeddha-standbeeld op een heuveltop, met panoramische uitzichten op Kandy en de omliggende bergen."
+          },
+          "kandyMuseum": {
+            "title": "Kandy Museum",
+            "description": "Gehuisvest in het voormalige koninklijke paleis, toont het museum artefacten uit het Kandyan Koninkrijk-tijdperk, inclusief koninklijke regalia en historische items."
+          },
+          "udawattekeleSanctuary": {
+            "title": "Udawatta Kele Sanctuary",
+            "description": "Een bosreservaat in het hart van Kandy, thuis van diverse vogelsoorten, apen en weelderige vegetatie, perfect voor natuurwandelingen."
+          }
+        }
+      }
+    },
+    "kithulgalaWhiteWaterRafting": {
+      "title": "Kithulgala wildwater rafting",
+      "location": "Kitulgala",
+      "description": "De stad Kitulgala is waar deze tour u meeneemt voor een dag vol extreme avonturen. Kitulgala is een kleine maar mooie stad gelegen in een regenwoudzone…",
+      "introDescription": "De stad Kitulgala is waar deze tour u meeneemt voor een dag vol extreme avonturen. Kitulgala is een kleine maar mooie stad gelegen in een regenwoudzone. Deze schilderachtige bestemming is beroemd om de filmlocatie van de klassieke film \"De Brug over de Rivier Kwai\" en biedt een van de beste wildwater rafting-ervaringen in Sri Lanka.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "De stad Kitulgala is waar deze tour u meeneemt voor een dag vol extreme avonturen. Kitulgala is een kleine maar mooie stad gelegen in een regenwoudzone. Deze schilderachtige bestemming is beroemd om de filmlocatie van de klassieke film \"De Brug over de Rivier Kwai\" en biedt een van de beste wildwater rafting-ervaringen in Sri Lanka.",
+        "adventureExperienceTitle": "Avontuurlijke ervaring",
+        "adventurePoints": {
+          "raftingExperience": "Wildwater rafting: Ervaar de opwinding van het navigeren door stroomversnellingen op de Kelani-rivier, een van de spannendste raftingbestemmingen van Sri Lanka met stroomversnellingen variërend van graad 2 tot graad 3.",
+          "scenicBeauty": "Schilderachtige schoonheid: Omringd door weelderig regenwoud, watervallen en ongerepte natuurlijke landschappen, biedt Kitulgala adembenemende uitzichten tijdens uw avontuur.",
+          "safetyStandards": "Veiligheidsnormen: Alle raftingactiviteiten worden uitgevoerd met professionele gidsen, veiligheidsuitrusting en internationale veiligheidsnormen om een veilige maar spannende ervaring te garanderen.",
+          "suitableForAll": "Geschikt voor alle niveaus: Of u nu een beginner of een ervaren rafter bent, de stroomversnellingen zijn geschikt voor verschillende vaardigheidsniveaus, waardoor het toegankelijk is voor avontuurliefhebbers van alle leeftijden.",
+          "otherActivities": "Extra activiteiten: Naast rafting biedt Kitulgala mogelijkheden voor jungletrekking, vogelspotten en het verkennen van de rijke biodiversiteit van het regenwoud.",
+          "filmLocation": "Filmlocatie: Bezoek de iconische bruglocatie waar de Academy Award-winnende film \"De Brug over de Rivier Kwai\" werd gefilmd, wat historische betekenis toevoegt aan uw avontuur."
+        }
+      }
+    },
+    "littleEnglandDayTour": {
+      "title": "Little England dagtour",
+      "location": "Nuwara Eliya",
+      "description": "Nuwara Eliya, ook bekend als \"Little England\" van Sri Lanka, is het belangrijkste heuvelresort van het land. Op een hoogte van ongeveer 2000m boven zeeniveau…",
+      "introDescription": "Nuwara Eliya, ook bekend als \"Little England\" van Sri Lanka, is het belangrijkste heuvelresort van het land. Op een hoogte van ongeveer 2000m boven zeeniveau biedt deze charmante stad een koel klimaat, weelderige theeplantages en een duidelijk Britse koloniale sfeer. De stad is beroemd om zijn prachtige tuinen, koloniale architectuur en schilderachtige landschappen die lijken op het Engelse platteland.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Nuwara Eliya, ook bekend als \"Little England\" van Sri Lanka, is het belangrijkste heuvelresort van het land. Op een hoogte van ongeveer 2000m boven zeeniveau biedt deze charmante stad een koel klimaat, weelderige theeplantages en een duidelijk Britse koloniale sfeer. De stad is beroemd om zijn prachtige tuinen, koloniale architectuur en schilderachtige landschappen die lijken op het Engelse platteland.",
+        "historicalProminenceTitle": "Historische prominentie van Nuwara Eliya",
+        "historicalPoints": {
+          "britishColonial": "Britse koloniale tijd: Nuwara Eliya werd in de 19e eeuw door de Britten ontwikkeld als een heuvelstation om te ontsnappen aan de hitte van de laaglanden, waardoor een \"Little England\"-sfeer ontstond.",
+          "teaIndustry": "Thee-industrie: De regio werd het hart van de thee-industrie van Sri Lanka, met veel theeplantages opgericht door Britse planters, waardoor het een van de fijnste theeteeltregio's ter wereld werd.",
+          "colonialArchitecture": "Koloniale architectuur: De stad heeft goed bewaard gebleven koloniale gebouwen, waaronder het Grand Hotel, St. Andrew's Hotel en verschillende bungalows die Britse architectuurstijlen weerspiegelen.",
+          "golfCourse": "Golfbaan: Nuwara Eliya is de thuisbasis van een van de oudste golfbanen van Azië, opgericht in 1889, wat bijdraagt aan zijn Britse koloniale charme.",
+          "climate": "Koel klimaat: De hoge hoogte zorgt het hele jaar door voor een gematigd klimaat, waardoor het een perfecte ontsnapping is aan de tropische hitte van de kustgebieden.",
+          "touristDestination": "Toeristische bestemming: Vandaag is Nuwara Eliya een van de populairste toeristische bestemmingen van Sri Lanka, bekend om zijn natuurlijke schoonheid, theeplantages en uniek koloniaal erfgoed."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "gregoryLake": {
+            "title": "Gregory Meer",
+            "description": "Een prachtig kunstmatig meer dat boottochten, paardrijden en schilderachtige uitzichten op de omliggende bergen en theeplantages biedt."
+          },
+          "hakgalaBotanicalGardens": {
+            "title": "Hakgala Botanische Tuinen",
+            "description": "Een van de drie botanische tuinen in Sri Lanka, met een verbluffende collectie rozen, varens en exotische planten in een koel bergachtig decor."
+          },
+          "seethaAmmamTemple": {
+            "title": "Seetha Amman Tempel",
+            "description": "Een hindoeïstische tempel geassocieerd met het Ramayana-epos, gelegen in een prachtige omgeving met een beek en natuurlijke rotsformaties."
+          },
+          "victoriaPark": {
+            "title": "Victoria Park",
+            "description": "Een goed onderhouden park in het hart van Nuwara Eliya, perfect voor ontspannende wandelingen en genieten van de koele berglucht."
+          },
+          "teaPlantations": {
+            "title": "Theeplantages",
+            "description": "Bezoek werkende theeplantages om te leren over het theemakenproces en geniet van verse Ceylon-thee omringd door glooiende groene heuvels."
+          },
+          "loversLeap": {
+            "title": "Lovers' Leap",
+            "description": "Een schilderachtige waterval met een romantische legende, met prachtige uitzichten en een verfrissende natuurlijke omgeving."
+          },
+          "pedroTeaEstate": {
+            "title": "Pedro Theeplantage",
+            "description": "Een van de oudste en beroemdste theeplantages in Nuwara Eliya, met fabrieksrondleidingen en theeproeverijen."
+          },
+          "moonPlains": {
+            "title": "Moon Plains",
+            "description": "Een unieke hoogvlakte met panoramische uitzichten op de omliggende bergen en valleien, toegankelijk met jeepsafari."
+          }
+        }
+      }
+    },
+    "negomboLagoonFishingDayTour": {
+      "title": "Negombo lagune vissen dagtour",
+      "location": "Negombo",
+      "description": "Langs de westkust van Sri Lanka ligt de vriendelijke stad Negombo, een van de oudste visserssteden van het land. Naast zijn eeuwenoude visserijindustrie…",
+      "introDescription": "Langs de westkust van Sri Lanka ligt de vriendelijke stad Negombo, een van de oudste visserssteden van het land. Naast zijn eeuwenoude visserijindustrie is Negombo ook bekend om zijn prachtige stranden, Nederlandse koloniale architectuur en de beroemde Negombo Lagune. Deze tour biedt een unieke kans om traditionele vismethoden te ervaren en de rijke maritieme cultuur van deze kuststad te verkennen.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Langs de westkust van Sri Lanka ligt de vriendelijke stad Negombo, een van de oudste visserssteden van het land. Naast zijn eeuwenoude visserijindustrie is Negombo ook bekend om zijn prachtige stranden, Nederlandse koloniale architectuur en de beroemde Negombo Lagune. Deze tour biedt een unieke kans om traditionele vismethoden te ervaren en de rijke maritieme cultuur van deze kuststad te verkennen."
+      },
+      "cards": {
+        "negomboLagoon": {
+          "title": "Negombo Lagune",
+          "description": "Leer traditionele en moderne manieren van vissen. Hier zult u live koken van de zeevruchten die u heeft gekozen voor de lunch zien."
+        },
+        "negomboBeach": {
+          "title": "Negombo Strand",
+          "description": "Ontspan op het prachtige gouden zand van Negombo Strand, een van de populairste stranden aan de westkust. Geniet van de kalme wateren, perfect om te zwemmen, en bewonder de adembenemende zonsonderganguitzichten over de Indische Oceaan."
+        }
+      }
+    },
+    "polonnaruwaDayTour": {
+      "title": "Polonnaruwa dagtour",
+      "location": "Polonnaruwa",
+      "description": "Als het op een na grootste koninkrijk van Sri Lanka heeft de oude stad Polonnaruwa veel te bieden voor archeologen en geschiedenisliefhebbers…",
+      "introDescription": "Als het op een na grootste koninkrijk van Sri Lanka heeft de oude stad Polonnaruwa veel te bieden voor archeologen, geschiedenisliefhebbers en reizigers die de rijke culturele erfenis van het eiland willen verkennen. Polonnaruwa diende als hoofdstad van Sri Lanka van de 11e tot de 13e eeuw n.Chr. en is nu een UNESCO Werelderfgoed, met goed bewaard gebleven ruïnes van oude paleizen, tempels en monumenten.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Als het op een na grootste koninkrijk van Sri Lanka heeft de oude stad Polonnaruwa veel te bieden voor archeologen, geschiedenisliefhebbers en reizigers die de rijke culturele erfenis van het eiland willen verkennen. Polonnaruwa diende als hoofdstad van Sri Lanka van de 11e tot de 13e eeuw n.Chr. en is nu een UNESCO Werelderfgoed, met goed bewaard gebleven ruïnes van oude paleizen, tempels en monumenten.",
+        "historicalProminenceTitle": "Historische prominentie van Polonnaruwa",
+        "historicalPoints": {
+          "11thCentury": "11e eeuw n.Chr.: Polonnaruwa werd de hoofdstad van Sri Lanka na de val van Anuradhapura, wat het begin markeerde van een nieuw tijdperk in de geschiedenis van Sri Lanka.",
+          "kingVijayabahu": "Koning Vijayabahu I: Verdreef met succes de Chola-indringers en vestigde Polonnaruwa als de nieuwe hoofdstad, wat het begin was van een periode van grote architectonische en culturele ontwikkeling.",
+          "kingParakramabahu": "Koning Parakramabahu I: De gouden eeuw van Polonnaruwa, bekend om uitgebreide irrigatiewerken, inclusief de massieve Parakrama Samudra (zee van Parakrama), en prachtige architectonische prestaties.",
+          "unescoHeritage": "UNESCO Werelderfgoed: Polonnaruwa werd in 1982 uitgeroepen tot UNESCO Werelderfgoed, wat zijn uitzonderlijke universele waarde en goed bewaard gebleven archeologische overblijfselen erkent.",
+          "architecturalAchievements": "Architectonische prestaties: De stad heeft opmerkelijke voorbeelden van oude Singalese architectuur, inclusief de Gal Vihara-rots tempel met zijn massieve Boeddha-standbeelden uitgehouwen uit graniet.",
+          "irrigationSystem": "Irrigatiesysteem: Polonnaruwa is beroemd om zijn geavanceerde irrigatiesysteem, met talrijke tanks en kanalen die geavanceerde hydraulische engineering van de oude Singalezen demonstreren.",
+          "decline": "13e-eeuwse achteruitgang: Het koninkrijk begon in de 13e eeuw te vervallen, wat uiteindelijk leidde tot het verlaten van Polonnaruwa als hoofdstad en de verschuiving van macht naar andere regio's."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "quadrangle": {
+            "title": "Het Quadrangle",
+            "description": "Een compacte groep oude gebouwen inclusief de Vatadage, Thuparama en andere belangrijke structuren, die de architectonische briljantie van het oude Polonnaruwa tonen."
+          },
+          "galVihara": {
+            "title": "Gal Vihara",
+            "description": "Een rots tempel met vier prachtige Boeddha-standbeelden uitgehouwen uit een enkele granieten rots, inclusief een massieve liggende Boeddha, beschouwd als meesterwerken van oude Singalese beeldhouwkunst."
+          },
+          "rankotVihara": {
+            "title": "Rankot Vihara",
+            "description": "De grootste dagoba in Polonnaruwa, 55 meter hoog, gebouwd tijdens het bewind van Koning Nissanka Malla in de 12e eeuw."
+          },
+          "parakramaSamudra": {
+            "title": "Parakrama Samudra",
+            "description": "Een massief kunstmatig reservoir gebouwd door Koning Parakramabahu I, met een oppervlakte van 2.500 hectare en demonstrerend de geavanceerde irrigatie-engineering van het oude Sri Lanka."
+          },
+          "potgulVihara": {
+            "title": "Potgul Vihara",
+            "description": "Een uniek bibliotheekcomplex met een cirkelvormige structuur, waarvan wordt aangenomen dat het oude manuscripten en religieuze teksten heeft gehuisvest."
+          }
+        }
+      }
+    },
+    "sigiriyaDambullaDayTour": {
+      "title": "Sigiriya & Dambulla dagtour",
+      "location": "Sigiriya & Dambulla",
+      "description": "Sigiriya, een oud paleis, werd ooit genomineerd als het 8e wereldwonder. Vandaag zijn Sigiriya en Dambulla een door UNESCO erkende erfgoedsite en een belangrijke toeristische attractie.",
+      "introDescription": "Sigiriya, een oud paleis, werd ooit genomineerd als het 8e wereldwonder. Vandaag zijn Sigiriya en Dambulla door UNESCO erkende erfgoedsites en belangrijke toeristische attracties.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Sigiriya, een oud paleis en rotsfort, werd ooit genomineerd als het 8e wereldwonder. Vandaag zijn Sigiriya en Dambulla door UNESCO erkende erfgoedsites en belangrijke toeristische attracties. Deze dagtour neemt u mee door twee van de meest iconische historische sites van Sri Lanka, met oude architectuur, adembenemende fresco's en opmerkelijke grottempels die het verhaal vertellen van een rijke culturele erfenis die meer dan twee millennia omspant.",
+        "historicalProminenceTitle": "Historische prominentie van Sigiriya & Dambulla",
+        "historicalPoints": {
+          "5thCenturyAD": "5e eeuw n.Chr.: Koning Kassapa I bouwde het paleisfort op de top van Sigiriya Rock, wat een van de meest opmerkelijke architectonische prestaties van het oude Sri Lanka creëerde.",
+          "sigiriyaFrescoes": "Sigiriya Fresco's: De beroemde schilderijen van hemelse maagden (apsaras) worden beschouwd als meesterwerken van oude Sri Lankaanse kunst, daterend van meer dan 1.500 jaar geleden.",
+          "dambullaCaves": "1e eeuw v.Chr.: Dambulla Grottempel werd gesticht door Koning Valagamba, die tijdens een invasie zijn toevlucht zocht in de grotten. Het tempelcomplex wordt al meer dan 2.000 jaar continu gebruikt.",
+          "unescoHeritage": "UNESCO Werelderfgoed: Zowel Sigiriya (1982) als Dambulla (1991) werden uitgeroepen tot UNESCO Werelderfgoed, wat hun uitzonderlijke universele waarde en culturele betekenis erkent.",
+          "architecturalMarvels": "Architectonische wonderen: Sigiriya heeft geavanceerde watertuinen, spiegelmuren en de iconische Leeuwenpoort, terwijl Dambulla meer dan 150 Boeddha-standbeelden en uitgebreide grotschilderingen herbergt.",
+          "culturalTriangle": "Culturele Driehoek: Beide sites maken deel uit van de Culturele Driehoek van Sri Lanka, samen met Anuradhapura en Polonnaruwa, die de gouden eeuw van de oude Singalese beschaving vertegenwoordigen.",
+          "kingParakramabahu": "12e eeuw n.Chr.: Koning Parakramabahu I renoveerde en breidde de Dambulla Grottempel uit, waarbij hij veel van de standbeelden en schilderijen toevoegde die vandaag te zien zijn.",
+          "modernSignificance": "Moderne betekenis: Vandaag trekken deze sites jaarlijks miljoenen bezoekers en blijven ze actieve plaatsen van aanbidding, wat respect en gepaste kleding van bezoekers vereist."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "sigiriyaRock": {
+            "title": "Sigiriya Rotsfort",
+            "description": "Een oud rotsfort en paleisruïnes gelegen in het Matale District. Sigiriya is een UNESCO Werelderfgoed, beroemd om zijn oude fresco's en de spiegelmuur."
+          },
+          "dambullaCaveTemple": {
+            "title": "Dambulla Grottempel",
+            "description": "Ook bekend als de Gouden Tempel van Dambulla, dit is het grootste en best bewaard gebleven grottempelcomplex in Sri Lanka, met meer dan 150 Boeddha-standbeelden."
+          },
+          "sigiriyaFrescoes": {
+            "title": "Sigiriya Fresco's",
+            "description": "De beroemde oude schilderijen van Sigiriya, die hemelse maagden afbeelden, worden beschouwd als meesterwerken van oude Sri Lankaanse kunst."
+          },
+          "mirrorWall": {
+            "title": "Spiegelmuur",
+            "description": "Een gepolijste pleistermuur die ooit als een spiegel reflecteerde, nu bedekt met oude graffiti en gedichten daterend van meer dan 1.000 jaar geleden."
+          },
+          "lionGate": {
+            "title": "Leeuwenpoort",
+            "description": "De massieve stenen poten van een leeuw die ooit de ingang naar het paleis op de top van Sigiriya Rock bewaakten."
+          },
+          "waterGardens": {
+            "title": "Watertuinen",
+            "description": "Geavanceerde hydraulische systemen en symmetrische watertuinen aan de voet van Sigiriya Rock, die oude technische wonderen tonen."
+          }
+        }
+      }
+    },
+    "sinharajaDayTour": {
+      "title": "Sinharaja dagtour",
+      "location": "Sinharaja",
+      "description": "UNESCO Werelderfgoed sinds 1988. Momenteel beslaat het reservaat 8864 hectare en het land plant om de grootte van het gebied te verviervoudigen om het ecologische belang van de regio te respecteren.",
+      "introDescription": "UNESCO Werelderfgoed sinds 1988. Momenteel beslaat het reservaat 8864 hectare en het land plant om de grootte van het gebied te verviervoudigen om het ecologische belang van de regio te respecteren.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "De rijke en unieke dieren- en plantenwereld in het Sinharaja Regenwoudreservaat is de reden waarom het in 1988 werd aangemerkt als UNESCO Werelderfgoed. Momenteel beslaat het reservaat 8864 hectare en het land plant om de grootte van het gebied te verviervoudigen om het ecologische belang van de regio te respecteren. Het heuvelachtige oerbos is een schatkamer van endemische soorten inclusief zoogdieren, reptielen, vogels, amfibieën en natuurlijk een overvloed aan bomen en insecten. Bijzonder bekend om vogelspotten, een interessant fenomeen hier is dat vogels zich verplaatsen in gemengde voedingsgroepen, geleid door de grote Racket-tailed Drongo en de luidruchtige Orange-billed Babbler. 20 van de 26 endemische vogelsoorten in Sri Lanka worden gezien in het Sinharaja Regenwoud. Naast vogels is meer dan 60% van de planten endemisch, waarvan vele zeldzaam zijn. Het reservaat is ook de thuisbasis van meer dan 50% van de endemische soorten zoogdieren, vlinders, reptielen, amfibieën en insecten van het land.",
+        "journeyTitle": "Reis naar het wilde hart van Sinharaja",
+        "journeyPoints": {
+          "trek": "Trek door het Sinharaja Regenwoud, een UNESCO Werelderfgoed en het laatste significante stuk primair tropisch regenwoud van Sri Lanka.",
+          "biodiversity": "Ontdek een ongelooflijke biodiversiteitshotspot waar een meerderheid van de endemische soorten zoogdieren en insecten van Sri Lanka gedijt.",
+          "junglefowl": "Houd uw ogen op het bladerdak om zeldzame endemische vogels te spotten zoals de levendige roodgezichte Sri Lanka Junglefowl.",
+          "owl": "Luister naar het onderscheidende geluid van de Serendib Scops-Owl, een van de vele zeldzame vogels die alleen hier worden gevonden.",
+          "guide": "Uw deskundige natuurgids helpt u om ongrijpbare wilde dieren te lokaliseren en legt het complexe, delicate ecosysteem van het bos uit.",
+          "canopy": "Verwonder u over het weelderige smaragdgroene bladerdak gevuld met een grote verscheidenheid aan inheemse bomen en medicinale planten.",
+          "reptiles": "Getuige van een verbluffende reeks unieke reptielen en amfibieën die dit beschermde regenwoud hun thuis noemen.",
+          "atmosphere": "Ervaar de rustige sfeer en koele, vochtige lucht onder de dichte schaduw van het verstrengelde bosbladerdak.",
+          "paths": "Volg kronkelende paden langs zachte beken en kleine, schilderachtige watervallen verborgen diep in het oerbos.",
+          "beauty": "Laat u betoveren door de pure schoonheid van deze ongerepte wildernis, een waar paradijs voor natuurliefhebbers en fotografen.",
+          "immersive": "Deze begeleide tour biedt een meeslepende en educatieve reis naar het hart van een levend, ademend ecosysteem.",
+          "magpie": "Ontmoet het onvergetelijke gezicht van de briljante Sri Lanka Blauwe Ekster, een vlaggenschipsoort van Sinharaja."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "birds": {
+            "title": "Vogels",
+            "description": "Het Sinharaja Regenwoud in Sri Lanka is beroemd om zijn unieke en diverse vogelsoorten, waarvan vele endemisch zijn op het eiland, waardoor het een paradijs is voor vogelaars en natuurbeschermers. Hieronder staan enkele van de vogels die u zult zien: Sri Lankaanse Blauwe Ekster, Grijze Neushoornvogel, Roodgezichte Malkoha, Geschubde Lijster, Houtduif, Geeloorbuulbuul, Donkerblauwe Vliegenvanger."
+          },
+          "mammals": {
+            "title": "Zoogdieren",
+            "description": "Het Sinharaja Regenwoud heeft een rijk tapijt van zoogdierleven, met veel soorten die uitsluitend in Sri Lanka worden gevonden, wat een boeiende ervaring biedt voor natuurliefhebbers."
+          },
+          "reptiles": {
+            "title": "Reptielen",
+            "description": "Het Sinharaja Regenwoud is een schatkamer van reptielendiversiteit, met een reeks soorten die deze Sri Lankaanse parel hun exclusieve thuis hebben gemaakt."
+          },
+          "rainforestReserve": {
+            "title": "Sinharaja Regenwoudreservaat",
+            "description": "Vanwege de dichte vegetatie is het spotten van dieren een uitdaging. Dit soort sfeer is echter een echte traktatie voor natuurliefhebbers die gretig wachten om diep de bossen in te reizen op zoek naar zeldzame wilde dieren."
+          }
+        }
+      }
+    },
+    "udawalaweNationalParkDayTour": {
+      "title": "Udawalawe nationaal park dagtour",
+      "location": "Udawalawe",
+      "description": "Dit park is het op twee na meest bezochte park in heel Sri Lanka en presenteert bezoekers met een fusie van flora en fauna. Kuddes olifanten, buffels, herten…",
+      "introDescription": "Dit park is het op twee na meest bezochte park in heel Sri Lanka en presenteert bezoekers met een fusie van flora en fauna. Kuddes olifanten, buffels, herten en diverse vogelsoorten maken dit een paradijs voor natuurliefhebbers.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Het Udawalawe Nationaal Park is het op twee na meest bezochte park in heel Sri Lanka en presenteert bezoekers met een fusie van flora en fauna. Het park is beroemd om zijn grote kuddes olifanten, buffels, herten en diverse vogelsoorten. Deze dagtour biedt een onvergetelijke wildlifesafari-ervaring in een van de meest toegankelijke en wildliferijke nationale parken van Sri Lanka.",
+        "parkHighlightsTitle": "Park highlights en wilde dieren",
+        "highlights": {
+          "elephants": "Olifantenkuddes: Udawalawe is beroemd om zijn grote olifantenpopulaties, wat uitstekende mogelijkheden biedt om deze majestueuze wezens in hun natuurlijke habitat te observeren.",
+          "wildlife": "Diverse wilde dieren: Spot waterbuffels, gevlekte herten, sambarherten, wilde zwijnen en verschillende andere zoogdieren door het hele park.",
+          "birds": "Vogelspotten: Het park is de thuisbasis van meer dan 180 vogelsoorten, inclusief endemische en migrerende vogels, waardoor het een paradijs is voor vogelliefhebbers.",
+          "reservoir": "Udawalawe Reservoir: Het park omringt het Udawalawe Reservoir, wat een uniek ecosysteem creëert dat diverse wilde dieren aantrekt.",
+          "safari": "Jeepsafari-ervaring: Geniet van een spannende jeepsafari door het gevarieerde terrein van het park, van graslanden tot struikbossen.",
+          "accessibility": "Gemakkelijke toegankelijkheid: Gelegen op slechts 180 km van Colombo, is Udawalawe gemakkelijk toegankelijk en perfect voor een dagtrip.",
+          "conservation": "Conservatiesucces: Het park speelt een cruciale rol bij olifantenbescherming en is de thuisbasis van het Udawalawe Elephant Transit Home."
+        }
+      },
+      "cards": {
+        "elephantSafari": {
+          "title": "Olifantensafari",
+          "description": "Ervaar nauwe ontmoetingen met wilde olifanten in hun natuurlijke habitat in het Udawalawe Nationaal Park. Getuige van deze majestueuze wezens terwijl ze vrij rondzwerven, baden in waterpoelen en interacteren met hun kuddes."
+        },
+        "wildlifeSpotting": {
+          "title": "Wildlife spotten",
+          "description": "Spot diverse wilde dieren inclusief olifanten, waterbuffels, gevlekte herten, sambarherten, wilde zwijnen en meer dan 180 vogelsoorten. Het park biedt uitstekende mogelijkheden voor wildlifefotografie en vogelspotten."
+        }
+      }
+    },
+    "whaleWatchingDayTour": {
+      "title": "Walvis kijken dagtour",
+      "location": "Mirissa",
+      "description": "Sri Lanka is een van de beste bestemmingen voor walvissen kijken in Azië. Potvissen en blauwe vinvissen zijn een veel voorkomend fenomeen voor de zuidkust…",
+      "introDescription": "Sri Lanka is een van de beste bestemmingen voor walvissen kijken in Azië. Potvissen en blauwe vinvissen zijn een veel voorkomend fenomeen voor de zuidkust, met name rond Mirissa. Deze dagtour biedt een onvergetelijke ervaring om deze prachtige zeereuzen in hun natuurlijke habitat te aanschouwen. De beste tijd voor walvissen kijken is van november tot april, wanneer de oceaanomstandigheden ideaal zijn en walviswaarnemingen het meest frequent zijn.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Sri Lanka is een van de beste bestemmingen voor walvissen kijken in Azië. Potvissen en blauwe vinvissen zijn een veel voorkomend fenomeen voor de zuidkust, met name rond Mirissa. Deze dagtour biedt een onvergetelijke ervaring om deze prachtige zeereuzen in hun natuurlijke habitat te aanschouwen. De beste tijd voor walvissen kijken is van november tot april, wanneer de oceaanomstandigheden ideaal zijn en walviswaarnemingen het meest frequent zijn."
+      }
+    },
+    "yalaNationalParkDayTour": {
+      "title": "Yala nationaal park dagtour",
+      "location": "Yala",
+      "description": "Heeft u ooit een safari gemaakt in een jungle die wordt geregeerd door luipaarden? Het Nationaal Park Yala is uw antwoord! Met 130.000 hectare landschap…",
+      "introDescription": "Heeft u ooit een safari gemaakt in een jungle die wordt geregeerd door luipaarden? Het Nationaal Park Yala is uw antwoord! Met 130.000 hectare landschap is Yala het beroemdste nationale park van Sri Lanka en heeft de hoogste dichtheid van luipaarden ter wereld. Deze dagtour biedt een ongelooflijke kans om luipaarden, olifanten, luiaardberen, krokodillen en een grote verscheidenheid aan vogelsoorten in hun natuurlijke habitat te spotten.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Heeft u ooit een safari gemaakt in een jungle die wordt geregeerd door luipaarden? Het Nationaal Park Yala is uw antwoord! Met 130.000 hectare landschap is Yala het beroemdste nationale park van Sri Lanka en heeft de hoogste dichtheid van luipaarden ter wereld. Deze dagtour biedt een ongelooflijke kans om luipaarden, olifanten, luiaardberen, krokodillen en een grote verscheidenheid aan vogelsoorten in hun natuurlijke habitat te spotten."
+      }
+    },
+    "wilpattuNationalParkDayTour": {
+      "title": "Wilpattu nationaal park dagtour",
+      "location": "Wilpattu",
+      "description": "Voor uw dagtour van het Nationaal Park Wilpattu wordt u meegenomen op een jeepsafari rond het park om wilde dieren van Sri Lanka te spotten zoals olifanten, jakhalzen, luiaardberen en luipaarden.",
+      "introDescription": "Voor uw dagtour van het Nationaal Park Wilpattu wordt u meegenomen op een jeepsafari rond het park om wilde dieren van Sri Lanka te spotten zoals olifanten, jakhalzen, luiaardberen en luipaarden. Wilpattu is het grootste en een van de oudste nationale parken van Sri Lanka, bekend om zijn unieke 'willus' (natuurlijke meren) en diverse wilde dieren. Het park biedt een authentieke safari-ervaring met mogelijkheden om luipaarden, olifanten en vele andere soorten in hun natuurlijke habitat te zien.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Voor uw dagtour van het Nationaal Park Wilpattu wordt u meegenomen op een jeepsafari rond het park om wilde dieren van Sri Lanka te spotten zoals olifanten, jakhalzen, luiaardberen en luipaarden. Wilpattu is het grootste en een van de oudste nationale parken van Sri Lanka, bekend om zijn unieke 'willus' (natuurlijke meren) en diverse wilde dieren. Het park biedt een authentieke safari-ervaring met mogelijkheden om luipaarden, olifanten en vele andere soorten in hun natuurlijke habitat te zien."
+      }
+    }
+  },
+  "tailorMadeTours": {
+    "hero": {
+      "title": "Op Maat Gemaakte Sri Lanka Tours & Vakanties",
+      "description": "Ceyara Tours biedt op maat gemaakte vakanties om de diverse landschappen en attracties van Sri Lanka te verkennen, van zijn stranden en wildlife tot zijn rijke geschiedenis en cultuur. We bieden gepersonaliseerde diensten, creëren ideale routes op basis van individuele voorkeuren en zorgen voor comfortabele reizen met luxe voertuigen en eersteklas accommodaties. Of u nu op huwelijksreis bent of reist met familie of vrienden, wij garanderen een luxueuze en onvergetelijke Sri Lankaanse ervaring."
+    },
+    "form": {
+      "planYourTrip": "Plan uw reis",
+      "previous": "VORIGE",
+      "next": "VOLGENDE",
+      "submit": "VERZENDEN",
+      "submitSuccess": "Bedankt! Uw aanvraag is succesvol verzonden.",
+      "step1": {
+        "title": "Persoonlijke informatie",
+        "titleLabel": "Titel",
+        "selectTitle": "Selecteer titel",
+        "fullName": "Volledige naam",
+        "fullNamePlaceholder": "Voer uw volledige naam in",
+        "nationality": "Nationaliteit",
+        "nationalityPlaceholder": "Voer uw nationaliteit in",
+        "email": "E-mail",
+        "emailPlaceholder": "Voer uw e-mailadres in",
+        "phone": "Telefoon",
+        "phonePlaceholder": "Voer uw telefoonnummer in",
+        "recaptcha": "Ik ben geen robot"
+      },
+      "step2": {
+        "title": "Uw reisverwachtingen?",
+        "date": "Datum",
+        "nights": "Hoeveel nachten?",
+        "nightsPlaceholder": "Voer aantal nachten in",
+        "adults": "Aantal volwassenen",
+        "adultsPlaceholder": "Voer aantal volwassenen in",
+        "accommodation": "Type accommodatie",
+        "selectAccommodation": "Selecteer accommodatietype"
+      },
+      "step3": {
+        "title": "Laatste details :)",
+        "specialNotes": "Speciale opmerkingen",
+        "specialNotesPlaceholder": "Voer speciale opmerkingen of vereisten in",
+        "hearAboutUs": "Hoe heeft u van ons gehoord?",
+        "selectHearAboutUs": "Selecteer een optie"
+      },
+      "validation": {
+        "titleRequired": "Selecteer een titel",
+        "fullNameRequired": "Voer uw volledige naam in",
+        "nationalityRequired": "Voer uw nationaliteit in",
+        "emailRequired": "Voer uw e-mailadres in",
+        "emailInvalid": "Voer een geldig e-mailadres in",
+        "phoneRequired": "Voer uw telefoonnummer in",
+        "dateRequired": "Selecteer een datum",
+        "nightsRequired": "Voer het aantal nachten in",
+        "nightsInvalid": "Het aantal nachten moet minimaal 1 zijn",
+        "adultsRequired": "Voer het aantal volwassenen in",
+        "adultsInvalid": "Het aantal volwassenen moet minimaal 1 zijn",
+        "accommodationRequired": "Selecteer een accommodatietype",
+        "hearAboutUsRequired": "Selecteer hoe u van ons heeft gehoord",
+        "pleaseFillAllFields": "Vul alle verplichte velden in voordat u verzendt."
+      },
+      "emailOpened": "✓ E-mailclient succesvol geopend!\n\nControleer uw e-mailapplicatie en klik op \"Verzenden\" om uw aanvraag te voltooien.\n\nUw bericht is klaar om te verzenden naar: gihanvidu123@gmail.com",
+      "submitError": "E-mail verzenden mislukt. Probeer het opnieuw of neem rechtstreeks contact met ons op."
+    },
+    "sidebar": {
+      "contactTitle": "Het beste telefoontje dat u vandaag zult plegen",
+      "supportText": "Wij zijn er 24 uur per dag om u te ondersteunen. Als u reist en noodhulp nodig heeft.",
+      "serviceTitle": "Hoe werkt onze service?",
+      "serviceStep1": "Blader door onze website voor luxe reisideeën en vakantie-inspiratie.",
+      "serviceStep2": "Bel ons op",
+      "serviceStep2Cont": "of vraag online naar de vakantie die u wilt.",
+      "serviceStep3": "Ontvang uw op maat gemaakte vakantieofferte en boek dan online of telefonisch."
+    },
+    "whyChooseUs": {
+      "title": "Waarom voor ons kiezen?",
+      "feature1": {
+        "title": "Prijsgarantie",
+        "description": "Geweldige vakantiepakketten in Sri Lanka tegen onverslaanbare tarieven."
+      },
+      "feature2": {
+        "title": "Bewezen ervaring",
+        "description": "Het team van Ceyara Tours bestaat uit locals met veel ervaring in het veld."
+      },
+      "feature3": {
+        "title": "Persoonlijke adviseur",
+        "description": "Ons vriendelijke team van adviseurs biedt gepersonaliseerde diensten aan klanten."
+      },
+      "feature4": {
+        "title": "24-uurs grondondersteuning",
+        "description": "Wij staan 24 uur per dag tot uw beschikking om te helpen met eventuele zorgen."
+      },
+      "feature5": {
+        "title": "Eerlijke boekingsvoorwaarden",
+        "description": "Het boekingsbeleid is opgesteld met de grootste zorg voor onze gasten."
+      },
+      "feature6": {
+        "title": "Veilig betalingscentrum",
+        "description": "Ceyara Tours heeft een veilig financieel platform om al uw boekingen te bevestigen."
+      }
+    }
+  },
+  "romanticTours": {
+    "title": "Romantische Reizen",
+    "subtitle": "Vier jullie liefde met onvergetelijke ervaringen op Sri Lanka",
+    "introTitle": "Maak tijdloze liefdesherinneringen",
+    "introDescription1": "Onze romantische reizen zijn voor stellen die bijzondere momenten zoeken in adembenemende decors. Of het nu gaat om een aanzoek, huwelijksreis, jubileum of een spontaan uitje samen: Sri Lanka biedt paradijselijke stranden, mistige hooglanden en sfeervolle boutique hotels.",
+    "introDescription2": "Elk arrangement bevat zorgvuldig geselecteerde ervaringen: private diners, duo-spa's, zonsondergangcruises en exclusieve verblijven. Samen zorgen we voor herinneringen die jullie verhaal voor altijd kleuren.",
+    "toursTitle": "Uitgelichte romantische reizen",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "Zeg 'Ja' op het Eiland van Serendipity",
+        "duration": "8 Nachten – 9 Dagen",
+        "description": "Plan een onvergetelijk aanzoek of geloftenvernieuwing op de meest romantische plekken van Sri Lanka. Zonsondergangpicknicks, persoonlijke ceremonies en exclusieve locaties maken van jullie vraag een sprookjesmoment."
+      },
+      "tour2": {
+        "title": "Babymoon in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Verwen jezelf vóór de komst van de baby met zachte spa-rituelen, ontspannen uitstapjes en rust aan zee. Flexibele dagen, doordachte details en wellnesshotels creëren de ideale vakantie voor aanstaande ouders."
+      },
+      "tour3": {
+        "title": "Huwelijksreis in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Kom tot rust na het huwelijk in privévilla's, met diners aan het strand, duo-spabehandelingen en excursies op maat. Van verborgen baaien tot mistige bergen – romantiek schuilt in elk detail."
+      },
+      "tour4": {
+        "title": "Romantische Escape in Sri Lanka",
+        "duration": "9 Nachten – 10 Dagen",
+        "description": "Verras je partner met een gepersonaliseerde reis vol boutique hotels, panoramische routes en exclusieve belevenissen. Perfect voor honeymoon, jubileum, babymoon of zomaar een liefdesverrassing."
+      },
+      "tour5": {
+        "title": "Een Droombruiloft in Sri Lanka",
+        "duration": "Droombruiloft",
+        "description": "Geef elkaar het ja-woord in het paradijs met een volledig georganiseerde ceremonie. Van styling en formaliteiten tot gastenontvangst: ons team creëert een magische bruiloft die bij jullie liefdesverhaal past."
+      }
+    }
+  },
+  "specialTransit": {
+    "title": "Speciale Transit Reizen",
+    "subtitle": "Haal het meeste uit je tussenstop of korte verblijf met onze express-tours",
+    "introTitle": "Perfecte tours voor transitreizigers",
+    "introDescription1": "Onze Speciale Transit Reizen zijn ontworpen voor reizigers met lay-overs, korte stops of weinig tijd in Sri Lanka. Of je nu 6 uur, 24 uur of enkele dagen hebt, we laten je efficiënt en comfortabel de hoogtepunten zien.",
+    "introDescription2": "Vanaf de afhaling op de luchthaven tot de punctuele terugkeer is elk moment geoptimaliseerd om Sri Lanka stressvrij te ontdekken. Ideaal voor zakenreizigers, overstappers of nieuwsgierigen met weinig tijd: onze gidsen zorgen voor vlekkeloze logistiek en onvergetelijke indrukken.",
+    "toursTitle": "Express-transit tours",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "Treinreizen door Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Treinen in Sri Lanka zijn een avontuurlijke manier om mistige bergen, theeplantages en kustvlaktes te doorkruisen. Neem plaats in nostalgische rijtuigen, geniet van panoramische uitzichten en ervaar de schoonheid van het eiland vanuit de trein."
+      },
+      "tour2": {
+        "title": "Zeil- en Cruise Tour in Sri Lanka",
+        "duration": "Flexibele duur en locaties",
+        "description": "Stap aan boord van een luxe catamaran of kustcruise en verken de heldere wateren rond Sri Lanka. Van sunset sails tot meerdaagse tochten: stel uw route samen met snorkelen, eilandpicknicks en privé diners."
+      },
+      "tour3": {
+        "title": "Helikoptertour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Bekijk Sri Lanka vanuit de lucht tijdens een helikopteravontuur. Professionele piloten vliegen u naar erfgoedsites, verborgen stranden en wildparken, waardoor elke transfer een indrukwekkende rondvlucht wordt."
+      },
+      "tour4": {
+        "title": "Tuk-tuk Tour in Sri Lanka",
+        "duration": "10 Nachten – 11 Dagen",
+        "description": "Ervaar het levendige straatleven van Sri Lanka zoals de locals – in een tuk-tuk. Rijd door smalle steegjes, langs eeuwenoude monumenten, drukke markten en kustwegen met een ervaren chauffeur-gids."
+      }
+    }
+  },
+  "sportsBased": {
+    "title": "Sportreizen",
+    "subtitle": "Actieve avonturen voor sportliefhebbers en adrenalinezoekers",
+    "introTitle": "Ontdek Sri Lanka via sport en avontuur",
+    "introDescription1": "Onze sportreizen zijn voor reizigers die beweging willen combineren met het ontdekken van Sri Lanka. Van cricketseries tot surfsessies, van golfbanen tot kayak- en duikspots: het eiland biedt eindeloze mogelijkheden.",
+    "introDescription2": "Of u nu topsporter, watersportfan of liefhebber van outdooravontuur bent, wij voorzien in professionele begeleiding, geschikt materiaal en routes die aansluiten op uw niveau en interesses.",
+    "toursTitle": "Uitgelichte sportreizen",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "Sri Lanka vs Australië 2025 – Cricket Tour",
+        "duration": "18 Nachten – 19 Dagen",
+        "description": "Beleef de Testserie Sri Lanka vs Australië 2025 van dichtbij en ontdek tussendoor de hoogtepunten van het land. Wedstrijdtickets, excursies en premium hospitality geregeld."
+      },
+      "tour2": {
+        "title": "Kayaktour in Sri Lanka",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Peddel door serene meren, mangroven en rivieren op eigen tempo. Op maat gemaakte routes, veiligheidsbriefings, ervaren gidsen en materiaal van topkwaliteit."
+      },
+      "tour3": {
+        "title": "Duikreis in Sri Lanka",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Ontdek kleurrijke riffen, wrakken en het rijke zeeleven met hulp van PADI-professionals. Ideaal voor zowel beginners als ervaren duikers."
+      },
+      "tour4": {
+        "title": "Sri Lanka Cricket Tour",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Neem uw team mee voor vriendschappelijke wedstrijden op wereldberoemde velden. Trainingen, lokale duels en culturele uitstapjes maken het plaatje compleet."
+      },
+      "tour5": {
+        "title": "Golfreizen in Sri Lanka",
+        "duration": "4 Nachten – 5 Dagen",
+        "description": "Speel op topbanen van Colombo tot Nuwara Eliya. Starttijden, caddies, clubtoegang en optionele wellness of sightseeing zijn geregeld."
+      },
+      "tour6": {
+        "title": "Surfen aan de Oostkust van Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Volg de legendarische swell van Arugam Bay en omgeving. Dagelijkse coaching, boardverhuur en surfgerichte ontspanning houden u in topvorm."
+      },
+      "tour7": {
+        "title": "Surftour door Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Ontdek diverse surfspots—van zuidelijke point breaks tot geheime reefbreaks. Lokale gidsen regelen sessies, logistiek en rustmomenten."
+      },
+      "tour8": {
+        "title": "Watersportavontuur in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Combineer surfen, jetski, snorkelen, kajakken en stand-up paddling langs meerdere kusten. Het programma blijft flexibel zodat u uw favoriete watersporten kunt prioriteren."
+      },
+      "tour9": {
+        "title": "Kanotocht in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Vaar door rustige waterwegen omringd door regenwoud en dorpen. Een natuurvriendelijk avontuur met faunabeleving en authentieke ontmoetingen, begeleid door kano-experts."
+      }
+    }
+  },
+  "sustainableTours": {
+    "title": "Duurzame Reizen",
+    "subtitle": "Verantwoorde ervaringen die natuur beschermen en lokale gemeenschappen steunen",
+    "introTitle": "Reis bewust en laat iets positiefs achter",
+    "introDescription1": "Onze duurzame reizen zijn voor bewuste reizigers die hun ecologische voetafdruk willen verkleinen en tegelijkertijd de lokale bevolking willen ondersteunen. De routes leggen de nadruk op natuurbehoud, cultureel erfgoed, community-projecten en verantwoord reizen zodat Sri Lanka's schoonheid behouden blijft.",
+    "introDescription2": "Verblijf in ecolodges, ontmoet dorpsbewoners, doe mee aan beschermingsprojecten en maak kennis met inheemse tradities. Elke reis draagt rechtstreeks bij aan milieu- en gemeenschapsinitiatieven – reis met een doel en maak het verschil.",
+    "toursTitle": "Uitgelichte duurzame tours",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "De wildernis in met rustieke retreats",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Ontdek het ongerepte Sri Lanka terwijl u verblijft in intieme eco-retreats. Geniet van begeleide safari's, boswandelingen en natuurprojecten, aangevuld met duurzame gastronomie en ontmoetingen met lokale gemeenschappen."
+      },
+      "tour2": {
+        "title": "Breng uw vakantie door bij de gastvrije huizen van Sri Lanka",
+        "duration": "15 Nachten – 16 Dagen",
+        "description": "Reis langs Jetwings iconische locaties in het cultuurdrihoek, de mistige hooglanden en de gouden stranden. Maak kennis met gastgezinnen, steun community-initiatieven en ervaar slow travel."
+      },
+      "tour3": {
+        "title": "Verrijk uw vakantie met lokale ervaringen",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Laat u onderdompelen in erfgoed, wildlife en kuststreken met verantwoordelijke gidsen. Doe mee aan ambachtsworkshops, ethische wildlife-ervaringen en lichte avonturen door het hele land."
+      },
+      "tour4": {
+        "title": "Verantwoord toerisme in Sri Lanka",
+        "duration": "3 Nachten – 4 Dagen",
+        "description": "Een korte maar impactvolle getaway met eco-gecertificeerde verblijven, plasticvrije excursies en ontmoetingen met pioniers in duurzaamheid. Ideaal voor reizigers die iets totaal anders zoeken."
+      },
+      "tour5": {
+        "title": "Eco Tour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Reis ecologisch, duurzaam en verantwoord. Overnacht in ecolodges, neem deel aan herbebossing, ontdek beschermde habitats en leer hoe u een positieve voetafdruk achterlaat."
+      }
+    }
+  },
+  "wellnessTours": {
+    "title": "Wellnessreizen",
+    "subtitle": "Verjong lichaam, geest en ziel met transformerende wellnesservaringen",
+    "introTitle": "Ontdek holistische genezing en welzijn",
+    "introDescription1": "Onze wellnessreizen zijn ontworpen voor reizigers die lichamelijke vernieuwing, mentale helderheid en spirituele vernieuwing zoeken. Sri Lanka’s eeuwenoude genezingstradities, met name Ayurveda, gecombineerd met moderne wellnesspraktijken, creëren de ideale omgeving voor transformerende gezondheidsbelevingen. Dompel je onder in therapeutische behandelingen, yoga, meditatie en holistische therapieën in rustige natuurlijke omgevingen.",
+    "introDescription2": "Van authentieke ayurvedische retraites en yoga-ashrams tot luxe wellnessresorts: onze zorgvuldig geselecteerde programma’s bieden persoonlijke herstelreizen. Ervaar traditionele kruidenbehandelingen, detoxprogramma’s, stressverlagende therapieën en voedzame biologische keuken die totaal welzijn ondersteunen, omringd door de sereniteit van Sri Lanka.",
+    "toursTitle": "Transformerende wellnessreizen",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "Herontdek luxe met Amaya Retreats",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Deze 12-daagse reis presenteert enkele van de prachtige accommodaties van een geliefde lokale hotelketen in Sri Lanka – Amaya. Geniet van zorgvuldig samengestelde wellnessbehandelingen, schilderachtige locaties en verfijnde gastvrijheid gedurende het hele verblijf."
+      },
+      "tour2": {
+        "title": "Wellnessreis in Sri Lanka",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Als je op zoek bent naar ongerepte ontsnappingen om lichaam, geest en ziel te voeden, dan is deze 13-daagse wellnessreis door Sri Lanka precies wat je nodig hebt."
+      },
+      "tour3": {
+        "title": "Yoga- en meditatiereis in Sri Lanka",
+        "duration": "9 Nachten – 10 Dagen",
+        "description": "Een perfecte uitje voor een yoga- en meditatiereis in Sri Lanka betekent afstand nemen van werk en dagelijkse routine om je terug te trekken op een afgelegen plek (bij voorkeur) en je volledig te focussen…"
+      },
+      "tour4": {
+        "title": "Yogareis in Sri Lanka",
+        "duration": "9 Nachten – 10 Dagen",
+        "description": "Speciaal ontworpen voor holistische heling. Voor deze reis hebben we het Santani Wellness Resort geselecteerd – een van de meest luxueuze yogaretraites in Sri Lanka…"
+      }
+    }
+  },
+  "wildlifeTours": {
+    "title": "Wildlife-reizen",
+    "subtitle": "Ontdek de ongelooflijke biodiversiteit van Sri Lanka en haar majestueuze fauna in hun natuurlijke habitat",
+    "introTitle": "Beleef spannende wildlife-ontmoetingen",
+    "introDescription1": "Onze wildlife-reizen bieden uitzonderlijke kansen om de opmerkelijke biodiversiteit van Sri Lanka te observeren in wereldberoemde nationale parken en beschermde reservaten. Als een van de toonaangevende wildlifebestemmingen in Azië herbergt het eiland luipaarden, olifanten, lippenberen, walvissen, dolfijnen en honderden endemische vogelsoorten.",
+    "introDescription2": "Van de luipaardrijke vlaktes van Yala tot de olifantenverzamelingen in Minneriya en de zee-expedities aan de zuidkust: elk reisplan combineert safaritochten met ervaren natuurgidsen, duurzame accommodaties en meeslepende natuurbelevingen.",
+    "toursTitle": "Uitgelichte wildlife-reizen",
+    "enquireNow": "Vraag Nu",
+    "readMore": "Lees Meer",
+    "tourNotFound": "Reis Niet Gevonden",
+    "tourNotFoundDescription": "De reis die u zoekt bestaat niet.",
+    "backToTours": "Terug naar Reizen",
+    "tours": {
+      "tour1": {
+        "title": "Reis langs de luipaardpaden in Sri Lanka",
+        "duration": "12 Nachten – 13 Dagen",
+        "description": "Volg de ongrijpbare luipaarden van Sri Lanka door vier toonaangevende nationale parken en combineer meeslepende safaritochten met culturele stops en knusse retraites."
+      },
+      "tour2": {
+        "title": "Olifantensafari in Sri Lanka",
+        "duration": "11 Nachten – 12 Dagen",
+        "description": "Het olifantensafari-itinerarium belicht de belangrijkste regio's waar veel olifanten te vinden zijn. Blue Lanka Tours zet zich al jarenlang vastberaden in voor bescherming..."
+      },
+      "tour3": {
+        "title": "Echo's van het wild in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Deze 15-daagse wildlifereis door Sri Lanka biedt een heerlijke mix van avontuur en ontspanning en laat de rijke biodiversiteit en adembenemende landschappen van het land zien."
+      },
+      "tour4": {
+        "title": "Wildlife-tour in Sri Lanka",
+        "duration": "13 Nachten – 14 Dagen",
+        "description": "Het Department of Wildlife Conservation heeft 22 nationale parken in Sri Lanka aangewezen, waarmee het eiland een wereldwijd erkende hotspot voor biodiversiteit is."
+      },
+      "tour5": {
+        "title": "Regenwoudtours Sri Lanka",
+        "duration": "2 Nachten – 3 Dagen",
+        "description": "Sri Lanka heeft de reputatie van 'groen paradijs' verworven en is gezegend met weelderige begroeiing in elke hoek van het eiland."
+      },
+      "tour6": {
+        "title": "Gevederde paden van Ceylon",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Deze 15-daagse vogelobservatiereis is een paradijs voor natuurliefhebbers en biedt de kans om uiteenlopende ecosystemen te verkennen en een grote verscheidenheid aan soorten te spotten."
+      },
+      "tour7": {
+        "title": "Wildlife-fotografietour",
+        "duration": "7 Nachten – 8 Dagen",
+        "description": "Ontmoetingen met wilde dieren, kamperen midden in de natuur, walvissen in de Indische Oceaan en schitterende kustpanorama's vormen de hoogtepunten van deze reis."
+      },
+      "tour8": {
+        "title": "Offroad-avontuurtour in Sri Lanka",
+        "duration": "14 Nachten – 15 Dagen",
+        "description": "Ga op een opwindende 4x4-expeditie door de ruige landschappen van Sri Lanka – van jungle tot duin – met trektochten, safari's en verblijven in unieke eco-resorts."
+      }
+    }
+  },
+  "ourStory": {
+    "title": "Over Ceyara Tours",
+    "intro": "Ceyara Tours is het heden en de toekomst van bestemmingsmanagement in Sri Lanka, waar de meest opwindende tropische vakanties in Zuid-Azië plaatsvinden.",
+    "description": "Opgericht in 2010, hebben we een onwrikbare reputatie opgebouwd voor het bezitten van een indrukwekkend reisportfolio, zelfs voor de meest veeleisende reiziger. Ons inzicht en onze diepgaande kennis van Sri Lanka en zijn mooiste en meest gewaardeerde bestemmingen hebben ons het voorrecht gegeven van het vertrouwen van onze brede en groeiende klantenkring van over de hele wereld, inclusief het Certificaat van Uitmuntendheid 2014, 2015, 2016 en 2017 van TripAdvisor. We brengen u intieme en gepersonaliseerde diensten die ongeëvenaard zijn door de meeste andere reisbedrijven, en we maken het onze verantwoordelijkheid om een vriendelijke relatie tussen klanten en leveranciers te sponsoren om u ultieme tevredenheid van uw Sri Lankaanse vakantie te brengen.\n\nWe hebben meer dan 1000 accommodatie-eigenschappen in ons portfolio en ze zijn gekozen vanwege hun uitmuntende service, speciale betekenis, artistiek en cultureel belang en waar voor uw geld. Deze omvatten boetiekhotels, strandhotels, bungalows en herenhuizen, hotels in culturele gebieden, campings en hotels in het heuvelland. We zorgen ervoor dat elke accommodatieaanbieder waarmee we werken hun goede normen handhaaft en wordt gecontroleerd en begeleid door ons voor kwaliteitsborging. Een gevarieerd aanbod van tours gericht op cultuur, stranden, avontuur en huwelijksreis geeft u de mogelijkheid om vele verborgen wonderen en genoegens van het eiland te ontdekken. We promoten niets wat we niet zelf hebben ervaren en genoten.\nOnze vakanties zijn op maat gemaakt volgens uw vereisten en ons reisadvies is gepersonaliseerd en gedetailleerd om ervoor te zorgen dat u krijgt wat u zoekt in het best mogelijke pakket. Onze diensten samen met onze toewijding om u een comfortabele vakantie te bieden, overtreffen de inspanningen van de onafhankelijke reiziger om het alleen te doen. Ceyara Tours bevordert ook ethisch en verantwoord toerisme en heeft een sterk programma voor maatschappelijk verantwoord ondernemen dat teruggeeft aan lokale gemeenschappen.\n\nWe hebben een 24/7 klantenservice gewijd aan het handhaven van klantenondersteuning wanneer dat nodig is. Onze vloot van luxe voertuigen staat altijd klaar voor transportfaciliteiten en wij zijn een team van zeer opgeleide tourprofessionals, die een waardevolle bron van informatie zijn. Ceyara Tours is een geregistreerd vakantiebedrijf bij de Sri Lanka Tourism Development Authority en garandeert vertrouwen, flexibiliteit, expertise en 100% klanttevredenheid.",
+    "showMore": "MEER TONEN",
+    "showLess": "MINDER TONEN",
+    "whyTitle": "Waarom Ceyara Tours",
+    "whyFeature1": "Gerenommeerde en betrouwbare aanbieders van vakantieoplossingen in Sri Lanka met bijna een decennium ervaring in de industrie.",
+    "whyFeature2": "Vriendelijk team van ervaren reisadviseurs die advies zullen geven met het beste belang van de klant in gedachten.",
+    "whyFeature3": "Toegewijd aan het bieden van gepersonaliseerde vakantieoplossingen met in gedachten maximaal luxe en comfort van de klant.",
+    "startPlanning": "BEGIN MET HET PLANNEN VAN UW REIS",
+    "meetTeamTitle": "Ontmoet het team",
+    "meetTeamDesc1": "We zijn niet zomaar een kamer vol telemarketeers. Elk van onze specialisten leeft en ademt reizen en heeft veel kennis om te delen.",
+    "meetTeamDesc2": "Hier kunt u een gezicht bij de stem zetten en iets meer over hen leren.",
+    "viewOurTeam": "BEKIJK ONS TEAM",
+    "galleryTitle": "Vastgelegde momenten met onze klanten",
+    "loadingGallery": "Galerijafbeeldingen laden...",
+    "noGallery": "Er zijn momenteel geen galerijafbeeldingen beschikbaar.",
+    "testimonialsTitle": "Wat onze klanten zeggen",
+    "loadingTestimonials": "Getuigenissen laden...",
+    "noTestimonials": "Er zijn momenteel geen getuigenissen beschikbaar."
+  },
+  "ourTeam": {
+    "title": "Ons team",
+    "description1": "Bij Ceyara Tours is onze gedeelde passie de schoonheid en het mysterie van Sri Lanka. Ons team, gevestigd in ons kantoor op het eiland, heeft uit eerste hand kennis van zijn wonderen. We zijn meer dan alleen een digitale aanwezigheid; we zijn echte individuen die diepgaande inzichten bieden in de aantrekkingskracht van Sri Lanka. In plaats van zelf te worstelen met reiscomplexiteit, vertrouw op onze experts om een op maat gemaakte Sri Lankaanse ervaring voor u te creëren.",
+    "description2": "Maak kennis met de stemmen achter uw reis, van onze reisspecialisten met hun favoriete lokale aanbevelingen tot ons toegewijde bestuur en managers. Of u nu opnieuw contact met ons opneemt of specifieke begeleiding zoekt, Ceyara Tours staat als de belangrijkste reisorganisator, waardoor uw Sri Lankaanse avontuur ongeëvenaard is."
+  },
+  "maldives": {
+    "heroSubtitle": "Exclusief Gecureerd",
+    "heroTitle": "Maldiven Vakantiepakketten",
+    "heroSubtitleSmall": "met Ceyara Tours",
+    "curatedItineraries": "GECUREERDE ITINERAIRS",
+    "tailormadeExperiences": "OP MAAT GEMAAKTE ERVARINGEN",
+    "sectionTitle": "Gecureerde Itinerairs",
+    "filterAll": "Alle",
+    "filterMaldives": "Maldiven",
+    "filterMaldivesSriLanka": "Maldiven & Sri Lanka",
+    "loadingPackages": "Pakketten laden...",
+    "noPackages": "Er zijn momenteel geen pakketten beschikbaar.",
+    "readMore": "MEER LEZEN",
+    "detailLoading": "Pakket laden...",
+    "detailNotFound": "Pakket niet gevonden",
+    "detailNotFoundDesc": "Het pakket dat u zoekt bestaat niet.",
+    "backToPackages": "Terug naar Maldiven pakketten",
+    "exploreMore": "MEER VERKENNEN",
+    "tailormadeThisTours": "DEZE TOUREN OP MAAT",
+    "itinerary": "Itinerarium",
+    "travelItinerary": "Reisroute",
+    "day": "Dag"
+  },
+  "blog": {
+    "title": "Blog",
+    "loading": "Blogberichten laden...",
+    "noPosts": "Er zijn momenteel geen blogberichten beschikbaar.",
+    "by": "door",
+    "readMore": "MEER LEZEN",
+    "detailLoading": "Blogbericht laden...",
+    "detailNotFound": "Blogbericht niet gevonden",
+    "detailNotFoundDesc": "Het blogbericht dat u zoekt bestaat niet.",
+    "backToBlog": "Terug naar blog"
+  },
+  "planYourTrip": {
+    "subtitle": "Plan slimmer, reis beter",
+    "searchPlaceholder": "Uw Locatie",
+    "selectVehicle": "Selecteer Voertuig",
+    "expectedStartDate": "Verwachte Startdatum",
+    "startingTime": "Starttijd",
+    "guestCount": "Aantal Gasten",
+    "loadingMap": "Kaart laden...",
+    "gettingLocation": "Locatie ophalen...",
+    "useCurrentLocation": "📍 Gebruik Mijn Huidige Locatie",
+    "yourLocation": "Uw Locatie",
+    "start": "Start",
+    "end": "Einde",
+    "point": "Punt",
+    "loadingSystemPlaces": "Systeem suggereert plaatsen...",
+    "loadingNearbyPlaces": "Nabijgelegen plaatsen laden...",
+    "noSavedPlacesFound": "Geen opgeslagen plaatsen gevonden binnen 20 km (systeem suggereert plaatsen)",
+    "min": "min",
+    "mins": "min",
+    "hour": "uur",
+    "hours": "uren",
+    "currency": "LKR",
+    "stayDuration": "Verblijfsduur",
+    "stayCost": "Verblijfskosten",
+    "distance": "Afstand",
+    "costPerKm": "Kosten/km",
+    "total": "Totaal",
+    "steps": {
+      "start": "Uw Locatie",
+      "waypoints": "Tussenstops",
+      "end": "Eindpunt",
+      "addWaypoint": "Voeg uw tussenstop toe"
+    },
+    "skipToEnd": "Ga naar Eindpunt",
+    "addWaypoint": "Tussenstop Toevoegen",
+    "cancel": "Tussenstop Annuleren",
+    "complete": {
+      "title": "Reis Gepland!",
+      "description": "Uw route is gepland. U kunt doorgaan met het toevoegen van meer tussenstops of uw reis indienen.",
+      "addMore": "Meer Punten Toevoegen"
+    },
+    "errors": {
+      "googleMapsApiKey": "Google Maps API-sleutel niet gevonden. Stel NEXT_PUBLIC_GOOGLE_MAPS_API_KEY in uw omgevingsvariabelen in.",
+      "locationOutsideSriLanka": "Selecteer alleen een locatie binnen Sri Lanka.",
+      "geolocationNotSupported": "Geolocatie wordt niet ondersteund door uw browser.",
+      "locationOutsideSriLankaDetailed": "Uw locatie bevindt zich buiten Sri Lanka. Selecteer een locatie binnen Sri Lanka.",
+      "mapNotLoaded": "Kaart is nog niet geladen. Even geduld a.u.b.",
+      "locationAccessDenied": "Toegang tot locatie geweigerd. Sta locatietoegang toe of voer uw locatie handmatig in.",
+      "locationUnavailable": "Locatie-informatie niet beschikbaar. Voer uw locatie handmatig in.",
+      "locationTimeout": "Locatieverzoek is verlopen. Probeer opnieuw of voer uw locatie handmatig in.",
+      "locationError": "Er is een fout opgetreden bij het ophalen van uw locatie. Voer uw locatie handmatig in.",
+      "invalidLocation": "Voer eerst een geldige locatie in."
+    }
+  },
+  "common": {
+    "loading": "Laden...",
+    "loadingTours": "Tours laden...",
+    "error": "Fout",
+    "errorLoadingTours": "Fout bij het laden van tours",
+    "notFound": "Niet Gevonden",
+    "postNotFound": "Bericht niet gevonden",
+    "failedToLoadPost": "Bericht kon niet worden geladen",
+    "packageNotFound": "Pakket niet gevonden",
+    "experienceNotFound": "Ervaring niet gevonden",
+    "destinationNotFound": "Bestemming niet gevonden",
+    "tourNotFound": "Tour niet gevonden",
+    "accommodationNotFound": "Accommodatie niet gevonden",
+    "failedToFetchNavigation": "Navigatie kon niet worden opgehaald",
+    "anErrorOccurred": "Er is een fout opgetreden"
+  },
+  "teamRoles": {
+    "founderManagingDirector": "Oprichter / Algemeen Directeur",
+    "salesManager": "Verkoopmanager",
+    "accountant": "Accountant",
+    "seniorExecutiveOperationsMarketing": "Senior Uitvoerend Operations en Marketing",
+    "accountsExecutive": "Account Uitvoerend"
+  },
+  "enquiry": {
+    "messageTemplate": {
+      "header": "🌴 *Ceyara Tours - Reisverzoek* 🌴",
+      "personalInfo": "*Persoonlijke Informatie:*",
+      "name": "👤 Naam:",
+      "email": "📧 E-mail:",
+      "phone": "📱 Telefoon:",
+      "country": "🌍 Land:",
+      "travelDetails": "*Reisgegevens:*",
+      "travelDates": "📅 Reisdatums:",
+      "duration": "⏰ Duur:",
+      "travelers": "👥 Aantal Reizigers:",
+      "budget": "💰 Budgetbereik:",
+      "interests": "*Interesses:*",
+      "additionalMessage": "*Extra Bericht:*",
+      "separator": "---",
+      "footer": "*Verzonden vanaf Ceyara Tours Website*"
+    },
+    "messengerTemplate": {
+      "header": "🌴 Ceyara Tours - Reisverzoek 🌴",
+      "personalInfo": "Persoonlijke Informatie:",
+      "name": "👤 Naam:",
+      "email": "📧 E-mail:",
+      "phone": "📱 Telefoon:",
+      "country": "🌍 Land:",
+      "travelDetails": "Reisgegevens:",
+      "travelDates": "📅 Reisdatums:",
+      "duration": "⏰ Duur:",
+      "travelers": "👥 Aantal Reizigers:",
+      "budget": "💰 Budgetbereik:",
+      "interests": "Interesses:",
+      "additionalMessage": "Extra Bericht:",
+      "separator": "---",
+      "footer": "Verzonden vanaf Ceyara Tours Website"
+    },
+    "emailTemplate": {
+      "header": "🌴 Ceyara Tours - Reisverzoek 🌴",
+      "personalInfo": "Persoonlijke Informatie:",
+      "name": "👤 Naam:",
+      "email": "📧 E-mail:",
+      "phone": "📱 Telefoon:",
+      "country": "🌍 Land:",
+      "travelDetails": "Reisgegevens:",
+      "travelDates": "📅 Reisdatums:",
+      "duration": "⏰ Duur:",
+      "travelers": "👥 Aantal Reizigers:",
+      "budget": "💰 Budgetbereik:",
+      "interests": "Interesses:",
+      "additionalMessage": "Extra Bericht:",
+      "separator": "---",
+      "footer": "Verzonden vanaf Ceyara Tours Website"
+    }
+  },
+  "navigation": {
+    "dayTours": {
+      "anuradhapuraDayTour": "Anuradhapura Dagtour",
+      "belihuloyaDayTour": "Belihuloya Dagtour",
+      "colomboDayTour": "Dagtour van Colombo",
+      "galleDayTour": "Galle Dagtour",
+      "geoffreyBawaWorks": "Geoffrey Bawa Werken in Sri Lanka",
+      "hotAirBallooningDayTour": "Heetluchtballon Dagtour",
+      "kandyDayTour": "Kandy Dagtour",
+      "kithulgalaWhiteWaterRafting": "Kithulgala Wildwatervaren",
+      "littleEnglandDayTour": "Klein Engeland Dagtour",
+      "negomboLagoonFishingDayTour": "Negombo Lagune Vissen Dagtour",
+      "polonnaruwaDayTour": "Polonnaruwa Dagtour",
+      "sigiriyaDambullaDayTour": "Sigiriya & Dambulla Dagtour",
+      "sinharajaDayTour": "Sinharaja Dagtour",
+      "udawalaweNationalParkDayTour": "Udawalawe Nationaal Park Dagtour",
+      "whaleWatchingDayTour": "Walvissen Kijken Dagtour",
+      "wilpattuNationalParkDayTour": "Wilpattu Nationaal Park Dagtour",
+      "yalaNationalParkDayTour": "Yala Nationaal Park Dagtour"
+    }
+  },
+  "registration": {
+    "title": "Vind Chauffeurs & Reisgidsen",
+    "subtitle": "Zoek en maak verbinding met professionele chauffeurs en reisgidsen",
+    "searchPlaceholder": "Zoek op naam, district of contact...",
+    "selectType": "Selecteer Type:",
+    "all": "Alles",
+    "tourDriver": "Tour Chauffeur",
+    "tourGuide": "Reisgids",
+    "showInquiry": "Inquiry Formulier Tonen",
+    "hideInquiry": "Inquiry Formulier Verbergen",
+    "inquiry": "Inquiry",
+    "name": "Naam",
+    "contactNumber": "Contactnummer",
+    "submitting": "Verzenden...",
+    "submit": "Verzenden",
+    "inquirySubmitted": "Inquiry succesvol verzonden!",
+    "inquiryError": "Inquiry verzenden mislukt. Probeer het opnieuw.",
+    "drivers": "Tour Chauffeurs",
+    "guides": "Reisgidsen",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "noResults": "Geen chauffeurs of gidsen gevonden die overeenkomen met uw zoekopdracht.",
+    "registerAsDriver": "Registreren als Chauffeur",
+    "registerAsGuide": "Registreren als Reisgids",
+    "fullName": "Volledige Naam (Zoals op ID-kaart)",
+    "nicPassportNumber": "ID-kaart/Paspoortnummer",
+    "dateOfBirth": "Geboortedatum",
+    "whatsappNumber": "WhatsApp-nummer",
+    "emailAddress": "E-mailadres (Optioneel)",
+    "residentialAddress": "Woonadres",
+    "district": "District/Provincie",
+    "emergencyContactName": "Naam Noodcontact",
+    "emergencyContactNumber": "Noodcontactnummer",
+    "registering": "Registreren...",
+    "register": "Registreren",
+    "cancel": "Annuleren",
+    "registrationSuccess": "Registratie succesvol ingediend. Ons beheerteam neemt contact met u op en na goedkeuring wordt uw profiel zichtbaar op de site.",
+    "registrationError": "Registratie mislukt. Probeer het opnieuw.",
+    "nicPhotoNote": "Opmerking: ID-kaartfoto's kunnen na de eerste registratie via het beheerpaneel worden geüpload.",
+    "profilePhoto": "Profielfoto",
+    "nicPhotoFront": "ID-kaart Foto (Voorkant)",
+    "nicPhotoBack": "ID-kaart Foto (Achterkant)",
+    "chooseFile": "Bestand Kiezen",
+    "request": "Aanvragen",
+    "requestTour": "Tour Aanvragen",
+    "touristName": "Toerist Naam",
+    "touristEmail": "Toerist E-mail",
+    "touristContact": "Toerist Contact",
+    "startDate": "Startdatum",
+    "endDate": "Einddatum",
+    "filterStartDate": "Tour Startdatum:",
+    "filterEndDate": "Tour Einddatum:",
+    "clearDates": "Datums Wissen",
+    "submitRequest": "Aanvraag Verzenden",
+    "drivingLicenceDetails": "Rijbewijs Details",
+    "drivingLicenceFront": "Rijbewijs (Voorkant)",
+    "drivingLicenceBack": "Rijbewijs (Achterkant)",
+    "tourDrivingExperience": "Tour Rijervaring",
+    "yearsOfExperience": "Jaren Tour Rijervaring",
+    "languagesSpoken": "Gesproken Talen",
+    "areasFamiliar": "Bekende Gebieden",
+    "areas": {
+      "western_province": "Westelijke Provincie",
+      "hill_country": "Berggebied",
+      "cultural_triangle": "Culturele Driehoek",
+      "south_coast": "Zuidkust",
+      "east_coast": "Oostkust",
+      "entire_country": "Hele Land"
+    },
+    "vehicleDetails": "Voertuig Details",
+    "vehicleType": "Voertuigtype",
+    "selectVehicleType": "-- Selecteer Voertuigtype --",
+    "car": "Auto",
+    "van": "Bestelwagen",
+    "bus": "Bus",
+    "vehicleRegistrationBook": "Kentekenbewijs (Kopie)",
+    "revenueLicence": "Belastinglicentie (Kopie)",
+    "insuranceCard": "Verzekeringskaart (Kopie)",
+    "vehiclePhotos": "Voertuig Foto's",
+    "vehiclePhotoFront": "Vooraanzicht",
+    "vehiclePhotoBack": "Achteraanzicht",
+    "vehiclePhotoSide": "Zijaanzicht",
+    "vehiclePhotoInterior": "Interieur",
+    "bankPaymentInfo": "Bank- en Betalingsinformatie",
+    "bankName": "Banknaam",
+    "bankBranch": "Filiaal",
+    "accountHolderName": "Naam Rekeninghouder",
+    "accountNumber": "Rekeningnummer"
+  }
+}

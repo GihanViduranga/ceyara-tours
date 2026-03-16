@@ -1,0 +1,2465 @@
+{
+  "nav": {
+    "tailorMadeTours": "Circuits sur mesure",
+    "itineraries": "Itinéraires",
+    "dayTours": "Excursions à la journée",
+    "accommodation": "Hébergements",
+    "discoverSriLanka": "Découvrir le Sri Lanka",
+    "ourStory": "Notre histoire",
+    "maldives": "Maldives",
+    "blog": "Blog",
+    "registration": "Inscription",
+    "planYourTrip": "PLANIFIEZ VOTRE VOYAGE",
+    "enquireNow": "DEMANDER UN DEVIS"
+  },
+  "hero": {
+    "title": "Découvrez la beauté du Sri Lanka",
+    "subtitle": "Votre voyage, notre priorité",
+    "tagline": "Vivez des paysages à couper le souffle, une culture riche et des aventures inoubliables avec Ceyara Tours",
+    "curatedItineraries": "Itinéraires sélectionnés",
+    "tailormadeExperiences": "Expériences sur mesure",
+    "dayTours": "Excursions d'une journée",
+    "dayToursSubtitle": "Découvrez notre sélection soigneusement organisée d'excursions d'une journée et d'expériences"
+  },
+  "about": {
+    "title": "À propos de Ceyara Tours",
+    "description": "Nous mettons en valeur la beauté et le patrimoine culturel du Sri Lanka. Nos circuits offrent des expériences authentiques qui vous relient à l'âme de l'île.",
+    "experience": "Années d'expérience",
+    "tours": "Circuits réussis",
+    "customers": "Clients satisfaits",
+    "destinations": "Destinations couvertes",
+    "magicalMemories": "Souvenirs magiques,",
+    "bespokeExperiences": "expériences sur mesure",
+    "description1": "Ceyara Tours crée des souvenirs magiques et des expériences sur mesure révélant la culture et les paysages du Sri Lanka.",
+    "description2": "Notre engagement : une histoire personnalisée, pas seulement un voyage – des plages isolées aux temples anciens.",
+    "planTrip": "PLANIFIEZ VOTRE VOYAGE AU SRI LANKA"
+  },
+  "stats": {
+    "area": "km² de superficie",
+    "provinces": "Provinces",
+    "places": "Lieux à visiter"
+  },
+  "features": {
+    "title": "Itinéraires sélectionnés",
+    "expertGuides": {
+      "title": "Lune de miel au Sri Lanka",
+      "description": "Vous cherchez un moyen de vous détendre après le stress de l'organisation du mariage ? Une lune de miel au Sri Lanka offre aux couples l'opportunité de se détendre sur les plages exotiques, d'explorer d'anciens temples et de profiter de couchers de soleil romantiques au paradis.",
+      "alt": "Lune de miel au Sri Lanka"
+    },
+    "authenticExperiences": {
+      "title": "Circuit bien-être au Sri Lanka",
+      "description": "Si vous recherchez des escapades hors des sentiers battus pour nourrir votre corps, votre esprit et votre âme, voici un circuit bien-être de 13 jours au Sri Lanka. Trouvez la sérénité ultime, la relaxation et offrez-vous un séjour dans les retraites écologiques les plus précieuses de l'île.",
+      "alt": "Circuit bien-être au Sri Lanka"
+    },
+    "flexibleItineraries": {
+      "title": "Sri Lanka enchanteur | Ceylan enchanteur",
+      "description": "Un voyage complet avec de nombreuses activités incluses pour profiter au maximum de votre temps dans le pays. Découvrez le meilleur de la culture, de la nature et du patrimoine du Sri Lanka en un voyage inoubliable.",
+      "alt": "Circuit Sri Lanka enchanteur"
+    },
+    "bestPrice": {
+      "title": "Circuit de dernière minute au Sri Lanka",
+      "description": "Le circuit de dernière minute au Sri Lanka est dédié aux voyageurs de dernière minute. Ne vous inquiétez pas des décisions de dernière minute, nos experts sont prêts à tout moment pour répondre à toutes vos demandes de dernière minute et créer un circuit bien planifié adapté à vos besoins.",
+      "alt": "Circuit de dernière minute au Sri Lanka"
+    },
+    "readMore": "En savoir plus"
+  },
+  "destinations": {
+    "title": "Destinations populaires",
+    "hillCountry": {
+      "title": "Région montagneuse",
+      "description": "Ella, Nuwara Eliya, Kandy"
+    },
+    "coastalParadise": {
+      "title": "Paradis côtier",
+      "description": "Galle, Mirissa, Trincomalee"
+    },
+    "wildlifeSafari": {
+      "title": "Safari",
+      "description": "Yala, Wilpattu, Udawalawe"
+    },
+    "culturalTriangle": {
+      "title": "Triangle culturel",
+      "description": "Anuradhapura, Polonnaruwa, Sigiriya"
+    }
+  },
+  "cta": {
+    "title": "Prêt à explorer le Sri Lanka ?",
+    "description": "Rejoignez des milliers de voyageurs satisfaits qui ont découvert le paradis avec nous",
+    "viewAllTours": "Voir toutes les excursions"
+  },
+  "footer": {
+    "tagline": "Votre porte d'entrée vers le paradis",
+    "description": "Découvrez la beauté enchanteresse du Sri Lanka avec nos circuits conçus avec soin – des temples aux plages.",
+    "quickLinks": {
+      "title": "Liens rapides",
+      "tailorMadeTours": "Circuits sur mesure",
+      "itineraries": "Itinéraires",
+      "dayTours": "Excursions à la journée",
+      "accommodation": "Hébergements",
+      "discoverSriLanka": "Découvrir le Sri Lanka",
+      "maldives": "Maldives"
+    },
+    "destinations": {
+      "title": "Destinations populaires",
+      "sigiriya": "Forteresse du rocher de Sigiriya",
+      "kandy": "Temple de Kandy",
+      "anuradhapura": "Anuradhapura",
+      "ella": "Ella",
+      "galle": "Fort de Galle",
+      "yala": "Parc national de Yala"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "123 Tourism Street, Colombo 01, Sri Lanka"
+    },
+    "copyright": "Tous droits réservés.",
+    "privacyPolicy": "Confidentialité",
+    "termsConditions": "Conditions générales",
+    "cookies": "Politique de cookies",
+    "certifications": {
+      "tripAdvisor": "Excellence Tripadvisor",
+      "licensed": "Agence agréée",
+      "insured": "Entièrement assuré"
+    }
+  },
+  "enquiry": {
+    "title": "Planifiez votre aventure sri-lankaise de rêve",
+    "subtitle": "Obtenez des recommandations de voyage personnalisées et des devis instantanés via WhatsApp",
+    "feature1": "Itinéraires sur mesure",
+    "feature2": "Meilleurs hébergements",
+    "feature3": "Guides locaux experts",
+    "formTitle": "Parlez-nous de votre voyage",
+    "formSubtitle": "Remplissez le formulaire ci-dessous et nous vous enverrons un devis détaillé via WhatsApp",
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "phone": "Numéro de téléphone",
+    "country": "Pays",
+    "travelDates": "Dates de voyage préférées",
+    "duration": "Durée du voyage",
+    "travelers": "Nombre de voyageurs",
+    "budget": "Fourchette de budget",
+    "interests": "Intérêts de voyage",
+    "message": "Exigences supplémentaires",
+    "namePlaceholder": "Entrez votre nom complet",
+    "emailPlaceholder": "votre.email@exemple.com",
+    "phonePlaceholder": "+94 77 123 456",
+    "countryPlaceholder": "ex. France",
+    "travelDatesPlaceholder": "ex. 15-25 mars 2024",
+    "selectDuration": "Sélectionner la durée",
+    "selectTravelers": "Sélectionner le nombre de voyageurs",
+    "selectBudget": "Sélectionner la fourchette de budget",
+    "interestsPlaceholder": "ex. Faune, Culture, Plages, Aventure...",
+    "messagePlaceholder": "Exigences spéciales ou questions...",
+    "days": "jours",
+    "person": "personne",
+    "people": "personnes",
+    "sendViaWhatsApp": "Envoyer via WhatsApp",
+    "sendViaMessenger": "Envoyer via Messenger",
+    "formNote": "Votre demande sera envoyée directement à nos experts voyage via WhatsApp ou Messenger pour une réponse immédiate"
+  },
+  "adventureNature": {
+    "title": "Circuits d'Aventure et de Nature",
+    "subtitle": "Découvrez le côté sauvage du Sri Lanka avec des aventures palpitantes et une beauté naturelle à couper le souffle",
+    "introTitle": "Découvrez les Merveilles Naturelles du Sri Lanka",
+    "introDescription1": "Partez pour un voyage inoubliable à travers les paysages diversifiés du Sri Lanka, des sommets montagneux brumeux aux forêts tropicales luxuriantes et aux cascades immaculées. Nos circuits Aventure et Nature sont conçus pour les amateurs de sensations fortes et les passionnés de nature qui souhaitent explorer la beauté intacte de l'île.",
+    "introDescription2": "Que vous randonniez sur des sentiers anciens, observiez la faune dans son habitat naturel ou campiez sous des ciels étoilés, nos guides experts vous garantissent une aventure sûre et mémorable.",
+    "toursTitle": "Circuits d'Aventure en Vedette",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "Lire Plus",
+    "featuresTitle": "À Quoi S'Attendre",
+    "feature1Title": "Randonnée en Montagne",
+    "feature1Description": "Défiez-vous avec des randonnées guidées à travers les plus hauts sommets du Sri Lanka et les chaînes de montagnes pittoresques.",
+    "feature2Title": "Sentiers Naturels",
+    "feature2Description": "Explorez les forêts tropicales immaculées, les cascades et les joyaux cachés avec des guides naturalistes expérimentés.",
+    "feature3Title": "Rencontres avec la Faune",
+    "feature3Description": "Observez des oiseaux exotiques, des éléphants et d'autres animaux sauvages dans leurs habitats naturels lors de safaris guidés.",
+    "feature4Title": "Activités de Plein Air",
+    "feature4Description": "Vivez le camping, l'escalade et d'autres aventures de plein air dans des cadres naturels époustouflants.",
+    "ctaTitle": "Prêt pour Votre Aventure?",
+    "ctaDescription": "Contactez-nous pour personnaliser votre parfait circuit d'aventure et de nature au Sri Lanka",
+    "ctaButton": "Planifiez Votre Aventure",
+    "tourNotFound": "Circuit Non Trouvé",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux Circuits",
+    "tours": {
+      "tour1": {
+        "title": "Circuit Aventure Tout-Terrain au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Partez pour un voyage palpitant en 4x4 à travers les terrains sauvages du Sri Lanka, des jungles aux dunes, avec des randonnées, des safaris et des séjours dans des éco-resorts uniques."
+      },
+      "tour2": {
+        "title": "Découvrez la Vraie Élégance et le Luxe avec la Collection W15",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Le voyage commencera par un séjour reposant d'une nuit à Colombo. Commencez votre aventure en poursuivant votre route vers…"
+      },
+      "tour3": {
+        "title": "Circuit de l'Arboretum au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Les Jardins Botaniques du Sri Lanka sont entourés de feuillage luxuriant de tous côtés, ce qui en fait une destination idéale pour les amateurs de nature. Découvrez les Parcs de l'Arboretum…"
+      },
+      "tour4": {
+        "title": "Circuit Éco au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Notre Circuit Éco est créé en combinant certaines des expériences les plus uniques que vous puissiez obtenir, explorant les échappées cachées du Sri Lanka au milieu de la nature puissante qui vous entoure."
+      },
+      "tour5": {
+        "title": "Sri Lanka Enchanté | Ceylan Enchanté",
+        "duration": "10 Nuits – 11 Jours",
+        "description": "En commençant à Negombo, voyagez à travers sa campagne vers des trésors captivants dans le triangle culturel du Sri Lanka qui abondent d'Anuradhapura à Kandy…"
+      },
+      "tour6": {
+        "title": "Circuit Randonnée et Trekking au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Bienvenue sur l'île paradisiaque – le Sri Lanka. Vous êtes dans l'une des plus grandes aventures de votre vie avec Blue Lanka Tours, Circuit de Randonnée et Trekking."
+      },
+      "tour7": {
+        "title": "Circuit Photographie du Pays des Collines au Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Vous cherchez à explorer la nature à son meilleur avec votre appareil photo? Ce circuit photographique du pays des collines au Sri Lanka vous donnera exactement cela! Vous emmenant aux points de vue de Kandy, Nuwara Eliya et Ella…"
+      },
+      "tour8": {
+        "title": "Circuit Explorateur de Séjour Chez l'Habitant au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Vous en avez assez de séjourner dans des hôtels et cherchez un refuge chaleureux lors de votre prochain voyage? Si vous avez répondu oui, alors tout ce dont vous avez besoin est un endroit agréable pour séjourner…"
+      },
+      "tour9": {
+        "title": "Circuit de Dernière Minute au Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Le Circuit de Dernière Minute au Sri Lanka est dédié aux voyageurs de dernière minute. Ne vous inquiétez pas des décisions de dernière minute, nos experts sont prêts pour vous à tout moment…"
+      },
+      "tour10": {
+        "title": "Circuit Aventure au Sri Lanka",
+        "duration": "7 Nuits – 14 Jours",
+        "description": "Les amateurs d'aventure, jeunes ou vieux, apprécieront sûrement cet itinéraire. Il comprend des activités passionnantes telles que des safaris fauniques, de l'escalade, du rafting en eaux vives…"
+      },
+      "tour11": {
+        "title": "Circuit des Sentiers Naturels au Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Le Circuit des Sentiers Naturels de Blue Lanka Tours est l'un des itinéraires les plus époustouflants que nous proposons. En tant que l'une des destinations touristiques les plus populaires au monde…"
+      },
+      "tour12": {
+        "title": "Sentiers à Plumes de Ceylan",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Ce circuit d'observation des oiseaux de 15 jours au Sri Lanka est un paradis pour les amateurs de nature, offrant la possibilité d'explorer les écosystèmes diversifiés du pays et d'observer une grande variété d'espèces d'oiseaux."
+      },
+      "tour13": {
+        "title": "Échos de la Nature au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Ce circuit faunique de 15 jours au Sri Lanka offre un mélange délicieux d'aventure et de détente, présentant la riche biodiversité et les paysages époustouflants du pays."
+      },
+      "tour14": {
+        "title": "Circuit Hors des Sentiers Battus au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Le Circuit Hors des Sentiers Battus au Sri Lanka est l'un des circuits les plus recherchés de Blue Lanka Tours sur sa liste soigneusement sélectionnée d'emplacements et d'attractions touristiques…"
+      },
+      "tour15": {
+        "title": "Circuits de la Forêt Tropicale au Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Le Sri Lanka a gagné la fierté de 'paradis vert' du monde et est béni d'une végétation verte dans chaque recoin de l'île."
+      },
+      "tour16": {
+        "title": "Circuit du Thé au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Un must absolu pour les amateurs de thé, un Circuit du Thé avec Blue Lanka Tours qui couvre les principales Plantations de Thé et l'expérience du thé dans le pays. Ce circuit expérientiel…"
+      },
+      "tour17": {
+        "title": "Circuit du Village Veddah au Sri Lanka",
+        "duration": "8 Nuits – 9 Jours",
+        "description": "Nous croyons que notre Itinéraire du Circuit du Village Veddah vous donne l'opportunité qui ne sera pas disponible pour toujours. Avec le développement rapide, l'habitation authentique des aborigènes"
+      },
+      "tour18": {
+        "title": "Circuit à Pied du Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Le Sri Lanka est béni de créations merveilleuses de la nature et le pays des collines de l'île est la meilleure certification pour cela. Cascades bouillonnantes, champs tapissés de thé, montagnes émouvantes…"
+      },
+      "tour19": {
+        "title": "Circuit Vélo au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Le Sri Lanka est une excellente destination cycliste, avec des routes bien entretenues et des cadres naturels diversifiés et pittoresques. Il y a tant à apprécier…"
+      },
+      "tour20": {
+        "title": "Circuit de Spéléologie au Sri Lanka",
+        "duration": "Décidez de Vos Propres Jours",
+        "description": "La spéléologie est une activité récréative d'exploration de grottes. C'est une étude scientifique des grottes, comment elles sont formées, structure, caractéristiques physiques, histoire et leur forme de vie."
+      }
+    }
+  },
+  "cultureHeritage": {
+    "title": "Tours culture et patrimoine",
+    "subtitle": "Découvrez le riche patrimoine culturel et les merveilles antiques du Sri Lanka",
+    "introTitle": "Explorez les trésors culturels du Sri Lanka",
+    "introDescription1": "Embarquez pour un voyage dans le temps en explorant le riche patrimoine culturel et les civilisations anciennes du Sri Lanka. Nos circuits Culture et Patrimoine vous emmènent vers les sites du patrimoine mondial de l'UNESCO, les villes anciennes, les temples sacrés et les monuments historiques qui racontent l'histoire de plus de 2 500 ans de civilisation.",
+    "introDescription2": "De l'ancienne forteresse rocheuse de Sigiriya au temple sacré de la Dent à Kandy, découvrez les merveilles architecturales, l'importance religieuse et les traditions culturelles qui font du Sri Lanka une destination unique pour les amateurs d'histoire et de culture.",
+    "toursTitle": "Circuits culture et patrimoine en vedette",
+    "enquireNow": "Demander maintenant",
+    "readMore": "Lire la suite",
+    "tourNotFound": "Circuit non trouvé",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Tour de Photographie Culturelle au Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "En plus de son magnifique paysage naturel, le Sri Lanka possède une riche culture et un patrimoine. C'est votre chance de capturer la perception actuelle d'une histoire vieille de plusieurs siècles…"
+      },
+      "tour2": {
+        "title": "Tour Culturel au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Pour une analyse approfondie de l'histoire, de la culture et des traditions du Sri Lanka ancien et moderne, ce circuit culturel du Sri Lanka est exactement ce dont vous avez besoin. Commençant par Anuradhapura…"
+      },
+      "tour3": {
+        "title": "Tour du Triangle Culturel au Sri Lanka",
+        "duration": "6 Nuits – 7 Jours",
+        "description": "Le Triangle Culturel est nommé d'après trois sites historiques importants qui forment un triangle."
+      },
+      "tour4": {
+        "title": "Tour du Ramayana",
+        "duration": "6 Nuits – 7 Jours",
+        "description": "De nombreuses générations ont été fascinées par l'histoire du Ramayana et, par conséquent, il y a eu un impact significatif sur l'art et la culture dans toute l'Inde et l'Asie du Sud-Est…"
+      },
+      "tour5": {
+        "title": "Tour des Sites du Patrimoine Mondial de l'UNESCO au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "La Liste du Patrimoine Mondial de l'UNESCO comprend huit attractions uniques au Sri Lanka qui sont considérées comme faisant partie du patrimoine mondial et doivent être protégées."
+      },
+      "tour6": {
+        "title": "Tour du Village Veddah au Sri Lanka",
+        "duration": "8 Nuits – 9 Jours",
+        "description": "Nous croyons que notre itinéraire du Tour du Village Veddah vous offre une opportunité qui ne sera pas disponible pour toujours. Avec le rythme rapide des développements, l'habitation authentique…"
+      }
+    }
+  },
+  "familyTours": {
+    "title": "Circuits familiaux",
+    "subtitle": "Créez des souvenirs inoubliables avec vos proches au Sri Lanka",
+    "introTitle": "Aventures familiales au Sri Lanka",
+    "introDescription1": "Partez pour une aventure familiale à travers les paysages et attractions variés du Sri Lanka, conçue pour ravir les voyageurs de tous âges. Nos circuits familiaux offrent le parfait équilibre entre aventure, culture, détente et amusement.",
+    "introDescription2": "Des safaris et activités de plage aux expériences culturelles et visites éducatives, nous veillons à ce que chaque membre de la famille vive un voyage mémorable. Hébergements adaptés aux familles, activités sûres, horaires flexibles et guides experts sont inclus.",
+    "toursTitle": "Circuits familiaux en vedette",
+    "enquireNow": "Demander maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Circuit non trouvé",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Circuit au Sri Lanka avec un bébé",
+        "duration": "14 nuits – 15 jours",
+        "description": "Découvrez les merveilles du Sri Lanka avec votre bébé lors de vacances familiales alliant aventures douces et séjours luxueux à travers sites culturels, collines et plages."
+      },
+      "tour2": {
+        "title": "Amusement en famille au Sri Lanka",
+        "duration": "13 nuits – 14 jours",
+        "description": "Le Sri Lanka devient de plus en plus une destination populaire pour les vacances en famille grâce à sa beauté rurale, son hospitalité et ses activités de plein air amusantes."
+      },
+      "tour3": {
+        "title": "Circuit familial au Sri Lanka",
+        "duration": "11 nuits – 12 jours",
+        "description": "Partez en vacances passionnantes avec votre famille grâce à ce circuit conçu exclusivement pour vous. Les plus jeunes peuvent escalader le « Mini Adam's Peak »,…"
+      },
+      "tour4": {
+        "title": "Circuit enfants avec les Big Five du Sri Lanka",
+        "duration": "5 nuits – 6 jours",
+        "description": "Des ours paresseux aux cachalots, le Sri Lanka abrite une faune remarquable – un circuit incontournable à faire avec vos enfants…"
+      },
+      "tour5": {
+        "title": "Circuit au Sri Lanka avec des enfants",
+        "duration": "6 nuits – 7 jours",
+        "description": "Ce circuit de 7 jours au Sri Lanka avec des enfants a été conçu pour offrir un maximum de plaisir pour des vacances ni trop courtes, ni trop longues…"
+      },
+      "tour6": {
+        "title": "Circuit plage au Sri Lanka",
+        "duration": "7 jours – Côte Est 7 jours – Côte Ouest 7 jours – Côte Sud – 14 jours",
+        "description": "Offrez-vous un magnifique bronzage doré tout en vous détendant sur les plages de sable doux et les eaux calmes du Sri Lanka."
+      }
+    }
+  },
+  "luxuryBespoke": {
+    "title": "Circuits Sur Mesure de Luxe",
+    "subtitle": "Vivez l'ultime en matière de voyage de luxe personnalisé à travers le Sri Lanka",
+    "introTitle": "Offrez-vous des Expériences Sri-Lankaises Exclusives",
+    "introDescription1": "Découvrez le Sri Lanka avec un style et un confort inégalés grâce à nos Circuits Sur Mesure de Luxe. Ces expériences soigneusement organisées combinent hébergements de classe mondiale, transferts privés, activités exclusives et service personnalisé pour créer le voyage de luxe ultime adapté à vos désirs.",
+    "introDescription2": "Des hôtels boutiques et resorts de luxe aux villas privées en bord de mer et propriétés patrimoniales, nous proposons des itinéraires sur mesure qui mettent en valeur le meilleur du Sri Lanka. Que ce soit pour une escapade romantique, une retraite bien-être ou la célébration d'un occasion spéciale, nos circuits de luxe garantissent que chaque moment est extraordinaire.",
+    "toursTitle": "Circuits Sur Mesure de Luxe en Vedette",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "Lire Plus",
+    "tourNotFound": "Circuit Non Trouvé",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux Circuits",
+    "tours": {
+      "tour1": {
+        "title": "Redécouvrez le Luxe avec Amaya Retreats",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Cet itinéraire de 12 jours présente quelques-unes des propriétés exceptionnelles d'une marque hôtelière locale bien-aimée au Sri Lanka – Amaya. Profitez d'expériences organisées, d'équipements luxueux et d'un service personnalisé dans des destinations pittoresques lors de cette évasion raffinée."
+      },
+      "tour2": {
+        "title": "Vivez la Vraie Élégance et le Luxe avec W15 Collection",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Le voyage commence par un séjour reposant d'une nuit à Colombo avant de poursuivre vers des propriétés W15 soigneusement sélectionnées à travers l'île. Savourez une gastronomie raffinée, des excursions sur mesure et l'équilibre parfait entre détente et exploration tout au long de votre séjour."
+      },
+      "tour3": {
+        "title": "Passez Vos Vacances dans les Maisons de l'Authentique Hospitalité Sri-Lankaise",
+        "duration": "15 Nuits – 16 Jours",
+        "description": "Explorez les joyaux emblématiques et cachés du Sri Lanka lors de vacances Jetwing Hotels, avec des séjours organisés dans le triangle culturel, les collines brumeuses et les rivages dorés. Vivez une hospitalité insulaire authentique, des excursions immersives et un confort luxueux à chaque endroit."
+      },
+      "tour4": {
+        "title": "Circuit Luxueux au Rythme Lent au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Le Sri Lanka est l'endroit idéal pour des vacances de luxe en famille, en couple, en solo ou en groupe, avec de nombreuses activités pour les voyageurs sur cette petite île. Ce voyage au rythme lent se concentre sur des séjours indulgentes, des expériences tranquilles et des aventures sur mesure adaptées à vos préférences."
+      },
+      "tour5": {
+        "title": "Le Sri Lanka à Travers les Yeux d'Uga Properties",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Uga Escapes présente une sélection d'échappées sri-lankaises qui trouvent l'équilibre parfait entre nature, bien-être et aventure. Découvrez le luxe boutique dans des retraites côtières, des terres culturelles et des sanctuaires fauniques avec des expériences organisées à chaque étape."
+      },
+      "tour6": {
+        "title": "Circuit Boutique de Luxe avec les Propriétés Resplendent Ceylon",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Le circuit Boutique de Luxe de 12 jours de Blue Lanka Tours avec les propriétés Resplendent Ceylon est conçu pour les voyageurs recherchant des vacances au rythme lent et ultra-luxueuses. Profitez d'une hospitalité primée, d'une cuisine gastronomique et d'expériences organisées dans les lieux les plus exclusifs du Sri Lanka."
+      },
+      "tour7": {
+        "title": "Circuit de Luxe Autour du Sri Lanka avec Teardrop Hotels",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Explorez à la fois les classiques et les coins moins connus du Sri Lanka lors d'un voyage Teardrop Hotels. Séjournez dans des propriétés boutiques pleines de caractère, savourez un luxe d'inspiration locale et profitez d'expériences immersives qui révèlent le charme intemporel de l'île."
+      }
+    }
+  },
+  "purposeBuilt": {
+    "title": "Circuits Spécialisés",
+    "subtitle": "Des itinéraires conçus pour répondre à vos objectifs et passions de voyage",
+    "introTitle": "Des voyages pensés pour votre intention",
+    "introDescription1": "Nos circuits spécialisés sont conçus avec soin pour satisfaire des envies très précises. Que vous célébriez un événement, poursuiviez une passion ou recherchiez un type d'expérience particulier, ces itinéraires répondent exactement à vos attentes.",
+    "introDescription2": "De la lune de miel romantique aux retraites bien-être, en passant par les immersions culturelles, les voyages photo ou solo, chaque circuit réunit hébergements, activités et rencontres adaptés à vos objectifs.",
+    "toursTitle": "Circuits spécialisés à la une",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "Lire Plus",
+    "tourNotFound": "Circuit Non Trouvé",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux Circuits",
+    "tours": {
+      "tour1": {
+        "title": "Plongée en pleine nature et retraites rustiques",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Découvrez les terres sauvages du Sri Lanka lors d'un parcours mêlant parcs nationaux, villages isolés et éco-retraites pleines de charme. Safaris à l'aube, rencontres communautaires et balades guidées offrent une immersion totale sans sacrifier le confort."
+      },
+      "tour2": {
+        "title": "Sur les traces des léopards du Sri Lanka",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Suivez les léopards insaisissables dans les parcs de Yala, Wilpattu, Kumana et Horton Plains aux côtés de rangers experts. Entre les safaris, profitez d'hôtels boutique, de haltes culturelles et d'une cuisine locale généreuse."
+      },
+      "tour3": {
+        "title": "Aventure tout-terrain au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Embarquez pour une expédition 4x4 des forêts tropicales aux dunes côtières. Pistes techniques, randonnées dans les gorges et nuits en éco-lodges dévoilent la face la plus brute du pays."
+      },
+      "tour4": {
+        "title": "Circuit accessible au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Voyagez l'esprit léger grâce à un itinéraire pensé pour l'accessibilité. Hôtels sans obstacles, véhicules adaptés et guides formés rendent chaque expérience – faune, culture ou gastronomie – confortable et inclusive."
+      },
+      "tour5": {
+        "title": "Circuit des gemmes au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Accompagnez des maîtres lapidaires dans les mines, ateliers et salons privés du triangle gemmologique. Apprenez les techniques traditionnelles, rencontrez des familles artisanes et composez votre collection de pierres de Ceylan."
+      },
+      "tour6": {
+        "title": "Circuit photo dans les Hautes Terres",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Capturez vallées brumeuses, plantations de thé et cascades avec des photographes professionnels. Séances à l'aube, train panoramique et ateliers d'édition affinent chaque image."
+      },
+      "tour7": {
+        "title": "Explorateur en maison d'hôtes",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Vivez chez l'habitant dans des foyers soigneusement sélectionnés à travers l'île. Partagez la cuisine, les tâches quotidiennes et découvrez temples, marchés et réserves naturelles à un rythme authentique."
+      },
+      "tour8": {
+        "title": "Lune de miel au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Détendez-vous après le mariage avec villas privées, dîners sur la plage, rituels bien-être pour deux et excursions sur mesure. Des côtes secrètes aux montagnes embrumées, chaque détail respire la romance."
+      },
+      "tour9": {
+        "title": "Circuit solo au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Conçu pour les voyageurs indépendants, ce parcours mêle activités accompagnées et temps libre. Guides attentifs à la sécurité, journées flexibles et rencontres locales vous permettent d'explorer à votre manière."
+      },
+      "tour10": {
+        "title": "Circuit Sri Lanka et Maldives",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Associez icônes culturelles, nature et faune sri-lankaises aux lagons turquoise des Maldives. Transferts privés, vols coordonnés et excursions triées sur le volet équilibrent exploration et détente balnéaire."
+      },
+      "tour11": {
+        "title": "Circuit bien-être au Sri Lanka",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Retrouvez votre équilibre avec consultations ayurvédiques, pratiques conscientes et cuisine végétale. Sanctuaires de bien-être, rituels guérisseurs et immersion en pleine nature régénèrent corps, esprit et âme."
+      },
+      "tour12": {
+        "title": "Circuit du thé au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Plongez dans l'héritage du thé de Ceylan. Séjournez dans des bungalows de planteurs, visitez les domaines avec des experts et dégustez des crus rares, de la feuille jusqu'à la tasse."
+      },
+      "tour13": {
+        "title": "Circuit photo faune sauvage",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Rejoignez des naturalistes spécialisés pour photographier léopards, éléphants et oiseaux aux premières et dernières lueurs du jour. Ateliers sur la traque, la composition et l'éthique affinent votre portfolio."
+      },
+      "tour14": {
+        "title": "Circuit village Veddah",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Rencontrez la communauté autochtone Veddah dans un esprit de respect mutuel. Découvrez techniques ancestrales, traditions forestières et rituels tout en soutenant la préservation de ce patrimoine vivant."
+      },
+      "tour15": {
+        "title": "Circuit photo culturel",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Immortalisez festivals, artisans et sites classés grâce à des accès privilégiés. Séances guidées, autorisations et décryptages culturels vous assurent des images intemporelles et sensibles."
+      },
+      "tour16": {
+        "title": "Circuit gastronomique au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Savourez le Sri Lanka à travers ateliers culinaires immersifs, jardins d'épices et tournées street-food. Cuisinez avec chefs et familles pour maîtriser spécialités régionales et recettes secrètes."
+      },
+      "tour17": {
+        "title": "Circuit Geoffrey Bawa au Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Célébrez l'architecte visionnaire Geoffrey Bawa lors de visites privées de ses œuvres emblématiques – villas modernistes tropicales, hôtels et jardins luxuriants. Des spécialistes expliquent le génie de chaque création."
+      }
+    }
+  },
+  "northEastCoast": {
+    "title": "Circuits Côte Nord et Est",
+    "subtitle": "Explorez les plages préservées et la beauté intacte des côtes nord et est du Sri Lanka",
+    "introTitle": "Découvrez les Joyaux Cachés du Littoral du Sri Lanka",
+    "introDescription1": "Aventurez-vous hors des sentiers battus pour explorer les régions stupéfiantes des côtes nord et est du Sri Lanka. Ces zones offrent des plages préservées, des eaux cristallines, des récifs coralliens vibrants et une tapisserie culturelle unique qui les distingue de la côte sud plus touristique. Vivez une vie côtière authentique, des sports nautiques et la chaleureuse hospitalité des communautés locales.",
+    "introDescription2": "De la ville historique de Jaffna au paradis du surf d'Arugam Bay, des plages tranquilles de Trincomalee aux rivages sereins de Passikudah, nos circuits Côte Nord et Est mettent en valeur des régions qui ont conservé leur beauté naturelle et leur authenticité culturelle, offrant aux voyageurs une aventure côtière inoubliable.",
+    "toursTitle": "Circuits Côte Nord et Est en Vedette",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "Lire Plus",
+    "tourNotFound": "Circuit Non Trouvé",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux Circuits",
+    "tours": {
+      "tour1": {
+        "title": "Circuit ferroviaire au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Le train est l'un des moyens les plus palpitants pour traverser le Sri Lanka. Installez-vous dans des wagons au charme vintage, traversez plantations de thé, montagnes embrumées et plaines côtières tout en profitant de panoramas spectaculaires."
+      },
+      "tour2": {
+        "title": "Croisière et navigation au Sri Lanka",
+        "duration": "Durées et itinéraires flexibles",
+        "description": "Embarquez sur un catamaran de luxe ou un yacht côtier pour explorer les eaux cristallines du Sri Lanka. Des sorties au coucher du soleil aux croisières de plusieurs jours, personnalisez votre aventure avec snorkeling, pique-niques insulaires et dîner gastronomique."
+      },
+      "tour3": {
+        "title": "Tour en hélicoptère au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Découvrez le Sri Lanka depuis le ciel. Des pilotes chevronnés vous conduisent de sites patrimoniaux en plages secrètes et réserves animalières, transformant chaque transfert en survol panoramique mémorable."
+      },
+      "tour4": {
+        "title": "Circuit en tuk-tuk au Sri Lanka",
+        "duration": "10 Nuits – 11 Jours",
+        "description": "Parcourez les rues animées du Sri Lanka comme les locaux, à bord d'un tuk-tuk. Pénétrez dans les ruelles étroites, visitez monuments anciens, marchés colorés et routes côtières accompagné d'un guide-chauffeur expert."
+      }
+    }
+  },
+  "popularTours": {
+    "title": "Tours Populaires",
+    "subtitle": "Découvrez les expériences de voyage les plus appréciées et recommandées du Sri Lanka",
+    "introTitle": "Vivez le meilleur du Sri Lanka",
+    "introDescription1": "Notre collection de Tours Populaires réunit les itinéraires les plus demandés qui ont enchanté des milliers de voyageurs. Ces expériences minutieusement sélectionnées mettent en valeur le meilleur du Sri Lanka en combinant sites emblématiques, beauté naturelle spectaculaire, riche patrimoine culturel et aventures inoubliables saluées par des visiteurs du monde entier.",
+    "introDescription2": "Du fascinant triangle culturel et des hautes terres brumeuses aux plages immaculées et safaris palpitants, nos tours populaires proposent des itinéraires parfaitement équilibrés qui capturent l'essence du Sri Lanka. Ces voyages éprouvés offrent une valeur exceptionnelle et des souvenirs mémorables aux primo-visiteurs comme aux habitués.",
+    "toursTitle": "Les tours les plus populaires au Sri Lanka",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Tour introuvable",
+    "tourNotFoundDescription": "Le tour que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux tours",
+    "tours": {
+      "tour1": {
+        "title": "Au cœur de la nature avec des retraites rustiques",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Découvrez la facette indomptée du Sri Lanka lors d'un voyage sur mesure à travers parcs nationaux, villages isolés et retraites écologiques rustiques. Cet itinéraire exclusif associe rencontres intimistes avec la faune, routes panoramiques et expériences hors des sentiers battus sans jamais sacrifier le confort."
+      },
+      "tour2": {
+        "title": "Sur les traces des léopards au Sri Lanka",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Pistez les léopards insaisissables du Sri Lanka à Yala, Wilpattu, Kumana et Horton Plains tout en profitant d'hébergements boutique et de safaris guidés. Haltes culturelles, points de vue spectaculaires et cuisine locale complètent cette chasse mémorable à la faune."
+      },
+      "tour3": {
+        "title": "Circuit classique au Sri Lanka",
+        "duration": "8 Nuits – 9 Jours",
+        "description": "Vivez l'essentiel du Sri Lanka avec une route classique qui équilibre villes patrimoniales, hautes terres brumeuses, plaines riches en faune et plages baignées de soleil. L'itinéraire idéal pour une première découverte."
+      },
+      "tour4": {
+        "title": "Explorez Kandy, Nuwara Eliya et Bentota au Sri Lanka",
+        "duration": "5 Nuits – 6 Jours",
+        "description": "Combinez le charme culturel de Kandy, les sentiers de thé rafraîchissants de Nuwara Eliya et la douceur côtière de Bentota en une escapade fluide. Parfait pour les voyageurs en quête de variété, de trajets panoramiques et d'expériences iconiques en moins d'une semaine."
+      },
+      "tour5": {
+        "title": "Circuit famille au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Conçu pour les familles curieuses, cet itinéraire équilibre culture, aventure douce et temps libre. Rencontres animales, activités participatives et resorts adaptés aux familles vous attendent pour explorer l'île ensemble."
+      },
+      "tour6": {
+        "title": "Circuit photo dans les Hautes Terres du Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Capturez le meilleur des Hautes Terres sri-lankaises grâce à des panoramas au lever du soleil, des plantations embrumées, des cascades et des villes de montagne pleines de charme. Séances encadrées et conseils d'experts aident les photographes de tout niveau à saisir le cliché parfait."
+      },
+      "tour7": {
+        "title": "Circuit de dernière minute au Sri Lanka",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Voyager à la dernière minute n'a jamais été aussi simple. Notre équipe sécurise les meilleurs hébergements disponibles, organise les excursions phares et crée un programme flexible qui couvre tout de même les incontournables du Sri Lanka."
+      },
+      "tour8": {
+        "title": "Circuit du Ramayana",
+        "duration": "6 Nuits – 7 Jours",
+        "description": "Suivez le légendaire circuit du Ramayana au Sri Lanka avec des visites de temples sacrés, de grottes cachées et de sites culturels. Des guides passionnés donnent vie à l'épopée tandis que vous profitez d'hébergements confortables et de récits captivants."
+      },
+      "tour9": {
+        "title": "Se détendre et se ressourcer au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Ralentissez et rechargez vos batteries avec un voyage régénérant qui associe boutiques-hôtels, soins ayurvédiques, plages isolées et retraites panoramiques. Idéal pour ceux qui veulent mélanger détente et exploration en douceur."
+      },
+      "tour10": {
+        "title": "Circuit shopping au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Savourez l'effervescente scène shopping du Sri Lanka – joaillerie artisanale, batik, thé, épices et boutiques de créateurs. Des experts sélectionnent les meilleurs marchés, ateliers et galeries tout en prévoyant du temps pour les visites."
+      },
+      "tour11": {
+        "title": "Mini-séjour au Sri Lanka",
+        "duration": "2 Nuits – 3 Jours",
+        "description": "Profitez pleinement d'une escapade express grâce à un programme soigné qui réunit expérience culturelle emblématique, bouffée de nature et détente généreuse en seulement trois jours inoubliables."
+      },
+      "tour12": {
+        "title": "Mini-séjour au Sri Lanka 1",
+        "duration": "3 Nuits – 4 Jours",
+        "description": "Parfait pour une extension de séjour ou un long week-end, ce mini-séjour combine détente balnéaire et pointe d'aventure afin que chaque journée soit bien remplie sans effort."
+      },
+      "tour13": {
+        "title": "Mini-séjour au Sri Lanka 2",
+        "duration": "3 Nuits – 4 Jours",
+        "description": "Un itinéraire compact pensé pour les chasseurs de bons plans, avec excursions phares, pauses gastronomiques choisies et hébergements confortables reflétant l'hospitalité sri-lankaise."
+      },
+      "tour14": {
+        "title": "Circuit solo au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Conçu pour les voyageurs solo, ce circuit privilégie sécurité, flexibilité et expériences immersives. Rencontrez des experts locaux, rejoignez des aventures en petit groupe et séjournez dans des hébergements triés pour les explorateurs indépendants."
+      },
+      "tour15": {
+        "title": "Circuit Sri Lanka et Maldives",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Profitez du meilleur de deux paradis insulaires. Parcourez les icônes culturelles et les paysages luxuriants du Sri Lanka avant de vous détendre sur les plages immaculées des Maldives en villa sur pilotis ou en bord de mer."
+      },
+      "tour16": {
+        "title": "Itinéraire Sri Lanka 7 jours",
+        "duration": "6 Nuits – 7 Jours",
+        "description": "Parfait pour les agendas serrés, cet itinéraire d'une semaine condense sites culturels, escapade dans les Hautes Terres, rencontres animalières et final détente sur la plage."
+      },
+      "tour17": {
+        "title": "Itinéraire Sri Lanka 14 jours",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Passez deux semaines à explorer les paysages variés de l'île – royaumes anciens, routes du thé embrumées, parcs nationaux et refuges côtiers – avec un rythme soigneusement étudié."
+      },
+      "tour18": {
+        "title": "Itinéraire Sri Lanka 21 jours",
+        "duration": "20 Nuits – 21 Jours",
+        "description": "Une expédition complète de trois semaines qui couvre chaque recoin du Sri Lanka. Plongez dans sa culture, sa cuisine, sa faune, ses aventures et sa détente balnéaire avec du temps dans chaque région."
+      },
+      "tour19": {
+        "title": "Circuit faune au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Rencontrez éléphants, léopards, ours lippus, baleines et une avifaune chatoyante dans les principaux parcs nationaux et habitats marins du Sri Lanka. Des naturalistes chevronnés encadrent chaque safari."
+      },
+      "tour20": {
+        "title": "Circuit plage au Sri Lanka",
+        "duration": "Personnalisable : de 7 à 21 jours",
+        "description": "Composez votre escapade balnéaire idéale avec des séjours modulables sur les côtes est, ouest et sud. Combinez resorts en bord de mer, sports nautiques, observation des baleines et journées ensoleillées en toute liberté."
+      },
+      "tour21": {
+        "title": "Sentiers emplumés de Ceylan",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Un paradis pour les passionnés d'ornithologie : ce circuit traverse forêts, zones humides et hauts plateaux pour observer espèces endémiques et migratrices aux côtés d'ornithologues spécialisés."
+      },
+      "tour22": {
+        "title": "Circuit de luxe au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Offrez-vous le summum du luxe sri-lankais avec des hébergements d'exception, des expériences sur mesure, des transferts privés, une cuisine gastronomique et des excursions personnalisées."
+      },
+      "tour23": {
+        "title": "Circuits tout autour du Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Parcourez l'île à un rythme maîtrisé qui couvre triangle culturel, Hautes Terres, réserves animalières et retraites balnéaires pour un aperçu équilibré du Sri Lanka."
+      },
+      "tour24": {
+        "title": "Circuit des sites UNESCO au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Cochez les huit sites du patrimoine mondial de l'UNESCO au Sri Lanka avec des guides experts, des accès privilégiés et des récits immersifs qui font revivre des siècles d'histoire."
+      },
+      "tour25": {
+        "title": "Échos sauvages au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Alliez aventure et sérénité avec un itinéraire centré sur la nature comprenant safaris en 4x4, lodges spécialisés, croisières fluviales et parenthèses bien-être au cœur de la jungle."
+      },
+      "tour26": {
+        "title": "Circuit 04 jours – Kandy – Nuwara Eliya – Colombo",
+        "duration": "3 Nuits – 4 Jours",
+        "description": "Optimisez un court séjour grâce à une boucle reliant les sites spirituels de Kandy, le charme théier de Nuwara Eliya et l'énergie cosmopolite de Colombo, avec visites guidées essentielles."
+      },
+      "tour27": {
+        "title": "Insufflez des expériences locales à vos vacances",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Imprégnez vos vacances d'expériences locales grâce à des ateliers pratiques, des rencontres communautaires, des cours de cuisine et des séjours immersifs célébrant la vie authentique de l'île."
+      },
+      "tour28": {
+        "title": "Circuit des pierres précieuses au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Suivez la légendaire route des gemmes du Sri Lanka avec visites de mines, ateliers d'artisans et sessions guidées sur les saphirs de Ceylan, tout en profitant de trajets panoramiques et de sites culturels."
+      }
+    }
+  },
+
+  "cms": {
+    "destinations": {
+      "Hill Country": "Région montagneuse",
+      "Coastal Paradise": "Paradis côtier",
+      "Wildlife Safari": "Safari",
+      "Cultural Triangle": "Triangle culturel"
+    },
+    "itineraries": {
+      "Adventure & Nature based Tours": "Tours d'aventure et de nature",
+      "Culture & Heritage Tours": "Tours culture et patrimoine",
+      "Family Tours": "Tours en famille",
+      "Luxury Bespoke Tours": "Tours de luxe sur mesure",
+      "North & East Coast Tours": "Tours côte nord et est",
+      "Popular Tours": "Tours populaires",
+      "Purpose Built Tours": "Tours spécialisés",
+      "Romantic Tours": "Tours romantiques",
+      "Special Transit Tours": "Tours de transit spéciaux",
+      "Sports Based Tours": "Tours sportifs",
+      "Sustainable Tours": "Tours durables",
+      "Wellness Tours": "Tours bien-être",
+      "Wildlife Tours": "Tours faune",
+      "introDescription1": "Explorez notre gamme diversifiée d'itinéraires soigneusement conçus pour mettre en valeur le meilleur du Sri Lanka. Des expériences d'aventure et de nature au patrimoine culturel et aux circuits de luxe sur mesure, nous avons quelque chose pour chaque voyageur.",
+      "introDescription2": "Chaque itinéraire est pensé par notre équipe d'experts pour vous offrir des expériences inoubliables et des rencontres authentiques avec la culture, la nature et l'hospitalité sri-lankaises."
+    },
+    "dayTours": {
+      "introDescription1": "Bienvenue sur la belle île émeraude connue sous le nom de Sri Lanka ! Permettez-nous de vous saluer avec un salut de \"Ayubowan\" qui signifie \"Puissiez-vous vivre longtemps et en bonne santé\" et de vous offrir un choix passionnant de circuits pour profiter et transformer vos vacances en délice !",
+      "introDescription2": "Des circuits qui vous emmènent de la capitale commerciale Colombo à la végétation étonnante du Pays des Collines ; aux sites et sons des villes animées du Sud Profond ; aux anciennes villes situées dans la ceinture Culturelle et aux zones côtières du Nord où le riche patrimoine culturel de notre île est célébré dans la vie quotidienne.",
+      "introDescription3": "Venez découvrir la variété des circuits proposés et nous chez Blue Lanka Tours serons heureux de vous aider !"
+    },
+    "accommodation": {
+      "title": "Hébergement au Sri Lanka",
+      "introDescription1": "Découvrez un confort et une élégance sans pareil avec la sélection soignée d'hébergements de Ceyara Tours au Sri Lanka. Notre agence de voyage premium garantit que votre séjour est un mélange harmonieux de luxe et d'authenticité. Des resorts idylliques en bord de mer aux charmantes retraites boutique, chaque hébergement est soigneusement choisi pour refléter le charme unique de son environnement. Vivez l'apogée de l'hospitalité en vous détendant dans des logements sélectionnés à la main qui rehaussent la beauté de votre séjour au Sri Lanka. Laissez Ceyara Tours élever votre expérience de voyage avec des hébergements qui résonnent avec l'âme de cette nation insulaire captivante.",
+      "introDescription2": "Vivez la fusion parfaite du luxe et du charme local avec les hébergements sélectionnés à la main de Ceyara Tours à travers le Sri Lanka. Chaque séjour est soigneusement choisi pour vous offrir confort, sérénité et un sentiment authentique de lieu. Que vous préfériez les sons apaisants des vagues de l'océan, la brume fraîche des retraites des collines, ou la chaleur culturelle des villas de style patrimonial, notre collection garantit une expérience inoubliable. Savourez une hospitalité de classe mondiale, des environnements uniques et des détails exquis qui reflètent la riche beauté du Sri Lanka. Avec Ceyara Tours, chaque moment de votre séjour devient une partie chère de votre voyage.",
+      "loading": "Chargement des hébergements...",
+      "errorLoading": "Erreur lors du chargement des hébergements",
+      "noAccommodations": "Aucun hébergement disponible pour le moment.",
+      "notFound": "Hébergement introuvable",
+      "notFoundDescription": "L'hébergement que vous recherchez n'existe pas.",
+      "backToAccommodations": "Retour aux hébergements",
+      "roomsAndSuites": "Chambres et suites",
+      "noOfRestaurants": "Nombre de restaurants",
+      "locatedIn": "Situé à",
+      "managedBy": "Géré par",
+      "exploreMore": "EXPLORER PLUS",
+      "planATourForMe": "PLANIFIER UNE VISITE POUR MOI",
+      "mostPopularFacilities": "Installations les plus populaires",
+      "roomTypes": "Types de chambres",
+      "roomSize": "Taille de la chambre",
+      "room": "Chambre",
+      "rooms": "Chambres",
+      "restaurant": "Restaurant",
+      "restaurants": "Restaurants"
+    },
+    "discover": {
+      "title": "Découvrir le Sri Lanka",
+      "description": "Explorez la beauté enchanteresse, la riche culture et les expériences inoubliables qui font du Sri Lanka une destination vraiment magique.",
+      "loading": "Chargement...",
+      "errorLoading": "Erreur lors du chargement des données",
+      "exploreMore": "EXPLORER PLUS",
+      "tailorMakeTour": "CRÉER UNE VISITE SUR MESURE",
+      "topAttractions": "Attractions principales",
+      "destinations": {
+        "title": "Destinations",
+        "description": "Découvrez les destinations diverses et captivantes à travers le Sri Lanka, chacune offrant des expériences uniques et une beauté à couper le souffle.",
+        "pageDescription": "Découvrez les destinations diverses et captivantes à travers le Sri Lanka, chacune offrant des expériences uniques et une beauté à couper le souffle.",
+        "loading": "Chargement des destinations...",
+        "errorLoading": "Erreur lors du chargement des destinations",
+        "noItems": "Aucune destination disponible.",
+        "notFound": "Destination introuvable",
+        "notFoundDescription": "La destination que vous recherchez n'existe pas.",
+        "backToDestinations": "Retour aux destinations",
+        "discoverAll": "Découvrir toutes les destinations"
+      },
+      "experiences": {
+        "title": "Expériences",
+        "description": "Immergez-vous dans des expériences authentiques du Sri Lanka qui créeront des souvenirs durables et approfondiront votre lien avec cette belle île.",
+        "pageDescription": "Immergez-vous dans des expériences authentiques du Sri Lanka qui créeront des souvenirs durables et approfondiront votre lien avec cette belle île.",
+        "loading": "Chargement des expériences...",
+        "errorLoading": "Erreur lors du chargement des expériences",
+        "noItems": "Aucune expérience disponible.",
+        "notFound": "Expérience introuvable",
+        "notFoundDescription": "L'expérience que vous recherchez n'existe pas.",
+        "backToExperiences": "Retour aux expériences",
+        "discoverAll": "Découvrir toutes les expériences",
+        "whereYouCanExperience": "Où vous pouvez vivre"
+      }
+    },
+    "menu": {
+      "Destinations": "Destinations",
+      "Experiences": "Expériences",
+      "About": "À propos",
+      "Our Team": "Notre équipe"
+    }
+  },
+  "itineraryTours": {
+    "sayYesInSerendipity": {
+      "title": "Dites Oui sur l'Île de la Sérénité",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire romantique offre aux couples des expériences inoubliables de demande en mariage et de mariage dans les endroits les plus pittoresques du Sri Lanka, des cérémonies en bord de mer aux retraites dans le pays des collines et aux célébrations culturelles."
+    },
+    "purifyAndDiscover": {
+      "title": "Purifiez-vous et Découvrez-vous",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Cet itinéraire bien-être offre des voyages spirituels transformateurs à travers d'anciens traitements ayurvédiques, des retraites de méditation et des sessions de yoga au milieu des paysages naturels paisibles et des sites sacrés du Sri Lanka."
+    },
+    "landAndSea": {
+      "title": "Sri Lanka Terre et Mer",
+      "duration": "10 Nuits – 11 Jours",
+      "description": "Cet itinéraire complet combine l'exploration culturelle des villes anciennes avec la détente sur la plage, offrant des expériences variées des safaris fauniques aux activités côtières à travers les paysages variés du Sri Lanka."
+    },
+    "intoTheWild": {
+      "title": "Dans la Nature avec des Retraites Rustiques",
+      "duration": "8 Nuits – 9 Jours",
+      "description": "Cet itinéraire d'aventure offre des expériences fauniques immersives et des séjours écologiques dans les parcs nationaux, offrant des rencontres authentiques avec la flore et la faune diversifiées du Sri Lanka dans leurs habitats naturels."
+    },
+    "healthyHoliday": {
+      "title": "Vacances Saines avec Anasa Wellness Resort",
+      "duration": "5 Nuits – 6 Jours",
+      "description": "Cet itinéraire axé sur le bien-être offre des expériences régénérantes incluant le yoga, la méditation et les traitements holistiques à l'Anasa Wellness Resort au milieu de l'environnement montagneux tranquille et de la beauté naturelle d'Ella."
+    },
+    "leopardsTrails": {
+      "title": "Tour sur les Sentiers des Léopards au Sri Lanka",
+      "duration": "6 Nuits – 7 Jours",
+      "description": "Cet itinéraire axé sur la faune offre des expériences spécialisées de suivi des léopards dans les parcs nationaux de Yala et Wilpattu, offrant des opportunités exceptionnelles d'observer les grands félins emblématiques du Sri Lanka dans leur habitat naturel."
+    },
+    "authenticHospitality": {
+      "title": "Passez vos Vacances dans les Maisons de l'Hospitalité Authentique du Sri Lanka",
+      "duration": "9 Nuits – 10 Jours",
+      "description": "Cet itinéraire d'immersion culturelle offre des expériences authentiques de séjour chez l'habitant avec des familles locales, offrant de véritables aperçus des traditions, de la cuisine et de l'hospitalité chaleureuse du Sri Lanka dans différentes régions."
+    },
+    "tourWithBaby": {
+      "title": "Tour du Sri Lanka avec un Bébé",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire adapté aux familles offre des expériences de voyage confortables et sûres pour bébés avec des hébergements adaptés aux enfants et des activités douces adaptées aux familles voyageant avec des nourrissons et de jeunes enfants à travers le Sri Lanka."
+    },
+    "w15Collection": {
+      "title": "Découvrez la Vraie Élégance et le Luxe avec la Collection W15",
+      "duration": "4 Nuits – 5 Jours",
+      "description": "Cet itinéraire de luxe offre des séjours exclusifs dans les propriétés W15, offrant des expériences premium avec des hébergements sophistiqués, des services personnalisés et un accès à des attractions uniques dans des destinations soigneusement sélectionnées."
+    },
+    "amayaRetreats": {
+      "title": "Redécouvrez le Luxe avec Amaya Retreats",
+      "duration": "11 Nuits – 12 Jours",
+      "description": "Amaya Hotels and Resorts présente une merveilleuse collection de propriétés dispersées dans différentes mais principales régions du pays et avec cet itinéraire, nous vous permettons d'explorer six des principales propriétés."
+    },
+    "offRoadAdventure": {
+      "title": "Circuit Aventure Tout-Terrain au Sri Lanka",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Embarquez pour une expédition robuste de 15 jours à travers les terrains les plus sauvages du Sri Lanka, conçue pour les amateurs d'aventure et les amoureux de la nature."
+    },
+    "cinnamonFlagship": {
+      "title": "Imprégnez vos Vacances d'Ambiance Locale au Flaggschiff de Cinnamon",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Ce voyage immersif de 14 jours présente le meilleur du patrimoine, de la faune et du littoral du Sri Lanka, combinant confort, culture et aventure."
+    },
+    "cricketTour": {
+      "title": "Sri Lanka contre Australie 2025 – Tour de Cricket",
+      "duration": "18 Nuits – 19 Jours",
+      "description": "Assistez à l'excitation de la série de tests Sri Lanka contre Australie 2025 tout en explorant les attractions les plus emblématiques du Sri Lanka."
+    },
+    "classicTour": {
+      "title": "Circuit Classique au Sri Lanka",
+      "duration": "8 Nuits – 9 Jours",
+      "description": "Notre itinéraire de circuit classique exclusif offre un accès à de grands souvenirs de voyage sur cette petite île du Sri Lanka mélangés à une dose écrasante d'histoire…"
+    },
+    "exploreKandyNuwaraBentota": {
+      "title": "Explorez Kandy, Nuwara Eliya et Bentota au Sri Lanka",
+      "duration": "5 Nuits – 6 Jours",
+      "description": "Le Sri Lanka est rapidement l'une des destinations touristiques les plus populaires d'Asie. Cette nation est riche en sites historiques anciens, de magnifiques plages et une beauté naturelle à couper le souffle."
+    },
+    "featheredTrails": {
+      "title": "Sentiers à Plumes de Ceylan",
+      "duration": "8 Nuits – 9 Jours",
+      "description": "Cet itinéraire spécialisé d'observation des oiseaux offre des expériences aviaires exceptionnelles dans divers habitats, offrant des opportunités d'observer les espèces d'oiseaux endémiques et migratrices du Sri Lanka dans des emplacements de choix à travers l'île."
+    },
+    "echoesOfWild": {
+      "title": "Échos de la Nature au Sri Lanka",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire d'aventure faunique offre des expériences de safari immersives dans plusieurs parcs nationaux, offrant des rencontres avec des éléphants, des léopards et une faune diversifiée dans les zones sauvages protégées du Sri Lanka."
+    },
+    "unforgettableAdventuresSLMaldives": {
+      "title": "Aventures Inoubliables au Sri Lanka et aux Maldives",
+      "duration": "10 Nuits – 11 Jours",
+      "description": "Cet itinéraire à double destination combine les expériences culturelles et fauniques du Sri Lanka avec les resorts de luxe des Maldives, offrant des aventures variées des ruines anciennes aux villas sur pilotis et activités marines."
+    },
+    "twinCenterSLMaldives": {
+      "title": "Tour Twin Center Sri Lanka Maldives",
+      "duration": "9 Nuits – 10 Jours",
+      "description": "Cet itinéraire combiné offre l'exploration culturelle des sites patrimoniaux du Sri Lanka suivie de détente sur la plage dans les resorts de luxe des Maldives, offrant des expériences variées des merveilles anciennes au paradis tropical."
+    },
+    "divingMaldivesExplorer": {
+      "title": "Expérience de Plongée Palpitante avec Maldives Explorer",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire axé sur la plongée offre des aventures sous-marines exceptionnelles dans les meilleurs sites de plongée des Maldives, explorant des récifs coralliens vibrants, une vie marine diversifiée et des paysages sous-marins spectaculaires avec un encadrement professionnel."
+    },
+    "teenAdventureSLMaldives": {
+      "title": "Tour Aventure Ados au Sri Lanka et aux Maldives",
+      "duration": "11 Nuits – 12 Jours",
+      "description": "Cet itinéraire riche en action offre des activités passionnantes pour les adolescents incluant sports nautiques, safaris fauniques et aventures culturelles à travers les paysages diversifiés du Sri Lanka et l'environnement marin époustouflant des Maldives."
+    },
+    "familyHolidaySLMaldives": {
+      "title": "Vacances en Famille au Sri Lanka et aux Maldives",
+      "duration": "12 Nuits – 13 Jours",
+      "description": "Cet itinéraire familial complet offre des activités adaptées aux enfants, des expériences culturelles et de la détente sur la plage dans les deux destinations, offrant des aventures mémorables adaptées à tous les âges de la faune aux sports nautiques."
+    },
+    "waterSportsSLMaldives": {
+      "title": "Tour Sports Nautiques Sri Lanka Maldives",
+      "duration": "10 Nuits – 11 Jours",
+      "description": "Cet itinéraire d'aventure aquatique offre des activités de sports nautiques étendues dans les deux destinations, du surf et observation des baleines du Sri Lanka à la plongée, snorkeling et expériences marines de luxe des Maldives."
+    },
+    "honeymoonSLMaldives": {
+      "title": "Tour Lune de Miel Sri Lanka Maldives",
+      "duration": "12 Nuits – 13 Jours",
+      "description": "Cet itinéraire romantique offre aux couples des expériences luxueuses incluant dîners privés, traitements spa et hébergements exclusifs à travers les sites culturels du Sri Lanka et les villas sur pilotis et plages immaculées des Maldives."
+    },
+    "adultFriendlySLMaldives": {
+      "title": "Tour Sri Lanka Maldives avec Hôtels Adultes",
+      "duration": "11 Nuits – 12 Jours",
+      "description": "Cet itinéraire réservé aux adultes offre des hébergements sophistiqués et des expériences tranquilles adaptées aux couples et voyageurs adultes, avec des resorts exclusifs, gastronomie fine et activités axées sur la détente dans les deux destinations."
+    },
+    "bestOfBothWorlds": {
+      "title": "Le Meilleur des Deux Mondes Sri Lanka et Maldives",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Cet itinéraire complet à double destination combine le patrimoine culturel et les expériences fauniques du Sri Lanka avec le paradis insulaire de luxe des Maldives, offrant des aventures variées des ruines anciennes aux bungalows sur pilotis."
+    },
+    "babyMooningSLMaldives": {
+      "title": "Baby Mooning au Sri Lanka et aux Maldives",
+      "duration": "10 Nuits – 11 Jours",
+      "description": "Cet itinéraire de vacances prénatales offre des expériences relaxantes et sûres pour les futurs parents, avec des activités douces, traitements spa et hébergements confortables adaptés à la grossesse dans les deux destinations."
+    },
+    "privateIslandHoliday": {
+      "title": "08 Jours Vacances sur Île Privée aux Maldives",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire exclusif offre une intimité totale et le luxe sur une île privée maldivienne, avec des services personnalisés, des plages intactes et des expériences sur mesure dans un cadre de paradis tropical intime."
+    },
+    "romanceBeachHurawalhi": {
+      "title": "Romance sur la Plage Hurawalhi Island Resort",
+      "duration": "6 Nuits – 7 Jours",
+      "description": "Cet itinéraire intime aux Maldives offre aux couples des expériences romantiques exclusives au Hurawalhi Island Resort, avec dîners privés, villas sur pilotis et le plus grand restaurant sous-marin au monde pour dîner."
+    },
+    "nightlyEntertainmentKurumba": {
+      "title": "08 Jours Divertissement Nocturne au Kurumba Maldives",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire vibrant aux Maldives offre divertissement et activités quotidiens au Kurumba Resort, avec musique live, spectacles culturels, soirées à thème et options récréatives variées aux côtés d'hébergements de luxe en bord de mer."
+    },
+    "luxuryFamilyWaldorf": {
+      "title": "08 Jours Vacances Familiales de Luxe au Waldorf Astoria Maldives",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire familial premium offre des expériences exclusives au Waldorf Astoria Maldives, avec villas familiales, clubs pour enfants, sports nautiques et services personnalisés dans un cadre d'île tropicale luxueux."
+    },
+    "luxuryEscapeSoneva": {
+      "title": "08 Jours Évasion de Luxe à Soneva Fushi",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire exclusif aux Maldives offre le luxe pieds nus à Soneva Fushi, avec villas spacieuses, piscines privées, observatoire astronomique et expériences de luxe écologiques dans la réserve de biosphère UNESCO immaculée de l'atoll Baa."
+    },
+    "honeymoonUniqueMaldives": {
+      "title": "08 Jours Lune de Miel dans un Resort Unique aux Maldives",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Cet itinéraire romantique aux Maldives offre aux couples des expériences de lune de miel exclusives dans un resort distinctif, avec villas privées sur pilotis, services personnalisés et activités romantiques uniques dans un cadre intime."
+    },
+    "allInclusiveMaldives": {
+      "title": "07 Jours Vacances Tout Compris aux Maldives",
+      "duration": "6 Nuits – 7 Jours",
+      "description": "Ce forfait complet aux Maldives offre le luxe tout compris complet dans un resort premium, avec restauration illimitée, boissons, sports nautiques et traitements spa dans un paradis d'île tropicale immaculé."
+    },
+    "familyEscapeMaldives": {
+      "title": "07 Jours Évasion Familiale aux Maldives",
+      "duration": "6 Nuits – 7 Jours",
+      "description": "Cet itinéraire familial aux Maldives offre des activités et hébergements centrés sur les enfants dans un resort familial, avec clubs pour enfants, sports nautiques et expériences de plage sûres pour tous les âges au paradis."
+    },
+    "exploreNorthMale": {
+      "title": "07 Jours Explorez Nord Malé",
+      "duration": "6 Nuits – 7 Jours",
+      "description": "Cet itinéraire aux Maldives offre l'exploration des îles diversifiées de l'atoll Nord Malé, avec culture locale, activités nautiques et expériences de resort tout en profitant d'un accès pratique depuis l'aéroport international."
+    },
+    "luxuryKudadoo": {
+      "title": "06 Jours Évasion de Luxe à Kudadoo Maldives Private Island",
+      "duration": "5 Nuits – 6 Jours",
+      "description": "Cet itinéraire exclusif aux Maldives offre une intimité ultime et le luxe tout compris à Kudadoo Private Island, avec résidences sur pilotis, service de majordome personnalisé et expériences illimitées dans un cadre intime."
+    },
+    "bespokeMaldives": {
+      "title": "06 Jours Expérience Sur Mesure aux Maldives",
+      "duration": "5 Nuits – 6 Jours",
+      "description": "Cet itinéraire personnalisé aux Maldives offre des expériences de luxe personnalisées adaptées aux préférences individuelles, avec excursions privées, gastronomie raffinée et activités exclusives dans un cadre de resort premium."
+    },
+    "hardRockMaldives": {
+      "title": "05 Jours avec Hard Rock Hotel Maldives",
+      "duration": "4 Nuits – 5 Jours",
+      "description": "Cet itinéraire vibrant aux Maldives offre le luxe à thème musical au Hard Rock Hotel, avec équipements rockstar, divertissement live et atmosphère énergique aux côtés de plages immaculées et activités nautiques."
+    },
+    "lastMinuteGatewayMaldives": {
+      "title": "05 Jours Porte d'Entrée de Dernière Minute aux Maldives",
+      "duration": "4 Nuits – 5 Jours",
+      "description": "Cette évasion spontanée aux Maldives offre une détente tropicale rapide avec des options de resort pratiques près de Malé, avec accès instantané au paradis, activités nautiques et détente sur la plage sans planification extensive."
+    },
+    "dreamEscapeMaldives": {
+      "title": "05 Jours Évasion de Rêve aux Maldives",
+      "duration": "4 Nuits – 5 Jours",
+      "description": "Cette évasion idéale aux Maldives offre des expériences paradisiaques par excellence avec villas sur pilotis, lagons cristallins, snorkeling avec la vie marine et moments romantiques au coucher du soleil dans un cadre de resort de luxe."
+    },
+    "shortBreakMaldives": {
+      "title": "04 Jours Court Séjour aux Maldives",
+      "duration": "3 Nuits – 4 Jours",
+      "description": "Cette évasion compacte aux Maldives offre une régénération tropicale rapide avec des séjours de resort pratiques près de Malé, avec accès rapide aux plages, snorkeling et détente dans un cadre d'île paradisiaque."
+    },
+    "luxuryMiniBreakComo": {
+      "title": "04 Jours Mini Séjour de Luxe au COMO Cocoa Island",
+      "duration": "3 Nuits – 4 Jours",
+      "description": "Cette retraite exclusive aux Maldives offre le luxe sophistiqué au COMO Cocoa Island, avec suites sur pilotis, traitements bien-être, gastronomie raffinée et accès à un lagon immaculé dans un cadre d'île privée intime."
+    },
+    "wildlifePhotography": {
+      "title": "Tour Photographie Faunique au Sri Lanka",
+      "duration": "10 Nuits – 11 Jours",
+      "description": "Cet itinéraire de photographie spécialisé offre des opportunités exceptionnelles d'observation de la faune dans les parcs nationaux du Sri Lanka, offrant un encadrement professionnel pour capturer léopards, éléphants et diverses espèces endémiques."
+    },
+    "exploreNorthwestEastCentral": {
+      "title": "Explorez Nord-Ouest Est Centre Tour au Sri Lanka",
+      "duration": "14 Nuits – 15 Jours",
+      "description": "Cet itinéraire complet du Sri Lanka offre une exploration culturelle et naturelle étendue à travers plusieurs régions, avec villes anciennes, parcs fauniques, pays des collines et expériences côtières à travers l'île."
+    },
+    "familyTourSL": {
+      "title": "Tour Familial au Sri Lanka",
+      "duration": "11 Nuits – 12 Jours",
+      "description": "Emmenez votre famille en vacances passionnantes en optant pour ce tour familial exclusivement conçu au Sri Lanka. Tandis que les jeunes et les actifs…"
+    },
+    "hillCountryPhotography": {
+      "title": "Tour Photographie du Pays des Collines au Sri Lanka",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Ce tour photographique du pays des collines au Sri Lanka vous donnera exactement cela! Vous emmenant aux points de vue de Kandy, Nuwara Eliya et Ella vous donne la chance de capturer…"
+    },
+    "gemTour": {
+      "title": "Tour des Pierres Précieuses au Sri Lanka",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Le Sri Lanka est l'un des plus grands producteurs de pierres précieuses au monde et est connu pour ses pierres précieuses spécialisées depuis de nombreux siècles maintenant…"
+    },
+    "lastMinuteTourSL": {
+      "title": "Tour de Dernière Minute au Sri Lanka",
+      "duration": "7 Nuits – 8 Jours",
+      "description": "Le Tour de Dernière Minute au Sri Lanka est dédié aux voyageurs de dernière minute. Ne vous inquiétez pas des décisions de dernière minute, nos experts sont prêts pour vous à tout moment…"
+    },
+    "ramayanaTour": {
+      "title": "Tour Ramayana",
+      "duration": "6 Nuits – 7 Jours",
+      "description": "De nombreuses générations ont été fascinées par l'histoire du Ramayana et par conséquent, il y a eu un impact significatif sur l'art et la culture à travers l'Inde et l'Asie du Sud-Est…"
+    },
+    "relaxAndUnwind": {
+      "title": "Détendez-vous et Reposez-vous au Sri Lanka",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Vous cherchez une pause de votre routine rapide? Échappez-vous à la perle de l'océan Indien pour un tour absolu de détente et de repos au Sri Lanka."
+    },
+    "shoppingTour": {
+      "title": "Tour Shopping au Sri Lanka",
+      "duration": "14 Nuits – 15 Jours",
+      "description": "Faire du shopping au Sri Lanka est un régal, comme quiconque a visité cette belle nation insulaire le confirmera. Il y a beaucoup à rapporter, des bijoux merveilleusement créés aux batiks…"
+    },
+    "shortBreakTourSL": {
+      "title": "Tour Court Séjour au Sri Lanka",
+      "duration": "2 Nuits – 3 Jours",
+      "description": "Vous cherchez une pause courte et amusante au Sri Lanka? Alors ne cherchez pas plus loin et profitez de ce forfait vacances de 3 jours que nous avons soigneusement conçu pour vous offrir le maximum d'avantages…"
+    },
+    "shortBreakTourSL1": {
+      "title": "Tour Court Séjour au Sri Lanka 1",
+      "duration": "3 Nuits – 4 Jours",
+      "description": "Les Aventures Court Séjour de Blue Lanka sont sûres de cocher toutes les cases, que vous cherchiez le complément de vacances ultime ou une petite aventure. Elles sont pleines de valeur…"
+    },
+    "shortBreakTourSL2": {
+      "title": "Tour Court Séjour au Sri Lanka 2",
+      "duration": "3 Nuits – 4 Jours",
+      "description": "Les Aventures Court Séjour de Blue Lanka sont sûres de cocher toutes les cases, que vous cherchiez le complément de vacances ultime ou une petite aventure…"
+    },
+    "soloTour": {
+      "title": "Tour Solo au Sri Lanka",
+      "duration": "14 Nuits – 15 Jours",
+      "description": "Blue Lanka Tours est l'une des principales entreprises de voyage de luxe s'occupant également de la niche des voyageurs solitaires, en prenant des précautions supplémentaires pour assurer la sécurité des voyageurs solitaires féminins/masculins…"
+    },
+    "sriLankaMaldivesTour": {
+      "title": "Tour Sri Lanka et Maldives",
+      "duration": "12 Nuits – 13 Jours",
+      "description": "Saisissez cette offre exclusive de Tour Sri Lanka et Maldives où vous avez l'opportunité d'explorer la grande variété de tourisme du Sri Lanka ainsi que les plages immaculées des Maldives…"
+    },
+    "sriLankaItinerary7Days": {
+      "title": "Itinéraire Sri Lanka 7 Jours",
+      "duration": "6 Nuits – 7 Jours",
+      "description": "Vous cherchez une courte vacance pour vous détendre, vous reposer et aussi vous adonner à des activités amusantes? Cet itinéraire Sri Lanka 07 jours est exactement ce dont vous avez besoin…"
+    },
+    "sriLankaItinerary14Days": {
+      "title": "Itinéraire Sri Lanka 14 Jours",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Si deux semaines sont tout ce que vous avez, nous pouvons en tirer le meilleur au Sri Lanka. Offrant une variété de paysages – des plus belles plages aux vues panoramiques du pays des collines aux arrière-plans fauniques…"
+    },
+    "sriLankaItinerary21Days": {
+      "title": "Itinéraire Sri Lanka 21 Jours",
+      "duration": "20 Nuits – 21 Jours",
+      "description": "Blue Lanka Tours a conçu un Itinéraire Sri Lanka 21 Jours complet où vous avez l'occasion de vivre toutes les variétés de paysages et attractions touristiques que le pays…"
+    },
+    "sriLankaLuxuryTour": {
+      "title": "Tour de Luxe au Sri Lanka",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Blue Lanka Tours offre le luxe à son meilleur dans ce tour de luxe du Sri Lanka unique. Dans cet itinéraire, nous nous concentrons sur la fourniture d'hébergements et de transport de premier ordre…"
+    },
+    "sriLankaRoundTours": {
+      "title": "Tours Ronds au Sri Lanka",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Un tour rond du Sri Lanka couvrira la majorité des attractions touristiques populaires – de l'histoire et de la culture à la faune unique et à la beauté naturelle à couper le souffle…"
+    },
+    "unescoWorldHeritage": {
+      "title": "Tour des Sites du Patrimoine Mondial UNESCO au Sri Lanka",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "La Liste des Sites du Patrimoine Mondial de l'UNESCO comprend huit attractions uniques au Sri Lanka qui sont considérées comme faisant partie du patrimoine mondial et devraient être protégées."
+    },
+    "wildlifeTourSL": {
+      "title": "Tour Faunique au Sri Lanka",
+      "duration": "13 Nuits – 14 Jours",
+      "description": "Le Département de la Conservation de la Faune a déclaré 22 Parcs Nationaux au Sri Lanka, en faisant un hotspot mondialement renommé pour sa biodiversité."
+    },
+    "beachTourSL": {
+      "title": "Tour Plage au Sri Lanka",
+      "duration": "7 Jours – 7 Jours Côte Est – 7 Jours Côte Ouest – 7 Jours Côte Sud – 14 Jours",
+      "description": "Offrez-vous un beau bronzage doré pendant que vous vous détendez sur le sable doux et les eaux calmes du Sri Lanka."
+    },
+    "kandyNuwaraColombo": {
+      "title": "04 Jours- Tour Kandy- Nuwara-Eliya- Colombo",
+      "duration": "3 Nuits – 4 Jours",
+      "description": "L'itinéraire de tour de 04 jours de Blue Lanka Tours est idéal pour une courte vacance au Sri Lanka depuis l'Inde, peut même être réservé en dernière minute et vient avec une série d'avantages…"
+    }
+  },
+  "dayTours": {
+    "anuradhapuraDayTour": {
+      "title": "Excursion d'une journée à Anuradhapura",
+      "location": "Anuradhapura",
+      "description": "Explorez l'ancienne capitale du Sri Lanka, un site du patrimoine mondial de l'UNESCO avec de magnifiques dagobas, des ruines antiques et le sacré arbre Sri Maha Bodhi.",
+      "introDescription": "Explorez l'ancienne capitale du Sri Lanka, un site du patrimoine mondial de l'UNESCO avec de magnifiques dagobas, des ruines antiques et le sacré arbre Sri Maha Bodhi.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Anuradhapura, la première capitale de l'ancien Sri Lanka, témoigne du riche patrimoine bouddhiste et de la prouesse architecturale de l'île. Ce site du patrimoine mondial de l'UNESCO s'étend sur plus de 40 kilomètres carrés et contient certains des monuments bouddhistes les plus importants au monde. La ville a servi de capitale pendant plus de 1 300 ans, du 4e siècle avant J.-C. au 11e siècle après J.-C., ce qui en fait l'une des capitales ayant servi le plus longtemps dans l'histoire.",
+        "historicalProminenceTitle": "Importance historique d'Anuradhapura",
+        "historicalPoints": {
+          "4thCenturyBC": "4e siècle avant J.-C. : Anuradhapura fut établie comme capitale par le roi Pandukabhaya, marquant le début d'un âge d'or de la civilisation cingalaise.",
+          "3rdCenturyBC": "3e siècle avant J.-C. : Le roi Devanampiya Tissa introduisit le bouddhisme au Sri Lanka, transformant Anuradhapura en un important centre bouddhiste.",
+          "kingTissaFirstStupa": "Le roi Tissa construisit la première stupa (Thuparamaya), établissant une tradition d'architecture bouddhiste monumentale qui se poursuivrait pendant des siècles.",
+          "sacredBoSapling": "Arbre Bo sacré : Le Sri Maha Bodhi, un jeune arbre de l'arbre Bodhi original sous lequel Bouddha atteignit l'illumination, fut planté en 288 avant J.-C. et se dresse encore aujourd'hui comme l'arbre historiquement authentifié le plus ancien au monde.",
+          "kingTissaIrrigation": "Le roi Tissa initia des projets d'irrigation à grande échelle, créant un système sophistiqué de réservoirs et de canaux qui soutenait la prospérité agricole de la ville.",
+          "end3rdCenturyBC": "Fin du 3e siècle avant J.-C. : La ville commença à prospérer comme centre d'apprentissage bouddhiste, attirant des érudits et des pèlerins de toute l'Asie.",
+          "2ndCenturyBC": "2e siècle avant J.-C. : Le roi Dutugemunu agrandit la ville et construisit certaines de ses structures les plus magnifiques, notamment la stupa Ruwanwelisaya.",
+          "kingDutugemunuConstruction": "Les projets de construction du roi Dutugemunu comprenaient des dagobas massives, des monastères et des palais qui mettaient en valeur les compétences architecturales et d'ingénierie de l'ancienne civilisation cingalaise."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "jetavanaramaDagoba": {
+            "title": "Dagoba Jetavanarama",
+            "description": "L'une des structures antiques les plus hautes au monde, cette stupa massive en brique s'élève à 122 mètres et fut construite au 3e siècle après J.-C. par le roi Mahasena."
+          },
+          "isurumuniyaVihara": {
+            "title": "Vihara Isurumuniya",
+            "description": "Un temple rupestre célèbre pour ses belles sculptures, notamment la célèbre sculpture des 'Amants', datant du 3e siècle avant J.-C."
+          },
+          "thuparamaDagoba": {
+            "title": "Dagoba Thuparama",
+            "description": "La plus ancienne stupa du Sri Lanka, construite au 3e siècle avant J.-C. pour abriter la relique de la clavicule de Bouddha."
+          },
+          "kuttamPokuna": {
+            "title": "Kuttam Pokuna (Étangs jumeaux)",
+            "description": "D'anciens bassins de bain qui démontrent l'ingénierie hydraulique sophistiquée de l'ancienne civilisation cingalaise, avec des systèmes de filtration d'eau avancés."
+          },
+          "mirisavatiyaDagoba": {
+            "title": "Dagoba Mirisavatiya",
+            "description": "Construite par le roi Dutugemunu au 2e siècle avant J.-C., cette stupa marque le début de ses grands projets de construction."
+          },
+          "ruwanwalisayaDagoba": {
+            "title": "Dagoba Ruwanwelisaya",
+            "description": "Une magnifique stupa blanche construite par le roi Dutugemunu, considérée comme l'un des sites bouddhistes les plus sacrés du Sri Lanka."
+          },
+          "abhayagiriDagoba": {
+            "title": "Dagoba Abhayagiri",
+            "description": "Autrefois l'un des plus grands complexes monastiques au monde, cette stupa était un centre d'apprentissage qui attirait des érudits de toute l'Asie."
+          },
+          "sriMahaBodhi": {
+            "title": "Sri Maha Bodhi",
+            "description": "L'arbre Bo sacré, un jeune arbre de l'arbre Bodhi original en Inde, planté en 288 avant J.-C. et toujours florissant aujourd'hui comme l'arbre historiquement authentifié le plus ancien au monde."
+          }
+        }
+      }
+    },
+    "belihuloyaDayTour": {
+      "title": "Excursion d'une journée à Belihuloya",
+      "location": "Belihuloya",
+      "description": "Découvrez la beauté pittoresque de Belihuloya, une charmante station de montagne entourée de plantations de thé, de cascades et de paysages verts luxuriants.",
+      "introDescription": "Découvrez la beauté pittoresque de Belihuloya, une charmante station de montagne entourée de plantations de thé, de cascades et de paysages verts luxuriants.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Belihuloya est une station de montagne pittoresque située dans les hautes terres centrales du Sri Lanka, offrant aux visiteurs un mélange parfait de beauté naturelle, d'aventure et de tranquillité. Nichée entre les stations de montagne de Nuwara Eliya et Haputale, Belihuloya offre une opportunité unique de découvrir le climat frais et les paysages époustouflants de la région montagneuse du Sri Lanka.",
+        "historicalProminenceTitle": "Points forts de Belihuloya",
+        "historicalPoints": {
+          "scenicBeauty": "Beauté pittoresque : Entourée de collines ondulantes, de plantations de thé et de montagnes brumeuses, Belihuloya offre des vues panoramiques à couper le souffle à chaque tournant.",
+          "hillStation": "Station de montagne : Située à une altitude d'environ 1 500 mètres au-dessus du niveau de la mer, la région bénéficie d'un climat frais et agréable toute l'année.",
+          "climate": "Climat : Le climat tempéré en fait un refuge idéal contre la chaleur tropicale, avec des températures allant de 15°C à 25°C tout au long de l'année.",
+          "biodiversity": "Biodiversité : La région est riche en flore et en faune, avec de nombreuses espèces endémiques d'oiseaux, de papillons et de plantes prospérant dans les forêts de montagne.",
+          "adventureActivities": "Activités d'aventure : La région offre des opportunités de randonnée, de trekking, d'observation des oiseaux et d'exploration des cascades et piscines naturelles à proximité.",
+          "culturalHeritage": "Patrimoine culturel : Découvrez la culture locale du thé, visitez des usines de thé et interagissez avec les communautés locales amicales.",
+          "naturalWonders": "Merveilles naturelles : Découvrez des cascades cachées, des ruisseaux vierges et des forêts luxuriantes qui font de Belihuloya un paradis pour les amoureux de la nature.",
+          "touristDestination": "Destination touristique : Bien que moins fréquentée que d'autres stations de montagne, Belihuloya gagne en reconnaissance comme destination hors des sentiers battus pour les voyageurs recherchant des expériences authentiques."
+        }
+      }
+    },
+    "colomboDayTour": {
+      "title": "Excursion d'une journée à Colombo",
+      "location": "Colombo",
+      "description": "Découvrez la capitale vibrante du Sri Lanka, où l'architecture coloniale rencontre les gratte-ciel modernes et les marchés animés.",
+      "introDescription": "Découvrez la capitale vibrante du Sri Lanka, où l'architecture coloniale rencontre les gratte-ciel modernes et les marchés animés.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Colombo, la capitale commerciale du Sri Lanka, est une ville vibrante qui mélange magnifiquement son passé colonial avec le développement moderne. Ce patrimoine ancien se reflète aujourd'hui dans la ville en termes d'architecture, composée de bâtiments coloniaux ainsi que de gratte-ciel et de centres commerciaux.",
+        "historicalProminenceTitle": "À propos de Colombo",
+        "historicalPoints": {
+          "colonialHeritage": "Patrimoine colonial : Colombo présente une architecture coloniale bien préservée des périodes portugaise, hollandaise et britannique.",
+          "commercialCapital": "Capitale commerciale : En tant que plus grande ville et centre commercial du Sri Lanka, Colombo est la porte d'entrée de l'île.",
+          "culturalDiversity": "Diversité culturelle : Découvrez un riche mélange de cultures cingalaise, tamoule, musulmane et burgher.",
+          "modernDevelopment": "Développement moderne : Témoignez de la transformation de la ville avec des gratte-ciel modernes, des centres commerciaux et des hôtels de luxe.",
+          "religiousSites": "Sites religieux : Visitez des temples bouddhistes, des kovils hindous, des mosquées et des églises qui montrent l'harmonie religieuse.",
+          "marketsShopping": "Marchés et shopping : Explorez des marchés animés comme Pettah et des complexes commerciaux modernes.",
+          "culinaryScene": "Scène culinaire : Savourez une cuisine diversifiée, de la nourriture de rue aux restaurants gastronomiques.",
+          "coastalBeauty": "Beauté côtière : Profitez de la promenade pittoresque Galle Face Green le long de l'océan Indien."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "gangaramayaTemple": {
+            "title": "Temple Gangaramaya",
+            "description": "Un mélange d'architecture moderne et de patrimoine culturel, le Temple Gangaramaya est un temple bouddhiste paisible présentant des reliques sacrées, des statues et un environnement de méditation serein."
+          },
+          "stLuciasCathedral": {
+            "title": "Cathédrale Sainte-Lucie",
+            "description": "Cette magnifique cathédrale catholique présente une architecture néo-baroque, de beaux vitraux et sert de repère spirituel pour les fidèles au cœur de Colombo."
+          },
+          "redMosque": {
+            "title": "Mosquée Rouge (Mosquée Jami Ul-Alfar)",
+            "description": "Célèbre pour son extérieur frappant à motifs rouges et blancs, la Mosquée Rouge est un site islamique historique et un symbole architectural emblématique à Colombo."
+          },
+          "nationalMuseum": {
+            "title": "Musée National",
+            "description": "Le Musée National de Colombo abrite la riche histoire, l'art et la culture du Sri Lanka, avec des artefacts royaux, des armes anciennes et des trésors archéologiques."
+          },
+          "kathiresanKovil": {
+            "title": "Kovil Kathiresan",
+            "description": "Un temple hindou vibrant dédié au Seigneur Murugan, le Kovil Kathiresan est connu pour son architecture colorée, ses sculptures détaillées et ses festivals religieux animés."
+          },
+          "cargillsBuilding": {
+            "title": "Bâtiment Cargills",
+            "description": "Un bâtiment commercial historique à Colombo, le Bâtiment Cargills représente l'architecture de l'ère coloniale de la ville et continue d'être un centre pour le shopping et les affaires."
+          },
+          "lotusTower": {
+            "title": "Tour Lotus",
+            "description": "En tant que structure la plus haute du Sri Lanka, la Tour Lotus offre des vues panoramiques sur la ville, un restaurant tournant et des installations de divertissement, symbolisant le Colombo moderne et ses merveilles architecturales."
+          }
+        }
+      }
+    },
+    "galleDayTour": {
+      "title": "Excursion d'une journée à Galle",
+      "location": "Galle",
+      "description": "Plongez dans le charme de la côte sud du Sri Lanka en vous promenant sur les remparts historiques du Fort de Galle, en visitant des monuments patrimoniaux et en vous détendant sur des plages baignées de soleil.",
+      "introDescription": "Plongez dans le charme de la côte sud du Sri Lanka en vous promenant sur les remparts historiques du Fort de Galle, en visitant des monuments patrimoniaux et en vous détendant sur des plages baignées de soleil.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "L'héritage de Galle en tant que centre maritime mélange les fortifications européennes avec l'esprit sri-lankais. Passez la journée à explorer des ruelles pavées, des bastions élevés, des boutiques d'artisans et les échappées côtières qui rendent la capitale du sud inoubliable.",
+        "historicalProminenceTitle": "Points forts de l'expérience de Galle",
+        "historicalPoints": {
+          "unescoHeritage": "Patrimoine UNESCO : Traversez les remparts du Fort de Galle, les tours de guet et les manoirs coloniaux qui ont valu à la ville son statut de patrimoine mondial.",
+          "colonialArchitecture": "Architecture coloniale : Repérez les églises de l'ère hollandaise, les bâtiments administratifs britanniques et les maisons de marchands pastel qui bordent les rues.",
+          "culturalBlend": "Mélange culturel : Découvrez un mélange harmonieux de communautés cingalaises, maures, burgher et expatriées qui façonnent les saveurs et les festivals de la ville.",
+          "artisanBoutiques": "Boutiques d'artisans : Parcourez les textiles tissés à la main, les studios de pierres précieuses, les boutiques d'artisanat et les cafés chics nichés dans des bâtiments patrimoniaux.",
+          "seasideViews": "Vues sur la mer : Profitez de panoramas océaniques depuis le phare, des plages baignées de soleil et des promenades bordées de palmiers.",
+          "culinaryFinds": "Découvertes culinaires : Savourez des fruits de mer frais, une cuisine fusion et des délices tropicaux dans les restaurants du fort et les cabanes en bord de mer.",
+          "adventureStops": "Arrêts d'aventure : Ajoutez des activités optionnelles comme le vélo, la plongée avec tuba ou les promenades en bateau à travers les mangroves voisines pour une touche active.",
+          "relaxationBreaks": "Pauses de détente : Détendez-vous avec des pique-niques au coucher du soleil sur les remparts ou des traitements spa dans des hôtels boutique nichés à l'intérieur du fort."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "galleFort": {
+            "title": "Fort de Galle",
+            "description": "Le Fort de Galle est un site patrimonial de l'UNESCO avec une architecture coloniale, des musées, des rues charmantes, des vues sur l'océan, des cafés et des monuments culturels, offrant un mélange unique d'histoire."
+          },
+          "galleLighthouse": {
+            "title": "Phare de Galle",
+            "description": "Le Phare de Galle est un repère côtier emblématique offrant des vues sur l'océan, de beaux couchers de soleil, une brise marine rafraîchissante et d'excellentes opportunités photographiques, ce qui en fait l'un des points forts de Galle."
+          },
+          "dutchReformedChurch": {
+            "title": "Église réformée hollandaise",
+            "description": "L'Église réformée hollandaise, construite au 18e siècle, présente une architecture coloniale, des pierres tombales historiques et un intérieur paisible, offrant aux visiteurs un aperçu du passé de Galle."
+          },
+          "maritimeMuseum": {
+            "title": "Musée maritime",
+            "description": "Le Musée maritime met en lumière l'histoire maritime de Galle à travers des expositions d'épaves, des artefacts commerciaux anciens et des découvertes sous-marines, offrant aux visiteurs une expérience éducative."
+          },
+          "jungleBeach": {
+            "title": "Plage Jungle",
+            "description": "Jungle Beach est un refuge côtier caché avec des eaux calmes, du sable doux, des environs luxuriants et un excellent snorkeling, offrant aux visiteurs un endroit paisible pour se détendre."
+          },
+          "japanesePeacePagoda": {
+            "title": "Pagode de la paix japonaise",
+            "description": "La Pagode de la paix japonaise se trouve sur une colline tranquille offrant des vues panoramiques côtières, des environs paisibles et une atmosphère spirituelle apaisante, en faisant un endroit magnifique."
+          },
+          "unawatunaBeach": {
+            "title": "Plage Unawatuna",
+            "description": "Unawatuna Beach est une destination côtière animée avec du sable doré, de l'eau claire, des restaurants en bord de plage, des spots de baignade et une vie nocturne, offrant aux visiteurs une expérience amusante et relaxante."
+          },
+          "stiltFishermen": {
+            "title": "Pêcheurs sur échasses (Koggala)",
+            "description": "Les pêcheurs sur échasses à Koggala présentent des méthodes de pêche traditionnelles à côté de rives pittoresques, offrant aux visiteurs un aperçu culturel, des opportunités photographiques et une expérience authentique du Sri Lanka."
+          }
+        }
+      }
+    },
+    "geoffreyBawaWorksSriLanka": {
+      "title": "Œuvres de Geoffrey Bawa au Sri Lanka",
+      "location": "Diverses localisations",
+      "description": "Lorsque le regretté Geoffrey Manning Bawa est entré dans le monde de l'architecture, il a marqué chaque design qu'il a produit. Explorer le modernisme et ses implications culturelles…",
+      "introDescription": "Lorsque le regretté Geoffrey Manning Bawa est entré dans le monde de l'architecture, il a marqué chaque design qu'il a produit. Explorer le modernisme et ses implications culturelles…",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Lorsque le regretté Geoffrey Manning Bawa est entré dans le monde de l'architecture, il a marqué chaque design qu'il a produit. En explorant le modernisme et ses implications culturelles, Bawa a créé un langage architectural unique qui mélangeait parfaitement les paysages tropicaux avec les principes de design contemporain. Ses œuvres à travers le Sri Lanka témoignent de sa vision de l'architecture qui respecte la nature, célèbre les matériaux locaux et crée des espaces qui respirent avec leur environnement.",
+        "architecturalLegacyTitle": "L'héritage architectural de Geoffrey Bawa",
+        "architecturalPoints": {
+          "tropicalModernism": "Modernisme tropical : Bawa a été un pionnier d'un style qui combinait les principes modernistes avec les sensibilités tropicales, créant des bâtiments qui répondent au climat, au paysage et à la culture.",
+          "integrationWithNature": "Intégration avec la nature : Ses designs brouillent les frontières entre les espaces intérieurs et extérieurs, utilisant des cours, des vérandas et des pavillons ouverts pour connecter l'architecture au monde naturel.",
+          "localMaterials": "Matériaux locaux : Bawa a défendu l'utilisation de matériaux locaux et de techniques de construction traditionnelles, les adaptant aux besoins modernes tout en préservant l'authenticité culturelle.",
+          "landscapeArchitecture": "Architecture paysagère : Au-delà des bâtiments, Bawa était un maître architecte paysagiste, créant des jardins et des espaces extérieurs qui sont des œuvres d'art en eux-mêmes.",
+          "internationalRecognition": "Reconnaissance internationale : Son travail a influencé des architectes du monde entier et a établi le Sri Lanka comme un centre important de l'architecture tropicale.",
+          "adaptiveReuse": "Réutilisation adaptative : Bawa excellait dans la transformation de bâtiments historiques, respectant leur patrimoine tout en les adaptant à un usage contemporain.",
+          "sustainableDesign": "Design durable : Bien avant que la durabilité ne devienne un mot à la mode, les designs de Bawa démontraient une sensibilité environnementale grâce au refroidissement passif, à la ventilation naturelle et à un impact environnemental minimal.",
+          "culturalContext": "Contexte culturel : Chacun des projets de Bawa reflète une compréhension profonde de la culture, de l'histoire et du mode de vie sri-lankais, créant une architecture à la fois moderne et profondément enracinée dans le lieu."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "lunuganga": {
+            "title": "Jardin Lunuganga",
+            "description": "Lunuganga est la propriété et le jardin de campagne de Geoffrey Bawa, un chef-d'œuvre de design paysager tropical qui montre sa vision de mélanger l'architecture avec la nature."
+          },
+          "numberEleven": {
+            "title": "Numéro Onze",
+            "description": "Numéro Onze est la résidence de Bawa à Colombo, maintenant un musée présentant sa collection personnelle et sa philosophie de design."
+          },
+          "parliament": {
+            "title": "Bâtiment du Parlement",
+            "description": "Le Bâtiment du Parlement sri-lankais à Kotte est l'une des œuvres publiques les plus significatives de Bawa, reflétant sa maîtrise de l'architecture monumentale."
+          },
+          "paradiseRoadGallery": {
+            "title": "Café Paradise Road Gallery",
+            "description": "Une conversion vibrante de l'ancien garage de bureau de Bawa, maintenant un café célèbre qui mélange son esthétique architecturale avec l'art et le design contemporains."
+          },
+          "ratnasivaratnamHouse": {
+            "title": "La Maison Ratnasivaratnam",
+            "description": "Une maison à cour pionnière à Colombo, célébrée pour son utilisation ingénieuse d'une parcelle urbaine étroite pour créer une maison familiale privée remplie de lumière."
+          },
+          "steelCorporation": {
+            "title": "Bureaux et logements de Steel Corporation",
+            "description": "Un complexe industriel robuste où les formes modernes sont adoucies par des cours paysagées et des techniques de refroidissement passif, créant un environnement de travail humain."
+          }
+        }
+      }
+    },
+    "hotAirBallooningDayTour": {
+      "title": "Excursion en montgolfière",
+      "location": "Dambulla",
+      "description": "Profitez d'une expérience unique en ressentant la montée d'adrénaline tout en flottant au-dessus de vues à couper le souffle du paradis tropical du Sri Lanka.",
+      "introDescription": "Profitez d'une expérience unique en ressentant la montée d'adrénaline tout en flottant au-dessus de vues à couper le souffle du paradis tropical du Sri Lanka.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Découvrez la magie de flotter au-dessus des paysages époustouflants du Sri Lanka dans une montgolfière. Cette aventure inoubliable offre des vues panoramiques sur des ruines antiques, des forêts luxuriantes et une campagne pittoresque alors que vous dérivez doucement dans le ciel matinal."
+      }
+    },
+    "kandyDayTour": {
+      "title": "Excursion d'une journée à Kandy",
+      "location": "Kandy",
+      "description": "Kandy, plus populairement connu comme la capitale montagneuse du Sri Lanka, est une destination touristique attractive. Son histoire remonte au 15e siècle…",
+      "introDescription": "Kandy, plus populairement connu comme la capitale montagneuse du Sri Lanka, est une destination touristique attractive. Son histoire remonte au 15e siècle lorsqu'il fut établi comme la dernière capitale de l'ère des anciens rois du Sri Lanka. La ville est nichée dans les collines du plateau de Kandy, qui traverse des zones de plantations tropicales, principalement le thé. Kandy est à la fois une ville administrative et religieuse et est également la capitale de la Province Centrale.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Kandy, plus populairement connu comme la capitale montagneuse du Sri Lanka, est une destination touristique attractive. Son histoire remonte au 15e siècle lorsqu'il fut établi comme la dernière capitale de l'ère des anciens rois du Sri Lanka. La ville est nichée dans les collines du plateau de Kandy, qui traverse des zones de plantations tropicales, principalement le thé. Kandy est à la fois une ville administrative et religieuse et est également la capitale de la Province Centrale.",
+        "historicalProminenceTitle": "Importance historique de Kandy",
+        "historicalPoints": {
+          "15thCentury": "15e siècle : Kandy fut établi comme la dernière capitale de l'ère des anciens rois du Sri Lanka.",
+          "templeOfTheTooth": "Temple de la Relique de la Dent : Le sacré Temple de la Relique de la Dent (Sri Dalada Maligawa) abrite la relique de la dent de Bouddha, ce qui en fait l'un des sites bouddhistes les plus importants au monde.",
+          "unescoHeritage": "Site du patrimoine mondial de l'UNESCO : Kandy fut déclaré site du patrimoine mondial de l'UNESCO en 1988, reconnaissant son importance culturelle et historique.",
+          "kandyanKingdom": "Royaume de Kandy : La ville servit de capitale du Royaume de Kandy, qui résista avec succès aux puissances coloniales européennes pendant plus de 300 ans.",
+          "britishColonial": "Période coloniale britannique : Kandy tomba aux mains des Britanniques en 1815, mettant fin au Royaume de Kandy indépendant.",
+          "culturalCenter": "Centre culturel : Aujourd'hui, Kandy reste un important centre culturel, connu pour ses arts traditionnels, son artisanat et le festival annuel Esala Perahera."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "templeOfTheTooth": {
+            "title": "Temple de la Relique de la Dent",
+            "description": "Le temple bouddhiste le plus sacré du Sri Lanka, abritant la relique de la dent de Bouddha et un site du patrimoine mondial de l'UNESCO."
+          },
+          "kandyLake": {
+            "title": "Lac de Kandy",
+            "description": "Un beau lac artificiel construit en 1807 par le dernier roi de Kandy, offrant des vues pittoresques et une atmosphère paisible au cœur de la ville."
+          },
+          "royalBotanicalGardens": {
+            "title": "Jardins Botaniques Royaux",
+            "description": "L'un des plus beaux jardins tropicaux d'Asie, présentant plus de 4 000 espèces de plantes, y compris des orchidées rares, des palmiers et des plantes médicinales."
+          },
+          "kandyViewPoint": {
+            "title": "Point de vue de Kandy",
+            "description": "Un point de vue panoramique offrant des vues époustouflantes sur la ville de Kandy, le lac et les collines environnantes."
+          },
+          "kandyMarket": {
+            "title": "Marché de Kandy",
+            "description": "Un marché local animé où vous pouvez découvrir la vie quotidienne de Kandy, acheter des épices, des fruits et de l'artisanat local."
+          },
+          "bahirawakandaBuddha": {
+            "title": "Statue de Bouddha Bahirawakanda",
+            "description": "Une statue massive de Bouddha blanc perchée sur une colline, offrant des vues panoramiques sur Kandy et les montagnes environnantes."
+          },
+          "kandyMuseum": {
+            "title": "Musée de Kandy",
+            "description": "Logé dans l'ancien palais royal, le musée expose des artefacts de l'ère du Royaume de Kandy, y compris les regalia royaux et des objets historiques."
+          },
+          "udawattekeleSanctuary": {
+            "title": "Sanctuaire Udawatta Kele",
+            "description": "Une réserve forestière au cœur de Kandy, abritant diverses espèces d'oiseaux, des singes et une végétation luxuriante, parfaite pour les promenades dans la nature."
+          }
+        }
+      }
+    },
+    "kithulgalaWhiteWaterRafting": {
+      "title": "Rafting en eaux vives de Kitulgala",
+      "location": "Kitulgala",
+      "description": "La ville de Kitulgala est l'endroit où cette excursion vous mènera pour une journée remplie d'aventure extrême. Kitulgala est une petite mais belle ville située dans une forêt tropicale de zone humide…",
+      "introDescription": "La ville de Kitulgala est l'endroit où cette excursion vous mènera pour une journée remplie d'aventure extrême. Kitulgala est une petite mais belle ville située dans une forêt tropicale de zone humide. Cette destination pittoresque est célèbre pour avoir été le lieu de tournage du film classique \"Le Pont de la Rivière Kwaï\" et offre l'une des meilleures expériences de rafting en eaux vives du Sri Lanka.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "La ville de Kitulgala est l'endroit où cette excursion vous mènera pour une journée remplie d'aventure extrême. Kitulgala est une petite mais belle ville située dans une forêt tropicale de zone humide. Cette destination pittoresque est célèbre pour avoir été le lieu de tournage du film classique \"Le Pont de la Rivière Kwaï\" et offre l'une des meilleures expériences de rafting en eaux vives du Sri Lanka.",
+        "adventureExperienceTitle": "Expérience d'aventure",
+        "adventurePoints": {
+          "raftingExperience": "Rafting en eaux vives : Découvrez le frisson de naviguer à travers les rapides sur la rivière Kelani, l'une des destinations de rafting les plus excitantes du Sri Lanka avec des rapides allant du grade 2 au grade 3.",
+          "scenicBeauty": "Beauté pittoresque : Entouré de forêt tropicale luxuriante, de cascades et de paysages naturels vierges, Kitulgala offre des vues à couper le souffle tout au long de votre aventure.",
+          "safetyStandards": "Normes de sécurité : Toutes les activités de rafting sont menées avec des guides professionnels, un équipement de sécurité et des normes de sécurité internationales pour assurer une expérience sûre mais palpitante.",
+          "suitableForAll": "Adapté à tous les niveaux : Que vous soyez débutant ou rafteur expérimenté, les rapides conviennent à divers niveaux de compétence, le rendant accessible aux passionnés d'aventure de tous âges.",
+          "otherActivities": "Activités supplémentaires : Au-delà du rafting, Kitulgala offre des opportunités de trekking dans la jungle, d'observation des oiseaux et d'exploration de la riche biodiversité de la forêt tropicale.",
+          "filmLocation": "Lieu de tournage : Visitez l'emplacement emblématique du pont où le film primé aux Oscars \"Le Pont de la Rivière Kwaï\" a été tourné, ajoutant une signification historique à votre aventure."
+        }
+      }
+    },
+    "littleEnglandDayTour": {
+      "title": "Excursion d'une journée à Little England",
+      "location": "Nuwara Eliya",
+      "description": "Nuwara Eliya, également connu sous le nom de \"Little England\" du Sri Lanka, est la principale station de montagne du pays. À une hauteur d'environ 2000m au-dessus du niveau de la mer…",
+      "introDescription": "Nuwara Eliya, également connu sous le nom de \"Little England\" du Sri Lanka, est la principale station de montagne du pays. À une hauteur d'environ 2000m au-dessus du niveau de la mer, cette charmante ville offre un climat frais, des plantations de thé luxuriantes et une atmosphère distinctement coloniale britannique. La ville est célèbre pour ses beaux jardins, son architecture coloniale et ses paysages pittoresques qui ressemblent à la campagne anglaise.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Nuwara Eliya, également connu sous le nom de \"Little England\" du Sri Lanka, est la principale station de montagne du pays. À une hauteur d'environ 2000m au-dessus du niveau de la mer, cette charmante ville offre un climat frais, des plantations de thé luxuriantes et une atmosphère distinctement coloniale britannique. La ville est célèbre pour ses beaux jardins, son architecture coloniale et ses paysages pittoresques qui ressemblent à la campagne anglaise.",
+        "historicalProminenceTitle": "Importance historique de Nuwara Eliya",
+        "historicalPoints": {
+          "britishColonial": "Ère coloniale britannique : Nuwara Eliya fut développée par les Britanniques au 19e siècle comme station de montagne pour échapper à la chaleur des basses terres, créant une atmosphère de \"Little England\".",
+          "teaIndustry": "Industrie du thé : La région est devenue le cœur de l'industrie du thé du Sri Lanka, avec de nombreuses plantations de thé établies par des planteurs britanniques, en faisant l'une des meilleures régions productrices de thé au monde.",
+          "colonialArchitecture": "Architecture coloniale : La ville présente des bâtiments coloniaux bien préservés, y compris le Grand Hôtel, l'Hôtel St. Andrew's et divers bungalows qui reflètent les styles architecturaux britanniques.",
+          "golfCourse": "Terrain de golf : Nuwara Eliya abrite l'un des plus anciens terrains de golf d'Asie, établi en 1889, ajoutant à son charme colonial britannique.",
+          "climate": "Climat frais : La haute altitude fournit un climat tempéré toute l'année, en faisant une retraite parfaite de la chaleur tropicale des zones côtières.",
+          "touristDestination": "Destination touristique : Aujourd'hui, Nuwara Eliya est l'une des destinations touristiques les plus populaires du Sri Lanka, connue pour sa beauté naturelle, ses domaines de thé et son patrimoine colonial unique."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "gregoryLake": {
+            "title": "Lac Gregory",
+            "description": "Un beau lac artificiel offrant des promenades en bateau, de l'équitation et des vues pittoresques sur les montagnes environnantes et les plantations de thé."
+          },
+          "hakgalaBotanicalGardens": {
+            "title": "Jardins Botaniques Hakgala",
+            "description": "L'un des trois jardins botaniques du Sri Lanka, présentant une collection époustouflante de roses, de fougères et de plantes exotiques dans un cadre montagnard frais."
+          },
+          "seethaAmmamTemple": {
+            "title": "Temple Seetha Amman",
+            "description": "Un temple hindou associé à l'épopée du Ramayana, situé dans un cadre magnifique avec un ruisseau et des formations rocheuses naturelles."
+          },
+          "victoriaPark": {
+            "title": "Parc Victoria",
+            "description": "Un parc bien entretenu au cœur de Nuwara Eliya, parfait pour des promenades tranquilles et profiter de l'air frais de montagne."
+          },
+          "teaPlantations": {
+            "title": "Plantations de thé",
+            "description": "Visitez des domaines de thé en activité pour apprendre le processus de fabrication du thé et déguster du thé de Ceylan frais entouré de collines vertes ondulantes."
+          },
+          "loversLeap": {
+            "title": "Saut des Amants",
+            "description": "Une cascade pittoresque avec une légende romantique, offrant de belles vues et un cadre naturel rafraîchissant."
+          },
+          "pedroTeaEstate": {
+            "title": "Domaine de thé Pedro",
+            "description": "L'un des plus anciens et des plus célèbres domaines de thé de Nuwara Eliya, offrant des visites d'usine et des expériences de dégustation de thé."
+          },
+          "moonPlains": {
+            "title": "Plaines de la Lune",
+            "description": "Une plaine unique de haute altitude offrant des vues panoramiques sur les montagnes et vallées environnantes, accessible par safari en jeep."
+          }
+        }
+      }
+    },
+    "negomboLagoonFishingDayTour": {
+      "title": "Excursion de pêche dans la lagune de Negombo",
+      "location": "Negombo",
+      "description": "Le long de la côte ouest du Sri Lanka se trouve la ville accueillante de Negombo, l'une des plus anciennes villes de pêche du pays. En plus de son industrie de pêche séculaire…",
+      "introDescription": "Le long de la côte ouest du Sri Lanka se trouve la ville accueillante de Negombo, l'une des plus anciennes villes de pêche du pays. En plus de son industrie de pêche séculaire, Negombo est également connu pour ses belles plages, son architecture coloniale hollandaise et la célèbre lagune de Negombo. Cette excursion offre une opportunité unique de découvrir les méthodes de pêche traditionnelles et d'explorer la riche culture maritime de cette ville côtière.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Le long de la côte ouest du Sri Lanka se trouve la ville accueillante de Negombo, l'une des plus anciennes villes de pêche du pays. En plus de son industrie de pêche séculaire, Negombo est également connu pour ses belles plages, son architecture coloniale hollandaise et la célèbre lagune de Negombo. Cette excursion offre une opportunité unique de découvrir les méthodes de pêche traditionnelles et d'explorer la riche culture maritime de cette ville côtière."
+      },
+      "cards": {
+        "negomboLagoon": {
+          "title": "Lagune de Negombo",
+          "description": "Apprenez les méthodes de pêche traditionnelles et modernes. Ici, vous verrez la cuisson en direct des fruits de mer que vous avez choisis pour le déjeuner."
+        },
+        "negomboBeach": {
+          "title": "Plage de Negombo",
+          "description": "Détendez-vous sur les belles plages dorées de la Plage de Negombo, l'une des plages les plus populaires de la côte ouest. Profitez des eaux calmes, parfaites pour la baignade, et admirez les vues époustouflantes du coucher de soleil sur l'océan Indien."
+        }
+      }
+    },
+    "polonnaruwaDayTour": {
+      "title": "Excursion d'une journée à Polonnaruwa",
+      "location": "Polonnaruwa",
+      "description": "Étant le deuxième plus grand royaume du Sri Lanka, l'ancienne ville de Polonnaruwa a beaucoup à offrir aux archéologues, aux amateurs d'histoire…",
+      "introDescription": "Étant le deuxième plus grand royaume du Sri Lanka, l'ancienne ville de Polonnaruwa a beaucoup à offrir aux archéologues, aux amateurs d'histoire et aux voyageurs cherchant à explorer le riche patrimoine culturel de l'île. Polonnaruwa servit de capitale du Sri Lanka du 11e au 13e siècle après J.-C. et est maintenant un site du patrimoine mondial de l'UNESCO, présentant des ruines bien préservées d'anciens palais, temples et monuments.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Étant le deuxième plus grand royaume du Sri Lanka, l'ancienne ville de Polonnaruwa a beaucoup à offrir aux archéologues, aux amateurs d'histoire et aux voyageurs cherchant à explorer le riche patrimoine culturel de l'île. Polonnaruwa servit de capitale du Sri Lanka du 11e au 13e siècle après J.-C. et est maintenant un site du patrimoine mondial de l'UNESCO, présentant des ruines bien préservées d'anciens palais, temples et monuments.",
+        "historicalProminenceTitle": "Importance historique de Polonnaruwa",
+        "historicalPoints": {
+          "11thCentury": "11e siècle après J.-C. : Polonnaruwa devint la capitale du Sri Lanka après la chute d'Anuradhapura, marquant le début d'une nouvelle ère dans l'histoire du Sri Lanka.",
+          "kingVijayabahu": "Roi Vijayabahu I : Expulsa avec succès les envahisseurs Chola et établit Polonnaruwa comme nouvelle capitale, commençant une période de grand développement architectural et culturel.",
+          "kingParakramabahu": "Roi Parakramabahu I : L'âge d'or de Polonnaruwa, connu pour ses vastes travaux d'irrigation, y compris le massif Parakrama Samudra (mer de Parakrama), et de magnifiques réalisations architecturales.",
+          "unescoHeritage": "Site du patrimoine mondial de l'UNESCO : Polonnaruwa fut déclaré site du patrimoine mondial de l'UNESCO en 1982, reconnaissant sa valeur universelle exceptionnelle et ses vestiges archéologiques bien préservés.",
+          "architecturalAchievements": "Réalisations architecturales : La ville présente des exemples remarquables d'architecture cingalaise antique, y compris le temple rupestre Gal Vihara avec ses statues massives de Bouddha taillées dans le granit.",
+          "irrigationSystem": "Système d'irrigation : Polonnaruwa est célèbre pour son système d'irrigation sophistiqué, avec de nombreux réservoirs et canaux qui démontrent l'ingénierie hydraulique avancée des anciens Cingalais.",
+          "decline": "Déclin du 13e siècle : Le royaume commença à décliner au 13e siècle, menant finalement à l'abandon de Polonnaruwa comme capitale et au transfert du pouvoir vers d'autres régions."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "quadrangle": {
+            "title": "Le Quadrilatère",
+            "description": "Un groupe compact d'anciens bâtiments incluant le Vatadage, Thuparama et d'autres structures significatives, montrant la brillance architecturale de l'ancien Polonnaruwa."
+          },
+          "galVihara": {
+            "title": "Gal Vihara",
+            "description": "Un temple rupestre présentant quatre magnifiques statues de Bouddha taillées dans une seule roche de granit, incluant un Bouddha couché massif, considérées comme des chefs-d'œuvre de la sculpture cingalaise antique."
+          },
+          "rankotVihara": {
+            "title": "Rankot Vihara",
+            "description": "La plus grande dagoba de Polonnaruwa, mesurant 55 mètres de haut, construite pendant le règne du roi Nissanka Malla au 12e siècle."
+          },
+          "parakramaSamudra": {
+            "title": "Parakrama Samudra",
+            "description": "Un réservoir artificiel massif construit par le roi Parakramabahu I, couvrant une superficie de 2 500 hectares et démontrant l'ingénierie d'irrigation avancée de l'ancien Sri Lanka."
+          },
+          "potgulVihara": {
+            "title": "Potgul Vihara",
+            "description": "Un complexe de bibliothèque unique avec une structure circulaire, censé avoir abrité des manuscrits anciens et des textes religieux."
+          }
+        }
+      }
+    },
+    "sigiriyaDambullaDayTour": {
+      "title": "Excursion d'une journée à Sigiriya et Dambulla",
+      "location": "Sigiriya et Dambulla",
+      "description": "Sigiriya, un ancien palais, a été une fois nommé comme la 8e merveille du monde. Aujourd'hui, Sigiriya et Dambulla sont un site du patrimoine reconnu par l'UNESCO et une attraction touristique majeure.",
+      "introDescription": "Sigiriya, un ancien palais, a été une fois nommé comme la 8e merveille du monde. Aujourd'hui, Sigiriya et Dambulla sont un site du patrimoine reconnu par l'UNESCO et une attraction touristique majeure.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Sigiriya, un ancien palais et forteresse rocheuse, a été une fois nommé comme la 8e merveille du monde. Aujourd'hui, Sigiriya et Dambulla sont des sites du patrimoine reconnus par l'UNESCO et des attractions touristiques majeures. Cette excursion d'une journée vous emmène à travers deux des sites historiques les plus emblématiques du Sri Lanka, présentant une architecture antique, des fresques époustouflantes et des temples de grottes remarquables qui racontent l'histoire d'un riche patrimoine culturel s'étendant sur plus de deux millénaires.",
+        "historicalProminenceTitle": "Importance historique de Sigiriya et Dambulla",
+        "historicalPoints": {
+          "5thCenturyAD": "5e siècle après J.-C. : Le roi Kassapa I construisit la forteresse du palais au sommet de la roche de Sigiriya, créant l'une des réalisations architecturales les plus remarquables de l'ancien Sri Lanka.",
+          "sigiriyaFrescoes": "Fresques de Sigiriya : Les célèbres peintures de jeunes filles célestes (apsaras) sont considérées comme des chefs-d'œuvre de l'art ancien du Sri Lanka, datant de plus de 1 500 ans.",
+          "dambullaCaves": "1er siècle avant J.-C. : Le Temple de grottes de Dambulla fut établi par le roi Valagamba, qui se réfugia dans les grottes pendant une invasion. Le complexe du temple a été utilisé continuellement pendant plus de 2 000 ans.",
+          "unescoHeritage": "Sites du patrimoine mondial de l'UNESCO : Sigiriya (1982) et Dambulla (1991) furent tous deux déclarés sites du patrimoine mondial de l'UNESCO, reconnaissant leur valeur universelle exceptionnelle et leur signification culturelle.",
+          "architecturalMarvels": "Merveilles architecturales : Sigiriya présente des jardins d'eau sophistiqués, des murs miroir et la Porte du Lion emblématique, tandis que Dambulla abrite plus de 150 statues de Bouddha et des peintures rupestres étendues.",
+          "culturalTriangle": "Triangle culturel : Les deux sites font partie du Triangle culturel du Sri Lanka, avec Anuradhapura et Polonnaruwa, représentant l'âge d'or de l'ancienne civilisation cingalaise.",
+          "kingParakramabahu": "12e siècle après J.-C. : Le roi Parakramabahu I rénova et agrandit le Temple de grottes de Dambulla, ajoutant nombre des statues et peintures que l'on peut voir aujourd'hui.",
+          "modernSignificance": "Signification moderne : Aujourd'hui, ces sites attirent des millions de visiteurs annuellement et restent des lieux de culte actifs, nécessitant le respect et une tenue appropriée de la part des visiteurs."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "sigiriyaRock": {
+            "title": "Forteresse rocheuse de Sigiriya",
+            "description": "Une ancienne forteresse rocheuse et ruines de palais situées dans le district de Matale. Sigiriya est un site du patrimoine mondial de l'UNESCO, célèbre pour ses fresques antiques et le mur miroir."
+          },
+          "dambullaCaveTemple": {
+            "title": "Temple de grottes de Dambulla",
+            "description": "Également connu sous le nom de Temple doré de Dambulla, c'est le plus grand et le mieux préservé complexe de temples de grottes du Sri Lanka, présentant plus de 150 statues de Bouddha."
+          },
+          "sigiriyaFrescoes": {
+            "title": "Fresques de Sigiriya",
+            "description": "Les célèbres peintures antiques de Sigiriya, représentant des jeunes filles célestes, sont considérées comme des chefs-d'œuvre de l'art ancien du Sri Lanka."
+          },
+          "mirrorWall": {
+            "title": "Mur miroir",
+            "description": "Un mur de plâtre poli qui reflétait autrefois comme un miroir, maintenant couvert de graffitis anciens et de poèmes datant de plus de 1 000 ans."
+          },
+          "lionGate": {
+            "title": "Porte du Lion",
+            "description": "Les pattes de pierre massives d'un lion qui gardaient autrefois l'entrée du palais au sommet de la roche de Sigiriya."
+          },
+          "waterGardens": {
+            "title": "Jardins d'eau",
+            "description": "Systèmes hydrauliques sophistiqués et jardins d'eau symétriques à la base de la roche de Sigiriya, montrant des merveilles d'ingénierie antique."
+          }
+        }
+      }
+    },
+    "sinharajaDayTour": {
+      "title": "Excursion d'une journée à Sinharaja",
+      "location": "Sinharaja",
+      "description": "Site du patrimoine mondial de l'UNESCO depuis 1988. Actuellement, la réserve s'étend sur 8864 hectares et le pays prévoit de quadrupler la taille de la zone pour respecter l'importance écologique de la région.",
+      "introDescription": "Site du patrimoine mondial de l'UNESCO depuis 1988. Actuellement, la réserve s'étend sur 8864 hectares et le pays prévoit de quadrupler la taille de la zone pour respecter l'importance écologique de la région.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "La vie animale et végétale riche et unique dans la Réserve de forêt tropicale de Sinharaja est la raison pour laquelle elle fut marquée comme site du patrimoine mondial de l'UNESCO en 1988. Actuellement, la réserve s'étend sur 8864 hectares et le pays prévoit de quadrupler la taille de la zone pour respecter l'importance écologique de la région. La forêt tropicale vierge montagneuse est un trésor d'espèces endémiques incluant des mammifères, des reptiles, des oiseaux, des amphibiens et bien sûr, une abondance d'arbres et d'insectes. Particulièrement connue pour l'observation des oiseaux, un phénomène intéressant ici est que les oiseaux se déplacent en groupes d'alimentation mixtes, menés par le grand Drongo à raquettes et le Babbler à bec orange bruyant. 20 des 26 espèces d'oiseaux endémiques du Sri Lanka sont observées dans la Forêt tropicale de Sinharaja. En plus des oiseaux, plus de 60% des plantes sont endémiques, beaucoup d'entre elles étant rares. La réserve abrite également plus de 50% des espèces endémiques de mammifères, papillons, reptiles, amphibiens et insectes du pays.",
+        "journeyTitle": "Voyage au cœur sauvage de Sinharaja",
+        "journeyPoints": {
+          "trek": "Randonnée à travers la Forêt tropicale de Sinharaja, un site du patrimoine mondial de l'UNESCO et la dernière étendue significative de forêt tropicale primaire du Sri Lanka.",
+          "biodiversity": "Découvrez un point chaud de biodiversité incroyable où la majorité des espèces endémiques de mammifères et d'insectes du Sri Lanka prospèrent.",
+          "junglefowl": "Gardez vos yeux sur la canopée pour repérer des oiseaux endémiques rares comme le vibrant Coq de jungle du Sri Lanka à face rouge.",
+          "owl": "Écoutez l'appel distinctif du Petit-duc de Serendib, l'un des nombreux oiseaux rares trouvés uniquement ici.",
+          "guide": "Votre guide naturaliste expert vous aidera à localiser la faune insaisissable et expliquera l'écosystème complexe et délicat de la forêt.",
+          "canopy": "Émerveillez-vous devant la canopée vert émeraude luxuriante remplie d'une grande variété d'arbres indigènes et de plantes médicinales.",
+          "reptiles": "Témoignez d'un éventail époustouflant de reptiles et d'amphibiens uniques qui appellent cette forêt tropicale protégée leur foyer.",
+          "atmosphere": "Découvrez l'atmosphère tranquille et l'air frais et humide sous l'ombre dense de la canopée forestière entrelacée.",
+          "paths": "Suivez des sentiers sinueux passant par des ruisseaux doux et de petites cascades pittoresques cachées profondément dans le bois vierge.",
+          "beauty": "Soyez captivé par la pure beauté de cette nature sauvage intacte, un véritable paradis pour les amoureux de la nature et les photographes.",
+          "immersive": "Cette visite guidée offre un voyage immersif et éducatif au cœur d'un écosystème vivant et respirant.",
+          "magpie": "Rencontrez la vue inoubliable du brillant Pirolle à dos bleu du Sri Lanka, une espèce emblématique de Sinharaja."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lieux que vous visiterez",
+        "places": {
+          "birds": {
+            "title": "Oiseaux",
+            "description": "La Forêt tropicale de Sinharaja au Sri Lanka est renommée pour ses espèces d'oiseaux uniques et diverses, dont beaucoup sont endémiques à l'île, en faisant un refuge pour les ornithologues et les conservationnistes. Voici quelques-uns des oiseaux que vous observerez : Pirolle à dos bleu du Sri Lanka, Calao gris, Malcoha à face rouge, Grive écaillée, Pigeon ramier, Bulbul à oreilles jaunes, Gobemouche bleu sombre."
+          },
+          "mammals": {
+            "title": "Mammifères",
+            "description": "La Forêt tropicale de Sinharaja présente une riche tapisserie de vie mammalienne, avec de nombreuses espèces que l'on trouve exclusivement au Sri Lanka, offrant une expérience captivante pour les passionnés de faune."
+          },
+          "reptiles": {
+            "title": "Reptiles",
+            "description": "La Forêt tropicale de Sinharaja est un trésor de diversité reptilienne, abritant une gamme d'espèces qui ont fait de ce joyau sri-lankais leur foyer exclusif."
+          },
+          "rainforestReserve": {
+            "title": "Réserve de forêt tropicale de Sinharaja",
+            "description": "En raison de la végétation dense, repérer les animaux est un défi. Cependant, ce type d'atmosphère est un vrai régal pour les passionnés de faune qui attendent avec impatience de voyager profondément dans les forêts à la recherche de faune rare."
+          }
+        }
+      }
+    },
+    "udawalaweNationalParkDayTour": {
+      "title": "Excursion d'une journée au Parc National Udawalawe",
+      "location": "Udawalawe",
+      "description": "Ce parc est le troisième parc le plus visité de tout le Sri Lanka et présente aux visiteurs une fusion de flore et de faune. Troupeaux d'éléphants, buffles, cerfs…",
+      "introDescription": "Ce parc est le troisième parc le plus visité de tout le Sri Lanka et présente aux visiteurs une fusion de flore et de faune. Troupeaux d'éléphants, buffles, cerfs et diverses espèces d'oiseaux font de ce parc un paradis pour les passionnés de faune.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Le Parc National Udawalawe est le troisième parc le plus visité de tout le Sri Lanka et présente aux visiteurs une fusion de flore et de faune. Le parc est renommé pour ses grandes manades d'éléphants, buffles, cerfs et diverses espèces d'oiseaux. Cette excursion d'une journée offre une expérience de safari faunique inoubliable dans l'un des parcs nationaux les plus accessibles et riches en faune du Sri Lanka.",
+        "parkHighlightsTitle": "Points forts du parc et faune",
+        "highlights": {
+          "elephants": "Manades d'éléphants : Udawalawe est célèbre pour ses grandes populations d'éléphants, offrant d'excellentes opportunités d'observer ces créatures majestueuses dans leur habitat naturel.",
+          "wildlife": "Faune diversifiée : Repérez des buffles d'eau, des cerfs tachetés, des cerfs sambar, des sangliers sauvages et divers autres mammifères dans tout le parc.",
+          "birds": "Observation des oiseaux : Le parc abrite plus de 180 espèces d'oiseaux, y compris des oiseaux endémiques et migrateurs, en faisant un paradis pour les passionnés d'oiseaux.",
+          "reservoir": "Réservoir Udawalawe : Le parc entoure le Réservoir Udawalawe, créant un écosystème unique qui attire une faune diversifiée.",
+          "safari": "Expérience de safari en jeep : Profitez d'un safari en jeep palpitant à travers le terrain varié du parc, des prairies aux forêts de broussailles.",
+          "accessibility": "Accessibilité facile : Situé à seulement 180 km de Colombo, Udawalawe est facilement accessible et parfait pour une excursion d'une journée.",
+          "conservation": "Succès de conservation : Le parc joue un rôle crucial dans la conservation des éléphants et abrite le Foyer de transit des éléphants Udawalawe."
+        }
+      },
+      "cards": {
+        "elephantSafari": {
+          "title": "Safari d'éléphants",
+          "description": "Découvrez des rencontres rapprochées avec des éléphants sauvages dans leur habitat naturel au Parc National Udawalawe. Témoignez de ces créatures majestueuses alors qu'elles errent librement, se baignent dans des points d'eau et interagissent avec leurs manades."
+        },
+        "wildlifeSpotting": {
+          "title": "Observation de la faune",
+          "description": "Repérez une faune diversifiée incluant des éléphants, des buffles d'eau, des cerfs tachetés, des cerfs sambar, des sangliers sauvages et plus de 180 espèces d'oiseaux. Le parc offre d'excellentes opportunités pour la photographie de faune et l'observation des oiseaux."
+        }
+      }
+    },
+    "whaleWatchingDayTour": {
+      "title": "Excursion d'une journée d'observation des baleines",
+      "location": "Mirissa",
+      "description": "Le Sri Lanka est l'une des meilleures destinations pour l'observation des baleines en Asie. Les cachalots et les baleines bleues sont une occurrence commune au large de la côte sud…",
+      "introDescription": "Le Sri Lanka est l'une des meilleures destinations pour l'observation des baleines en Asie. Les cachalots et les baleines bleues sont une occurrence commune au large de la côte sud, particulièrement autour de Mirissa. Cette excursion d'une journée offre une expérience inoubliable pour témoigner de ces magnifiques géants marins dans leur habitat naturel. La meilleure période pour l'observation des baleines est de novembre à avril, lorsque les conditions océaniques sont idéales et les observations de baleines sont les plus fréquentes.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Le Sri Lanka est l'une des meilleures destinations pour l'observation des baleines en Asie. Les cachalots et les baleines bleues sont une occurrence commune au large de la côte sud, particulièrement autour de Mirissa. Cette excursion d'une journée offre une expérience inoubliable pour témoigner de ces magnifiques géants marins dans leur habitat naturel. La meilleure période pour l'observation des baleines est de novembre à avril, lorsque les conditions océaniques sont idéales et les observations de baleines sont les plus fréquentes."
+      }
+    },
+    "yalaNationalParkDayTour": {
+      "title": "Excursion d'une journée au Parc National Yala",
+      "location": "Yala",
+      "description": "Avez-vous déjà été en safari dans une jungle gouvernée par les léopards ? Le Parc National Yala est votre réponse ! Avec 130 000 hectares de paysage…",
+      "introDescription": "Avez-vous déjà été en safari dans une jungle gouvernée par les léopards ? Le Parc National Yala est votre réponse ! Avec 130 000 hectares de paysage, Yala est le parc national le plus célèbre du Sri Lanka et a la plus forte densité de léopards au monde. Cette excursion d'une journée offre une opportunité incroyable de repérer des léopards, des éléphants, des ours paresseux, des crocodiles et une grande variété d'espèces d'oiseaux dans leur habitat naturel.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Avez-vous déjà été en safari dans une jungle gouvernée par les léopards ? Le Parc National Yala est votre réponse ! Avec 130 000 hectares de paysage, Yala est le parc national le plus célèbre du Sri Lanka et a la plus forte densité de léopards au monde. Cette excursion d'une journée offre une opportunité incroyable de repérer des léopards, des éléphants, des ours paresseux, des crocodiles et une grande variété d'espèces d'oiseaux dans leur habitat naturel."
+      }
+    },
+    "wilpattuNationalParkDayTour": {
+      "title": "Excursion d'une journée au Parc National Wilpattu",
+      "location": "Wilpattu",
+      "description": "Pour votre excursion d'une journée au Parc National Wilpattu, vous serez emmené en safari en jeep autour du parc pour repérer les animaux sauvages du Sri Lanka tels que les éléphants, les chacals, les ours paresseux et les léopards",
+      "introDescription": "Pour votre excursion d'une journée au Parc National Wilpattu, vous serez emmené en safari en jeep autour du parc pour repérer les animaux sauvages du Sri Lanka tels que les éléphants, les chacals, les ours paresseux et les léopards. Wilpattu est le plus grand et l'un des plus anciens parcs nationaux du Sri Lanka, connu pour ses 'willus' uniques (lacs naturels) et sa faune diversifiée. Le parc offre une expérience de safari authentique avec des opportunités de voir des léopards, des éléphants et de nombreuses autres espèces dans leur habitat naturel.",
+      "buttons": {
+        "exploreMore": "EXPLORER PLUS",
+        "bookThisTour": "RÉSERVER CETTE EXCURSION"
+      },
+      "detailedDescription": {
+        "intro": "Pour votre excursion d'une journée au Parc National Wilpattu, vous serez emmené en safari en jeep autour du parc pour repérer les animaux sauvages du Sri Lanka tels que les éléphants, les chacals, les ours paresseux et les léopards. Wilpattu est le plus grand et l'un des plus anciens parcs nationaux du Sri Lanka, connu pour ses 'willus' uniques (lacs naturels) et sa faune diversifiée. Le parc offre une expérience de safari authentique avec des opportunités de voir des léopards, des éléphants et de nombreuses autres espèces dans leur habitat naturel."
+      }
+    }
+  },
+  "tailorMadeTours": {
+    "hero": {
+      "title": "Circuits et Vacances sur Mesure au Sri Lanka",
+      "description": "Ceyara Tours propose des vacances sur mesure pour explorer les paysages et attractions diversifiés du Sri Lanka, de ses plages et sa faune à sa riche histoire et sa culture. Nous fournissons des services personnalisés, créant des itinéraires idéaux basés sur les préférences individuelles, et garantissons des voyages confortables avec des véhicules de luxe et des hébergements de premier ordre. Que vous soyez en lune de miel ou que vous voyagiez en famille ou entre amis, nous garantissons une expérience sri-lankaise luxueuse et mémorable."
+    },
+    "form": {
+      "planYourTrip": "Planifiez votre voyage",
+      "previous": "PRÉCÉDENT",
+      "next": "SUIVANT",
+      "submit": "SOUMETTRE",
+      "submitSuccess": "Merci ! Votre demande a été soumise avec succès.",
+      "step1": {
+        "title": "Informations personnelles",
+        "titleLabel": "Titre",
+        "selectTitle": "Sélectionner un titre",
+        "fullName": "Nom complet",
+        "fullNamePlaceholder": "Entrez votre nom complet",
+        "nationality": "Nationalité",
+        "nationalityPlaceholder": "Entrez votre nationalité",
+        "email": "E-mail",
+        "emailPlaceholder": "Entrez votre adresse e-mail",
+        "phone": "Téléphone",
+        "phonePlaceholder": "Entrez votre numéro de téléphone",
+        "recaptcha": "Je ne suis pas un robot"
+      },
+      "step2": {
+        "title": "Vos attentes de voyage ?",
+        "date": "Date",
+        "nights": "Combien de nuits ?",
+        "nightsPlaceholder": "Entrez le nombre de nuits",
+        "adults": "Nombre d'adultes",
+        "adultsPlaceholder": "Entrez le nombre d'adultes",
+        "accommodation": "Type d'hébergement",
+        "selectAccommodation": "Sélectionner le type d'hébergement"
+      },
+      "step3": {
+        "title": "Derniers détails :)",
+        "specialNotes": "Notes spéciales",
+        "specialNotesPlaceholder": "Entrez des notes ou exigences spéciales",
+        "hearAboutUs": "Comment avez-vous entendu parler de nous ?",
+        "selectHearAboutUs": "Sélectionner une option"
+      },
+      "validation": {
+        "titleRequired": "Veuillez sélectionner un titre",
+        "fullNameRequired": "Veuillez entrer votre nom complet",
+        "nationalityRequired": "Veuillez entrer votre nationalité",
+        "emailRequired": "Veuillez entrer votre adresse e-mail",
+        "emailInvalid": "Veuillez entrer une adresse e-mail valide",
+        "phoneRequired": "Veuillez entrer votre numéro de téléphone",
+        "dateRequired": "Veuillez sélectionner une date",
+        "nightsRequired": "Veuillez entrer le nombre de nuits",
+        "nightsInvalid": "Le nombre de nuits doit être d'au moins 1",
+        "adultsRequired": "Veuillez entrer le nombre d'adultes",
+        "adultsInvalid": "Le nombre d'adultes doit être d'au moins 1",
+        "accommodationRequired": "Veuillez sélectionner un type d'hébergement",
+        "hearAboutUsRequired": "Veuillez sélectionner comment vous avez entendu parler de nous",
+        "pleaseFillAllFields": "Veuillez remplir tous les champs obligatoires avant de soumettre."
+      },
+      "emailOpened": "✓ Client e-mail ouvert avec succès !\n\nVeuillez vérifier votre application e-mail et cliquer sur \"Envoyer\" pour compléter l'envoi de votre demande.\n\nVotre message est prêt à être envoyé à : gihanvidu123@gmail.com",
+      "submitError": "Échec de l'envoi de l'e-mail. Veuillez réessayer ou nous contacter directement."
+    },
+    "sidebar": {
+      "contactTitle": "Le meilleur appel que vous ferez aujourd'hui",
+      "supportText": "Nous sommes là pour vous soutenir 24 heures sur 24. Si vous voyagez et avez besoin d'une assistance d'urgence.",
+      "serviceTitle": "Comment fonctionne notre service ?",
+      "serviceStep1": "Parcourez notre site Web pour des idées de voyage de luxe et des inspirations de vacances.",
+      "serviceStep2": "Appelez-nous au",
+      "serviceStep2Cont": "ou renseignez-vous en ligne sur les vacances que vous souhaitez.",
+      "serviceStep3": "Recevez votre devis de vacances sur mesure, puis réservez en ligne ou par téléphone."
+    },
+    "whyChooseUs": {
+      "title": "Pourquoi nous choisir ?",
+      "feature1": {
+        "title": "Garantie de prix",
+        "description": "Des offres de forfaits vacances incroyables au Sri Lanka à des tarifs imbattables."
+      },
+      "feature2": {
+        "title": "Expérience éprouvée",
+        "description": "L'équipe de Ceyara Tours est composée de locaux qui ont une grande expérience dans le domaine."
+      },
+      "feature3": {
+        "title": "Conseiller personnel",
+        "description": "Notre équipe amicale de conseillers offre des services personnalisés aux clients."
+      },
+      "feature4": {
+        "title": "Support au sol 24 heures sur 24",
+        "description": "Nous sommes à votre service 24 heures sur 24 pour vous aider avec toutes vos préoccupations."
+      },
+      "feature5": {
+        "title": "Conditions de réservation équitables",
+        "description": "La politique de réservation est préparée avec le plus grand souci pour nos invités."
+      },
+      "feature6": {
+        "title": "Centre de paiement sécurisé",
+        "description": "Ceyara Tours dispose d'une plateforme financière sécurisée pour confirmer toutes vos réservations."
+      }
+    }
+  },
+  "romanticTours": {
+    "title": "Circuits Romantiques",
+    "subtitle": "Célébrez votre amour avec des expériences inoubliables au paradis",
+    "introTitle": "Créez des souvenirs d'amour uniques",
+    "introDescription1": "Nos circuits romantiques s'adressent aux couples en quête de moments d'exception. Demande en mariage, lune de miel, anniversaire ou simple escapade à deux : le Sri Lanka offre des plages idylliques, des montagnes brumeuses et des hébergements intimistes parfaits pour célébrer votre histoire.",
+    "introDescription2": "Chaque voyage comprend des expériences soigneusement sélectionnées : dîners privés, rituels bien-être pour deux, croisières au coucher du soleil et hôtels de charme. Ensemble, transformons vos rêves en souvenirs éternels.",
+    "toursTitle": "Circuits romantiques à la une",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Circuit introuvable",
+    "tourNotFoundDescription": "Le circuit recherché n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Dites « Oui » sur l'île de la Sérendipité",
+        "duration": "8 Nuits – 9 Jours",
+        "description": "Organisez une demande ou un renouvellement de vœux inoubliable dans les lieux les plus romantiques du Sri Lanka. Pique-niques au coucher du soleil, cérémonies personnalisées et décors exclusifs transforment votre question en un conte de fées."
+      },
+      "tour2": {
+        "title": "Baby Moon au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Chouchoutez-vous avant l'arrivée de bébé avec des soins spa, des promenades douces et du repos face à l'océan. Un rythme flexible, des attentions délicates et des retraites bien-être composent l'escapade prénatale idéale."
+      },
+      "tour3": {
+        "title": "Lune de Miel au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Détendez-vous après la cérémonie avec des villas privées, des dîners en bord de mer, des rituels spa à deux et des excursions sur mesure. Des plages secrètes aux montagnes embrumées, chaque détail respire la romance."
+      },
+      "tour4": {
+        "title": "Évasion Romantique au Sri Lanka",
+        "duration": "9 Nuits – 10 Jours",
+        "description": "Faites une surprise à votre moitié avec une échappée personnalisée mêlant boutiques-hôtels, routes panoramiques et expériences exclusives. Parfait pour lune de miel, anniversaire, babymoon ou escapade improvisée."
+      },
+      "tour5": {
+        "title": "Un Mariage de Rêve au Sri Lanka",
+        "duration": "Mariage de rêve",
+        "description": "Échangez vos vœux au paradis grâce à une cérémonie entièrement orchestrée. Décoration, formalités légales, accueil des invités : notre équipe transforme votre histoire d'amour en célébration magique."
+      }
+    }
+  },
+  "specialTransit": {
+    "title": "Circuits Transit Spéciaux",
+    "subtitle": "Profitez pleinement de votre escale ou court séjour avec nos circuits express",
+    "introTitle": "Des circuits parfaits pour les voyageurs en transit",
+    "introDescription1": "Nos circuits Transit Spéciaux s'adressent aux voyageurs disposant de peu de temps à Sri Lanka. Que vous ayez 6 heures, 24 heures ou quelques jours, nous vous faisons découvrir le meilleur du pays de manière efficace et confortable.",
+    "introDescription2": "De la prise en charge à l'aéroport jusqu'au retour ponctuel, chaque instant est optimisé pour explorer Sri Lanka sans stress. Idéal pour voyageurs d'affaires, passagers en correspondance ou curieux pressés : nos guides assurent une logistique fluide et des souvenirs mémorables.",
+    "toursTitle": "Circuits express en transit",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Circuit introuvable",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Circuit ferroviaire au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Le train est l'un des moyens les plus palpitants pour traverser le Sri Lanka. Installez-vous dans des wagons au charme vintage, traversez plantations de thé, montagnes brumeuses et plaines côtières tout en profitant de panoramas spectaculaires."
+      },
+      "tour2": {
+        "title": "Croisière et navigation au Sri Lanka",
+        "duration": "Durées et itinéraires flexibles",
+        "description": "Embarquez sur un catamaran de luxe ou un yacht côtier pour explorer les eaux cristallines du Sri Lanka. Des sorties au coucher du soleil aux croisières de plusieurs jours, personnalisez votre aventure avec snorkeling, pique-niques insulaires et dîner gastronomique."
+      },
+      "tour3": {
+        "title": "Tour en hélicoptère au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Découvrez le Sri Lanka depuis le ciel. Des pilotes chevronnés vous conduisent de sites patrimoniaux en plages secrètes et réserves animalières, transformant chaque transfert en survol panoramique mémorable."
+      },
+      "tour4": {
+        "title": "Circuit en tuk-tuk au Sri Lanka",
+        "duration": "10 Nuits – 11 Jours",
+        "description": "Parcourez les rues animées du Sri Lanka comme les locaux, à bord d'un tuk-tuk. Pénétrez dans les ruelles étroites, visitez monuments anciens, marchés colorés et routes côtières accompagné d'un guide-chauffeur expert."
+      }
+    }
+  },
+  "sportsBased": {
+    "title": "Circuits Sportifs",
+    "subtitle": "Aventures actives pour les passionnés de sport et de sensations",
+    "introTitle": "Découvrez le Sri Lanka à travers le sport et l'aventure",
+    "introDescription1": "Nos circuits sportifs sont conçus pour les voyageurs dynamiques qui souhaitent mêler activité physique et exploration. Cricket, surf, golf, kayak, plongée : le Sri Lanka offre un terrain de jeu exceptionnel toute l'année.",
+    "introDescription2": "Que vous soyez athlète aguerri, amateur de sports nautiques ou à la recherche d'adrénaline, nos itinéraires fournissent encadrement professionnel, équipement adapté et étapes soigneusement planifiées selon votre niveau.",
+    "toursTitle": "Circuits sportifs phares",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Circuit introuvable",
+    "tourNotFoundDescription": "Le circuit recherché n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Sri Lanka vs Australie 2025 – Tour de Cricket",
+        "duration": "18 Nuits – 19 Jours",
+        "description": "Vivez l'effervescence de la série Test Sri Lanka vs Australie 2025 tout en découvrant les sites emblématiques du pays. Billets, excursions et hospitalité premium compris."
+      },
+      "tour2": {
+        "title": "Circuit Kayak au Sri Lanka",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Pagayez sur lacs, mangroves et rivières en toute sérénité. Itinéraires sur mesure, briefing sécurité, guides expérimentés et matériel de qualité inclus."
+      },
+      "tour3": {
+        "title": "Circuit Plongée au Sri Lanka",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Explorez récifs, épaves et faune marine avec des professionnels PADI. Parfait pour plongeurs débutants ou confirmés souhaitant découvrir des eaux turquoise foisonnant de vie."
+      },
+      "tour4": {
+        "title": "Tour de Cricket au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Rassemblez votre équipe pour des matchs amicaux sur des terrains mythiques. Entraînements, rencontres locales et excursions culturelles complètent l'expérience."
+      },
+      "tour5": {
+        "title": "Circuits Golf au Sri Lanka",
+        "duration": "4 Nuits – 5 Jours",
+        "description": "Jouez sur des parcours d'exception de Colombo aux montagnes. Départs réservés, caddies, accès aux clubs et options bien-être ou visites entre les parties."
+      },
+      "tour6": {
+        "title": "Surf sur la côte Est du Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Suivez les célèbres vagues d'Arugam Bay et ses alentours. Coaching quotidien, location de planches et soins ciblés pour surfeurs vous accompagnent."
+      },
+      "tour7": {
+        "title": "Circuit Surf au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Du sud aux reefs secrets, ce surf trip vous fait découvrir la diversité de l'île. Guides locaux gèrent la planification des sessions, la logistique et les temps de repos."
+      },
+      "tour8": {
+        "title": "Aventure Sports Nautiques au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Combinez surf, jet-ski, snorkeling, kayak et paddle sur plusieurs littoraux. Les itinéraires restent flexibles pour privilégier vos activités nautiques favorites."
+      },
+      "tour9": {
+        "title": "Circuit Canoë au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Naviguez à votre rythme sur des voies d'eau bordées de forêt et de villages. Une aventure proche de la nature, idéale pour observer la faune et rencontrer les habitants."
+      }
+    }
+  },
+  "sustainableTours": {
+    "title": "Circuits Durables",
+    "subtitle": "Des voyages responsables qui protègent l'environnement et soutiennent les communautés locales",
+    "introTitle": "Voyagez autrement, laissez une empreinte positive",
+    "introDescription1": "Nos circuits durables s'adressent aux voyageurs soucieux de réduire leur impact tout en contribuant au développement local. Ils mettent l'accent sur la conservation, la sauvegarde culturelle, le soutien communautaire et des pratiques responsables pour préserver la beauté du Sri Lanka.",
+    "introDescription2": "Séjournez dans des écolodges, rencontrez des communautés, participez à des projets de protection et découvrez des traditions autochtones. Chaque circuit finance directement la préservation de la nature et l'essor local : voyagez avec un objectif et faites la différence.",
+    "toursTitle": "Circuits durables phares",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Circuit introuvable",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Au cœur de la nature avec des retraites rustiques",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Explorez la nature sauvage du Sri Lanka en séjournant dans des retraites éco-responsables. Safaris guidés, balades forestières et actions de conservation s'allient à une cuisine durable et à des échanges communautaires."
+      },
+      "tour2": {
+        "title": "Séjournez dans les foyers de l'hospitalité authentique sri-lankaise",
+        "duration": "15 Nuits – 16 Jours",
+        "description": "Parcourez les établissements emblématiques de Jetwing entre triangle culturel, collines brumeuses et côtes dorées. Rencontrez les hôtes, soutenez des projets locaux et vivez un voyage lent et conscient."
+      },
+      "tour3": {
+        "title": "Insufflez des expériences locales à vos vacances",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Imprégnez-vous du patrimoine, de la faune et du littoral sri-lankais aux côtés de guides responsables. Au programme : ateliers d'artisans, rencontres éthiques avec la faune et aventures douces d'un bout à l'autre de l'île."
+      },
+      "tour4": {
+        "title": "Tourisme responsable au Sri Lanka",
+        "duration": "3 Nuits – 4 Jours",
+        "description": "Une escapade courte et engagée avec hébergements certifiés, excursions zéro plastique et rencontres avec des pionniers de la durabilité. Parfait pour un séjour hors des sentiers battus."
+      },
+      "tour5": {
+        "title": "Eco Tour au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Adoptez un voyage écologique, durable et responsable. Dormez en écolodge, participez à la reforestation, découvrez des habitats protégés et apprenez à laisser une empreinte positive."
+      }
+    }
+  },
+  "wellnessTours": {
+    "title": "Circuits bien-être",
+    "subtitle": "Régénérez votre corps, votre esprit et votre âme grâce à des expériences de bien-être transformantes",
+    "introTitle": "Découvrez la guérison holistique et le bien-être",
+    "introDescription1": "Nos circuits bien-être s’adressent à ceux qui recherchent un rajeunissement physique, une clarté mentale et un renouveau spirituel. Les traditions de guérison ancestrales du Sri Lanka, notamment l’Ayurveda, combinées aux pratiques de bien-être modernes, offrent le cadre idéal pour des expériences de santé transformantes. Plongez dans des soins thérapeutiques, le yoga, la méditation et des thérapies holistiques au cœur de paysages naturels sereins.",
+    "introDescription2": "Des retraites ayurvédiques authentiques et ashrams de yoga aux luxueux resorts bien-être, nos programmes minutieusement sélectionnés proposent des parcours de guérison personnalisés. Découvrez des soins traditionnels à base de plantes, des programmes de détox, des thérapies anti-stress et une cuisine biologique nourrissante qui favorisent un bien-être global tout en profitant du calme du Sri Lanka.",
+    "toursTitle": "Circuits bien-être transformants",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Circuit introuvable",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Redécouvrez le luxe avec Amaya Retreats",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "Cet itinéraire de 12 jours met en lumière certaines des magnifiques propriétés d’une marque hôtelière locale très appréciée au Sri Lanka – Amaya. Profitez de soins bien-être sur mesure, de paysages grandioses et d’une hospitalité raffinée tout au long de votre séjour."
+      },
+      "tour2": {
+        "title": "Circuit bien-être au Sri Lanka",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Si vous recherchez des échappées hors des sentiers battus pour nourrir votre corps, votre esprit et votre âme, ce circuit bien-être de 13 jours au Sri Lanka est fait pour vous."
+      },
+      "tour3": {
+        "title": "Circuit yoga et méditation au Sri Lanka",
+        "duration": "9 Nuits – 10 Jours",
+        "description": "Une escapade idéale pour un circuit de yoga et de méditation au Sri Lanka consiste à s’éloigner du travail et du quotidien pour se retirer dans un lieu isolé (de préférence) et se recentrer…"
+      },
+      "tour4": {
+        "title": "Circuit yoga au Sri Lanka",
+        "duration": "9 Nuits – 10 Jours",
+        "description": "Conçu spécialement pour une guérison holistique. Pour ce circuit, nous avons sélectionné le Santani Wellness Resort, l’un des retraites de yoga les plus luxueuses du Sri Lanka…"
+      }
+    }
+  },
+  "wildlifeTours": {
+    "title": "Circuits faune sauvage",
+    "subtitle": "Rencontrez l'incroyable biodiversité du Sri Lanka et sa faune majestueuse dans leur habitat naturel",
+    "introTitle": "Vivez des rencontres animalières palpitantes",
+    "introDescription1": "Nos circuits Faune sauvage offrent des occasions exceptionnelles d'observer la biodiversité remarquable du Sri Lanka dans des parcs nationaux de renommée mondiale et des réserves protégées. Destination phare en Asie, l'île abrite léopards, éléphants, ours lippus, baleines, dauphins et des centaines d'oiseaux endémiques.",
+    "introDescription2": "Des plaines de Yala riches en léopards aux rassemblements d'éléphants de Minneriya en passant par les expéditions marines de la côte sud, chaque itinéraire associe safaris guidés par des naturalistes experts, hébergements éco-responsables et expériences immersives.",
+    "toursTitle": "Circuits faune sauvage à l'honneur",
+    "enquireNow": "Demander Maintenant",
+    "readMore": "En savoir plus",
+    "tourNotFound": "Circuit introuvable",
+    "tourNotFoundDescription": "Le circuit que vous recherchez n'existe pas.",
+    "backToTours": "Retour aux circuits",
+    "tours": {
+      "tour1": {
+        "title": "Circuit sur les traces des léopards au Sri Lanka",
+        "duration": "12 Nuits – 13 Jours",
+        "description": "Partez à la poursuite des léopards insaisissables du Sri Lanka à travers quatre parcs nationaux de premier plan, en combinant safaris palpitants, haltes culturelles et lodges de charme."
+      },
+      "tour2": {
+        "title": "Safari des éléphants au Sri Lanka",
+        "duration": "11 Nuits – 12 Jours",
+        "description": "L'itinéraire du safari des éléphants présente les principaux sites où l'on peut observer un grand nombre d'éléphants. Blue Lanka Tours défend avec ferveur la conservation..."
+      },
+      "tour3": {
+        "title": "Échos de la nature au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Ce circuit faune de 15 jours au Sri Lanka offre un savant mélange d'aventure et de détente, mettant en lumière la riche biodiversité du pays et ses paysages grandioses."
+      },
+      "tour4": {
+        "title": "Circuit faune au Sri Lanka",
+        "duration": "13 Nuits – 14 Jours",
+        "description": "Le Département de la Conservation de la faune a classé 22 parcs nationaux au Sri Lanka, faisant de l'île un haut lieu mondialement reconnu pour sa biodiversité."
+      },
+      "tour5": {
+        "title": "Circuits forêt tropicale Sri Lanka",
+        "duration": "2 Nuits – 3 Jours",
+        "description": "Le Sri Lanka s'est forgé la réputation de « paradis vert » du monde et bénéficie d'une végétation luxuriante dans chaque recoin de l'île."
+      },
+      "tour6": {
+        "title": "Sentiers ailés de Ceylan",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Ce circuit d'observation des oiseaux de 15 jours est un paradis pour les amoureux de la nature : il permet d'explorer les écosystèmes variés du pays et d'observer une grande diversité d'espèces."
+      },
+      "tour7": {
+        "title": "Circuit photographie faune sauvage",
+        "duration": "7 Nuits – 8 Jours",
+        "description": "Rencontres avec des animaux sauvages, nuits de camping en pleine nature, baleines dans l'océan Indien et panoramas côtiers spectaculaires : voici ce qui vous attend pendant ce circuit."
+      },
+      "tour8": {
+        "title": "Circuit aventure 4x4 au Sri Lanka",
+        "duration": "14 Nuits – 15 Jours",
+        "description": "Embarquez pour un palpitant périple en 4x4 à travers les terres sauvages du Sri Lanka – des jungles aux dunes – avec randonnées, safaris et séjours dans des éco-lodges uniques."
+      }
+    }
+  },
+  "ourStory": {
+    "title": "À propos de Ceyara Tours",
+    "intro": "Ceyara Tours est le présent et l'avenir de la gestion des destinations au Sri Lanka, où se déroulent les vacances tropicales les plus excitantes en Asie du Sud.",
+    "description": "Fondée en 2010, nous avons construit une réputation inébranlable pour posséder un portefeuille impressionnant de voyages, même pour le voyageur le plus exigeant. Notre compréhension et notre connaissance approfondie du Sri Lanka et de ses destinations les plus belles et les plus prisées nous ont valu le privilège de la confiance de notre clientèle large et croissante du monde entier, y compris le certificat d'excellence 2014, 2015, 2016 et 2017 de TripAdvisor. Nous vous apportons des services intimes et personnalisés qui sont inégalés par la plupart des autres entreprises de voyage, et nous faisons de notre responsabilité de parrainer une relation amicale entre les clients et les fournisseurs pour vous apporter une satisfaction ultime de vos vacances sri-lankaises.\n\nNous avons plus de 1000 propriétés d'hébergement dans notre portefeuille et elles ont été choisies pour leur excellence de service, leur signification particulière, leur importance artistique et culturelle et leur rapport qualité-prix. Celles-ci comprennent des hôtels boutique, des hôtels de plage, des bungalows et des manoirs, des hôtels de zone culturelle, des sites de camping et des hôtels de montagne. Nous nous assurons que chaque fournisseur d'hébergement avec lequel nous travaillons maintient ses bonnes normes et est surveillé et supervisé par nous pour l'assurance qualité. Une gamme diversifiée de circuits axés sur la culture, les plages, l'aventure et la lune de miel vous donne l'opportunité de découvrir de nombreuses merveilles et plaisirs cachés de l'île. Nous ne promouvons rien que nous n'ayons pas nous-mêmes vécu et apprécié.\nNos vacances sont sur mesure selon vos exigences et nos conseils de voyage sont personnalisés et détaillés pour vous assurer de recevoir ce que vous recherchez dans le meilleur package possible. Nos services ainsi que notre engagement à vous offrir des vacances confortables surpassent les efforts du voyageur indépendant pour le faire seul. Ceyara Tours favorise également le tourisme éthique et responsable et a un programme solide de responsabilité sociale des entreprises qui redonne aux communautés locales.\n\nNous avons un service client 24/7 dédié au maintien du support client chaque fois que nécessaire. Notre flotte de véhicules de luxe est toujours prête pour les installations de transport et nous sommes une équipe de professionnels du tourisme hautement qualifiés, qui sont une source d'information précieuse. Ceyara Tours est une entreprise de vacances enregistrée auprès de l'Autorité de développement du tourisme du Sri Lanka et garantit la confiance, la flexibilité, l'expertise et 100% de satisfaction client.",
+    "showMore": "VOIR PLUS",
+    "showLess": "VOIR MOINS",
+    "whyTitle": "Pourquoi Ceyara Tours",
+    "whyFeature1": "Fournisseurs de solutions de vacances réputés et dignes de confiance au Sri Lanka avec près d'une décennie d'expérience dans l'industrie.",
+    "whyFeature2": "Équipe amicale de consultants en voyage experts qui fourniront des conseils dans le meilleur intérêt du client.",
+    "whyFeature3": "Engagés à fournir des solutions de vacances personnalisées en gardant à l'esprit le luxe et le confort maximum du client.",
+    "startPlanning": "COMMENCEZ À PLANIFIER VOTRE VOYAGE",
+    "meetTeamTitle": "Rencontrez l'équipe",
+    "meetTeamDesc1": "Nous ne sommes pas seulement une salle de télévente. Chacun de nos spécialistes vit et respire le voyage, et a beaucoup de connaissances à partager.",
+    "meetTeamDesc2": "Ici, vous pouvez mettre un visage sur la voix et en apprendre un peu plus sur eux aussi.",
+    "viewOurTeam": "VOIR NOTRE ÉQUIPE",
+    "galleryTitle": "Moments capturés avec nos clients",
+    "loadingGallery": "Chargement des images de la galerie...",
+    "noGallery": "Aucune image de galerie disponible pour le moment.",
+    "testimonialsTitle": "Ce que disent nos clients",
+    "loadingTestimonials": "Chargement des témoignages...",
+    "noTestimonials": "Aucun témoignage disponible pour le moment."
+  },
+  "ourTeam": {
+    "title": "Notre équipe",
+    "description1": "Chez Ceyara Tours, notre passion commune est la beauté et le mystère du Sri Lanka. Notre équipe, basée dans notre bureau sur l'île, a une connaissance directe de ses merveilles. Nous sommes plus qu'une simple présence numérique; nous sommes de vraies personnes offrant des aperçus profonds de l'attrait du Sri Lanka. Au lieu de lutter vous-même avec les complexités du voyage, faites confiance à nos experts pour créer une expérience sri-lankaise sur mesure pour vous.",
+    "description2": "Apprenez à connaître les voix derrière votre voyage, de nos spécialistes du voyage avec leurs recommandations locales préférées à notre conseil d'administration et nos gestionnaires engagés. Que vous vous reconnectiez avec nous ou que vous cherchiez des conseils spécifiques, Ceyara Tours se positionne comme le principal opérateur de voyages, garantissant que votre aventure sri-lankaise est sans pareil."
+  },
+  "maldives": {
+    "heroSubtitle": "Exclusivement Sélectionné",
+    "heroTitle": "Forfaits Vacances Maldives",
+    "heroSubtitleSmall": "avec Ceyara Tours",
+    "curatedItineraries": "ITINÉRAIRES SÉLECTIONNÉS",
+    "tailormadeExperiences": "EXPÉRIENCES SUR MESURE",
+    "sectionTitle": "Itinéraires Sélectionnés",
+    "filterAll": "Tous",
+    "filterMaldives": "Maldives",
+    "filterMaldivesSriLanka": "Maldives et Sri Lanka",
+    "loadingPackages": "Chargement des forfaits...",
+    "noPackages": "Aucun forfait disponible pour le moment.",
+    "readMore": "LIRE LA SUITE",
+    "detailLoading": "Chargement du forfait...",
+    "detailNotFound": "Forfait introuvable",
+    "detailNotFoundDesc": "Le forfait que vous recherchez n'existe pas.",
+    "backToPackages": "Retour aux forfaits Maldives",
+    "exploreMore": "EXPLORER PLUS",
+    "tailormadeThisTours": "CETTE TOUR SUR MESURE",
+    "itinerary": "Itinéraire",
+    "travelItinerary": "Itinéraire de voyage",
+    "day": "Jour"
+  },
+  "blog": {
+    "title": "Blog",
+    "loading": "Chargement des articles de blog...",
+    "noPosts": "Aucun article de blog disponible pour le moment.",
+    "by": "par",
+    "readMore": "LIRE LA SUITE",
+    "detailLoading": "Chargement de l'article de blog...",
+    "detailNotFound": "Article de blog introuvable",
+    "detailNotFoundDesc": "L'article de blog que vous recherchez n'existe pas.",
+    "backToBlog": "Retour au blog"
+  },
+  "planYourTrip": {
+    "subtitle": "Planifiez mieux, voyagez mieux",
+    "searchPlaceholder": "Votre Emplacement",
+    "selectVehicle": "Sélectionner un Véhicule",
+    "expectedStartDate": "Date de Départ Prévue",
+    "startingTime": "Heure de Départ",
+    "guestCount": "Nombre de Voyageurs",
+    "loadingMap": "Chargement de la carte...",
+    "gettingLocation": "Obtention de la localisation...",
+    "useCurrentLocation": "📍 Utiliser ma Position Actuelle",
+    "yourLocation": "Votre Emplacement",
+    "start": "Départ",
+    "end": "Arrivée",
+    "point": "Point",
+    "loadingSystemPlaces": "Chargement des suggestions du système...",
+    "loadingNearbyPlaces": "Chargement des lieux à proximité...",
+    "noSavedPlacesFound": "Aucun lieu enregistré trouvé dans un rayon de 20 km (le système suggère des lieux)",
+    "min": "min",
+    "mins": "min",
+    "hour": "heure",
+    "hours": "heures",
+    "currency": "LKR",
+    "stayDuration": "Durée du Séjour",
+    "stayCost": "Coût du Séjour",
+    "distance": "Distance",
+    "costPerKm": "Coût/km",
+    "total": "Total",
+    "steps": {
+      "start": "Votre Emplacement",
+      "waypoints": "Points d'Étape",
+      "end": "Point Final",
+      "addWaypoint": "Ajoutez votre point d'étape"
+    },
+    "skipToEnd": "Aller au Point Final",
+    "addWaypoint": "Ajouter un Point d'Étape",
+    "cancel": "Annuler le Point d'Étape",
+    "complete": {
+      "title": "Voyage Planifié !",
+      "description": "Votre itinéraire a été planifié. Vous pouvez continuer à ajouter plus de points d'étape ou soumettre votre voyage.",
+      "addMore": "Ajouter Plus de Points"
+    },
+    "errors": {
+      "googleMapsApiKey": "Clé API Google Maps introuvable. Veuillez définir NEXT_PUBLIC_GOOGLE_MAPS_API_KEY dans vos variables d'environnement.",
+      "locationOutsideSriLanka": "Veuillez sélectionner uniquement un emplacement au Sri Lanka.",
+      "geolocationNotSupported": "La géolocalisation n'est pas prise en charge par votre navigateur.",
+      "locationOutsideSriLankaDetailed": "Votre emplacement est en dehors du Sri Lanka. Veuillez sélectionner un emplacement au Sri Lanka.",
+      "mapNotLoaded": "La carte n'est pas encore chargée. Veuillez patienter.",
+      "locationAccessDenied": "Accès à la localisation refusé. Veuillez autoriser l'accès à la localisation ou entrer votre emplacement manuellement.",
+      "locationUnavailable": "Informations de localisation indisponibles. Veuillez entrer votre emplacement manuellement.",
+      "locationTimeout": "La demande de localisation a expiré. Veuillez réessayer ou entrer votre emplacement manuellement.",
+      "locationError": "Une erreur s'est produite lors de l'obtention de votre localisation. Veuillez entrer votre emplacement manuellement.",
+      "invalidLocation": "Veuillez d'abord saisir un emplacement valide."
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "loadingTours": "Chargement des circuits...",
+    "error": "Erreur",
+    "errorLoadingTours": "Erreur lors du chargement des circuits",
+    "notFound": "Non Trouvé",
+    "postNotFound": "Article non trouvé",
+    "failedToLoadPost": "Échec du chargement de l'article",
+    "packageNotFound": "Forfait non trouvé",
+    "experienceNotFound": "Expérience non trouvée",
+    "destinationNotFound": "Destination non trouvée",
+    "tourNotFound": "Circuit non trouvé",
+    "accommodationNotFound": "Hébergement non trouvé",
+    "failedToFetchNavigation": "Échec de la récupération de la navigation",
+    "anErrorOccurred": "Une erreur s'est produite"
+  },
+  "teamRoles": {
+    "founderManagingDirector": "Fondateur / Directeur Général",
+    "salesManager": "Responsable Commercial",
+    "accountant": "Comptable",
+    "seniorExecutiveOperationsMarketing": "Cadre Supérieur Opérations et Marketing",
+    "accountsExecutive": "Responsable Comptes"
+  },
+  "enquiry": {
+    "messageTemplate": {
+      "header": "🌴 *Ceyara Tours - Demande de Voyage* 🌴",
+      "personalInfo": "*Informations Personnelles:*",
+      "name": "👤 Nom:",
+      "email": "📧 E-mail:",
+      "phone": "📱 Téléphone:",
+      "country": "🌍 Pays:",
+      "travelDetails": "*Détails du Voyage:*",
+      "travelDates": "📅 Dates de Voyage:",
+      "duration": "⏰ Durée:",
+      "travelers": "👥 Nombre de Voyageurs:",
+      "budget": "💰 Gamme de Budget:",
+      "interests": "*Intérêts:*",
+      "additionalMessage": "*Message Supplémentaire:*",
+      "separator": "---",
+      "footer": "*Envoyé depuis le Site Web Ceyara Tours*"
+    },
+    "messengerTemplate": {
+      "header": "🌴 Ceyara Tours - Demande de Voyage 🌴",
+      "personalInfo": "Informations Personnelles:",
+      "name": "👤 Nom:",
+      "email": "📧 E-mail:",
+      "phone": "📱 Téléphone:",
+      "country": "🌍 Pays:",
+      "travelDetails": "Détails du Voyage:",
+      "travelDates": "📅 Dates de Voyage:",
+      "duration": "⏰ Durée:",
+      "travelers": "👥 Nombre de Voyageurs:",
+      "budget": "💰 Gamme de Budget:",
+      "interests": "Intérêts:",
+      "additionalMessage": "Message Supplémentaire:",
+      "separator": "---",
+      "footer": "Envoyé depuis le Site Web Ceyara Tours"
+    },
+    "emailTemplate": {
+      "header": "🌴 Ceyara Tours - Demande de Voyage 🌴",
+      "personalInfo": "Informations Personnelles:",
+      "name": "👤 Nom:",
+      "email": "📧 E-mail:",
+      "phone": "📱 Téléphone:",
+      "country": "🌍 Pays:",
+      "travelDetails": "Détails du Voyage:",
+      "travelDates": "📅 Dates de Voyage:",
+      "duration": "⏰ Durée:",
+      "travelers": "👥 Nombre de Voyageurs:",
+      "budget": "💰 Gamme de Budget:",
+      "interests": "Intérêts:",
+      "additionalMessage": "Message Supplémentaire:",
+      "separator": "---",
+      "footer": "Envoyé depuis le Site Web Ceyara Tours"
+    }
+  },
+  "navigation": {
+    "dayTours": {
+      "anuradhapuraDayTour": "Excursion d'une Journée à Anuradhapura",
+      "belihuloyaDayTour": "Excursion d'une Journée à Belihuloya",
+      "colomboDayTour": "Excursion d'une Journée à Colombo",
+      "galleDayTour": "Excursion d'une Journée à Galle",
+      "geoffreyBawaWorks": "Œuvres de Geoffrey Bawa au Sri Lanka",
+      "hotAirBallooningDayTour": "Excursion en Montgolfière",
+      "kandyDayTour": "Excursion d'une Journée à Kandy",
+      "kithulgalaWhiteWaterRafting": "Rafting en Eaux Vives à Kithulgala",
+      "littleEnglandDayTour": "Petite Angleterre - Excursion d'une Journée",
+      "negomboLagoonFishingDayTour": "Pêche dans la Lagune de Negombo - Excursion",
+      "polonnaruwaDayTour": "Excursion d'une Journée à Polonnaruwa",
+      "sigiriyaDambullaDayTour": "Sigiriya & Dambulla - Excursion d'une Journée",
+      "sinharajaDayTour": "Excursion d'une Journée à Sinharaja",
+      "udawalaweNationalParkDayTour": "Parc National d'Udawalawe - Excursion",
+      "whaleWatchingDayTour": "Observation des Baleines - Excursion",
+      "wilpattuNationalParkDayTour": "Parc National de Wilpattu - Excursion",
+      "yalaNationalParkDayTour": "Parc National de Yala - Excursion"
+    }
+  },
+  "registration": {
+    "title": "Trouver des Chauffeurs et Guides Touristiques",
+    "subtitle": "Recherchez et connectez-vous avec des chauffeurs et guides touristiques professionnels",
+    "searchPlaceholder": "Rechercher par nom, district ou contact...",
+    "selectType": "Sélectionner le type:",
+    "all": "Tous",
+    "tourDriver": "Chauffeur de Tour",
+    "tourGuide": "Guide Touristiques",
+    "showInquiry": "Afficher le Formulaire de Demande",
+    "hideInquiry": "Masquer le Formulaire de Demande",
+    "inquiry": "Demande",
+    "name": "Nom",
+    "contactNumber": "Numéro de Contact",
+    "submitting": "Envoi en cours...",
+    "submit": "Soumettre",
+    "inquirySubmitted": "Demande soumise avec succès!",
+    "inquiryError": "Échec de l'envoi de la demande. Veuillez réessayer.",
+    "drivers": "Chauffeurs de Tour",
+    "guides": "Guides Touristiques",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "noResults": "Aucun chauffeur ou guide trouvé correspondant à votre recherche.",
+    "registerAsDriver": "S'inscrire comme Chauffeur",
+    "registerAsGuide": "S'inscrire comme Guide",
+    "fullName": "Nom Complet (Comme sur la Carte d'Identité)",
+    "nicPassportNumber": "Numéro de Carte d'Identité/Passeport",
+    "dateOfBirth": "Date de Naissance",
+    "whatsappNumber": "Numéro WhatsApp",
+    "emailAddress": "Adresse E-mail (Optionnel)",
+    "residentialAddress": "Adresse Résidentielle",
+    "district": "District/Province",
+    "emergencyContactName": "Nom du Contact d'Urgence",
+    "emergencyContactNumber": "Numéro de Contact d'Urgence",
+    "registering": "Inscription en cours...",
+    "register": "S'inscrire",
+    "cancel": "Annuler",
+    "registrationSuccess": "Inscription soumise avec succès. Notre équipe d'administration vous contactera et, après approbation, votre profil sera visible sur le site.",
+    "registrationError": "Échec de l'inscription. Veuillez réessayer.",
+    "nicPhotoNote": "Note: Les photos de carte d'identité peuvent être téléchargées après l'inscription initiale via le panneau d'administration.",
+    "profilePhoto": "Photo de Profil",
+    "nicPhotoFront": "Photo de Carte d'Identité (Recto)",
+    "nicPhotoBack": "Photo de Carte d'Identité (Verso)",
+    "chooseFile": "Choisir un Fichier",
+    "request": "Demander",
+    "requestTour": "Demander un Tour",
+    "touristName": "Nom du Touriste",
+    "touristEmail": "E-mail du Touriste",
+    "touristContact": "Contact du Touriste",
+    "startDate": "Date de Début",
+    "endDate": "Date de Fin",
+    "filterStartDate": "Date de Début du Tour:",
+    "filterEndDate": "Date de Fin du Tour:",
+    "clearDates": "Effacer les Dates",
+    "submitRequest": "Soumettre la Demande",
+    "drivingLicenceDetails": "Détails du Permis de Conduire",
+    "drivingLicenceFront": "Permis de Conduire (Recto)",
+    "drivingLicenceBack": "Permis de Conduire (Verso)",
+    "tourDrivingExperience": "Expérience de Conduite Touristique",
+    "yearsOfExperience": "Années d'Expérience de Conduite Touristique",
+    "languagesSpoken": "Langues Parlées",
+    "areasFamiliar": "Zones Familières",
+    "areas": {
+      "western_province": "Province de l'Ouest",
+      "hill_country": "Région Montagneuse",
+      "cultural_triangle": "Triangle Culturel",
+      "south_coast": "Côte Sud",
+      "east_coast": "Côte Est",
+      "entire_country": "Tout le Pays"
+    },
+    "vehicleDetails": "Détails du Véhicule",
+    "vehicleType": "Type de Véhicule",
+    "selectVehicleType": "-- Sélectionner le Type de Véhicule --",
+    "car": "Voiture",
+    "van": "Fourgon",
+    "bus": "Bus",
+    "vehicleRegistrationBook": "Carte Grise (Copie)",
+    "revenueLicence": "Licence de Recettes (Copie)",
+    "insuranceCard": "Carte d'Assurance (Copie)",
+    "vehiclePhotos": "Photos du Véhicule",
+    "vehiclePhotoFront": "Vue de Face",
+    "vehiclePhotoBack": "Vue Arrière",
+    "vehiclePhotoSide": "Vue de Côté",
+    "vehiclePhotoInterior": "Vue Intérieure",
+    "bankPaymentInfo": "Informations Bancaires et de Paiement",
+    "bankName": "Nom de la Banque",
+    "bankBranch": "Agence",
+    "accountHolderName": "Nom du Titulaire du Compte",
+    "accountNumber": "Numéro de Compte"
+  }
+}
