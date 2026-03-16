@@ -1,0 +1,184 @@
+/* Discover Sri Lanka Page Styles */
+
+/* Import places carousel styles from day-tours */
+/* The places-carousel-* classes are defined in day-tours/styles.css */
+
+/* Hero Section with Curved Image */
+.discover-hero-section {
+  padding: 4rem 0;
+  background: white;
+}
+
+.discover-hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+.discover-hero-image-wrapper {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  border-radius: 0 12px 12px 0;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+}
+
+.discover-hero-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.discover-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  color: #003366;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.discover-description {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.discover-action-buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.discover-btn {
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+  font-size: 1rem;
+}
+
+.discover-btn-primary {
+  background: #0066cc;
+  color: white;
+}
+
+.discover-btn-primary:hover {
+  background: #0052a3;
+}
+
+.discover-btn-secondary {
+  background: #ff6b35;
+  color: white;
+}
+
+.discover-btn-secondary:hover {
+  background: #e55a2b;
+}
+
+/* Top Attractions Section - Uses places-carousel styles from day-tours/styles.css */
+
+/* Responsive Styles */
+@media (max-width: 1024px) {
+  .discover-hero-grid {
+    gap: 2rem;
+  }
+
+  .discover-hero-image-wrapper {
+    clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+  }
+
+  .top-attractions-layout {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+@media (max-width: 768px) {
+  .discover-hero-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .discover-hero-image-wrapper {
+    height: 300px;
+    border-radius: 12px;
+    clip-path: none;
+  }
+
+  .discover-title {
+    font-size: 2rem;
+  }
+
+  .discover-description {
+    font-size: 1rem;
+  }
+
+  .discover-action-buttons {
+    flex-direction: column;
+  }
+
+  .discover-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .main-attraction-card {
+    height: 400px;
+  }
+
+  .main-attraction-overlay {
+    padding: 1.5rem;
+  }
+
+  .main-attraction-title {
+    font-size: 1.5rem;
+  }
+
+  .attractions-carousel {
+    flex-direction: row;
+    overflow-x: auto;
+    gap: 1rem;
+  }
+
+  .attraction-card {
+    min-width: 200px;
+  }
+}
+
+@media (max-width: 640px) {
+  .discover-title {
+    font-size: 1.75rem;
+  }
+
+  .main-attraction-card {
+    height: 300px;
+  }
+
+  .main-attraction-title {
+    font-size: 1.25rem;
+  }
+
+  .main-attraction-description {
+    font-size: 0.9rem;
+  }
+
+  .attraction-card-image {
+    height: 150px;
+  }
+
+  .attraction-card-title {
+    font-size: 1rem;
+  }
+}
+
