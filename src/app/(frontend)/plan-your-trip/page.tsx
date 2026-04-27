@@ -53,6 +53,7 @@ export default function PlanYourTripPage() {
     'start',
   )
   const [searchValue, setSearchValue] = useState('')
+  const [isSearchIdle, setIsSearchIdle] = useState(false)
   const [mapLoaded, setMapLoaded] = useState(false)
   const [totalDuration, setTotalDuration] = useState<string>('')
   const [totalDistance, setTotalDistance] = useState<string>('')
@@ -114,6 +115,8 @@ export default function PlanYourTripPage() {
     lng: number
   } | null>(null)
   const [showPlacesPopup, setShowPlacesPopup] = useState(false)
+  const [placesPopupCooldownUntil, setPlacesPopupCooldownUntil] = useState<number>(0)
+  const placesPopupAutoCloseRef = useRef<number | null>(null)
   const [hotels, setHotels] = useState<
     Array<{
       id: string
@@ -204,12 +207,29 @@ export default function PlanYourTripPage() {
     }>
   } | null>(null)
   const [showHotelDetails, setShowHotelDetails] = useState(false)
+  const [showWaypointHotels, setShowWaypointHotels] = useState(false)
+  const [waypointHotels, setWaypointHotels] = useState<typeof nearbyHotels>([])
+  const [waypointHotelsFor, setWaypointHotelsFor] = useState<{
+    pointId: string
+    label: string
+    lat: number
+    lng: number
+  } | null>(null)
   const routeLegsRef = useRef<any[]>([])
   const previousPointIdsRef = useRef<string>('')
   const isUpdatingRouteRef = useRef(false)
   const [isGettingLocation, setIsGettingLocation] = useState(false)
   const [locationError, setLocationError] = useState<string | null>(null)
   const userLocationMarkerRef = useRef<any>(null)
+  const [showVehicleSearchPopup, setShowVehicleSearchPopup] = useState(false)
+  const [registeredVehicles, setRegisteredVehicles] = useState<any[]>([])
+  const [selectedRegisteredVehicle, setSelectedRegisteredVehicle] = useState<any | null>(null)
+  const [showVehicleDetailsModal, setShowVehicleDetailsModal] = useState(false)
+  const [viewingVehicle, setViewingVehicle] = useState<any | null>(null)
+  const [showSummaryRequested, setShowSummaryRequested] = useState(false)
+  const [isSendingEmail, setIsSendingEmail] = useState(false)
+  const [customerEmail, setCustomerEmail] = useState('')
+  const [customerContact, setCustomerContact] = useState('')
 
   // Initialize Google Maps
   useEffect(() => {
@@ -731,6 +751,29 @@ export default function PlanYourTripPage() {
     return () => clearTimeout(timeoutId)
   }, [searchValue, mapLoaded, currentStep])
 
+  // Mark typing as "idle" after 1s with no changes (improves UX for popup)
+  useEffect(() => {
+    const term = searchValue.trim()
+    if (!term || term.length < 3) {
+      setIsSearchIdle(false)
+      return
+    }
+
+    setIsSearchIdle(false)
+    const timeoutId = setTimeout(() => setIsSearchIdle(true), 1000)
+    return () => clearTimeout(timeoutId)
+  }, [searchValue])
+
+  const closePlacesPopup = () => {
+    setShowPlacesPopup(false)
+    // Prevent immediate re-open caused by downstream state updates (e.g. adding a point updates reference coords)
+    setPlacesPopupCooldownUntil(Date.now() + 1600)
+    if (placesPopupAutoCloseRef.current) {
+      window.clearTimeout(placesPopupAutoCloseRef.current)
+      placesPopupAutoCloseRef.current = null
+    }
+  }
+
   const updateMap = () => {
     if (!mapInstanceRef.current || !directionsServiceRef.current || !directionsRendererRef.current)
       return
@@ -1224,6 +1267,24 @@ export default function PlanYourTripPage() {
     fetchVehicles()
   }, [])
 
+  // Fetch registered vehicles from database
+  useEffect(() => {
+    const fetchRegisteredVehicles = async () => {
+      try {
+        const response = await fetch('/api/vehicles?limit=1000&depth=1')
+        if (response.ok) {
+          const data = await response.json()
+          setRegisteredVehicles(data.docs || [])
+        } else {
+          console.error('Failed to fetch registered vehicles:', response.status, response.statusText)
+        }
+      } catch (err) {
+        console.error('Error fetching registered vehicles:', err)
+      }
+    }
+    fetchRegisteredVehicles()
+  }, [])
+
   // Calculate nearby places and hotels based on typed location or reference location
   useEffect(() => {
     const endPoint = points.find((p) => p.type === 'end')
@@ -1322,19 +1383,28 @@ export default function PlanYourTripPage() {
     }
     setNearbyHotels(calculatedHotels)
 
-    // Show popup when we have a valid reference location
-    // SIMPLIFIED: Show popup if we have typedLocation (from autocomplete) OR for waypoints
-    const shouldShowPopup = referenceLat && referenceLng && (
-      (currentStep === 'waypoints' && referenceLocationForNearby) || 
-      (typedLocation !== null) // ALWAYS show if typedLocation exists (from autocomplete selection)
-    )
+    // Popup behavior (UX):
+    // - show only after user stops typing (~1s)
+    // - keep visible ~5s then auto-close
+    // - do NOT show immediately after selecting an item (cooldown)
+    const shouldShowPopup =
+      Date.now() > placesPopupCooldownUntil &&
+      !!referenceLat &&
+      !!referenceLng &&
+      typedLocation !== null &&
+      isSearchIdle
     
     if (shouldShowPopup) {
-      // If showing popup for endpoint selection, ensure the ref is set
-      if (typedLocation !== null) {
-        isSelectingEndpointRef.current = true
-      }
+      // Only treat popup selections as endpoint selection when user is actually in endpoint mode.
+      // Otherwise (waypoints typing), selecting from popup must add a waypoint.
+      isSelectingEndpointRef.current = currentStep === 'end' && typedLocation !== null
       setShowPlacesPopup(true)
+      if (placesPopupAutoCloseRef.current) {
+        window.clearTimeout(placesPopupAutoCloseRef.current)
+      }
+      placesPopupAutoCloseRef.current = window.setTimeout(() => {
+        closePlacesPopup()
+      }, 5000)
       // Debug logging (can be removed in production)
       console.log('Nearby items calculation:', {
         referenceLocation: { lat: referenceLat, lng: referenceLng },
@@ -1350,7 +1420,47 @@ export default function PlanYourTripPage() {
       // Don't show popup if no reference location
       setShowPlacesPopup(false)
     }
-  }, [referenceLocationForNearby, visitingPlaces, hotels, points, currentStep, typedLocation])
+  }, [
+    referenceLocationForNearby,
+    visitingPlaces,
+    hotels,
+    points,
+    currentStep,
+    typedLocation,
+    isSearchIdle,
+    placesPopupCooldownUntil,
+  ])
+
+  const openHotelsForWaypoint = (point: Point, index: number) => {
+    const label = getPointLabel(point, index + 1)
+    setWaypointHotelsFor({ pointId: point.id, label, lat: point.lat, lng: point.lng })
+
+    if (!hotels || hotels.length === 0) {
+      setWaypointHotels([])
+      setShowWaypointHotels(true)
+      return
+    }
+
+    const calculated = hotels
+      .filter((hotel) => {
+        return (
+          typeof hotel.latitude === 'number' &&
+          typeof hotel.longitude === 'number' &&
+          !isNaN(hotel.latitude) &&
+          !isNaN(hotel.longitude)
+        )
+      })
+      .map((hotel) => {
+        const distance = calculateDistance(point.lat, point.lng, hotel.latitude, hotel.longitude)
+        return { ...hotel, distance }
+      })
+      .filter((hotel) => hotel.distance <= 20 && hotel.distance > 0)
+      .sort((a, b) => a.distance - b.distance)
+      .slice(0, 20)
+
+    setWaypointHotels(calculated as typeof nearbyHotels)
+    setShowWaypointHotels(true)
+  }
 
   const handleSelectNearbyPlace = (place: {
     id: string
@@ -1366,7 +1476,10 @@ export default function PlanYourTripPage() {
     const hasEndpoint = points.find((p) => p.type === 'end')
     // If ref is set, we're definitely selecting endpoint (even if currentStep changed to 'complete')
     // Also check if currentStep is 'end' OR if we have endpoint but ref is still set (user selecting replacement)
-    const isAddingEndpoint = isSelectingEndpointRef.current || currentStep === 'end' || (!hasEndpoint && currentStep !== 'waypoints' && currentStep !== 'start')
+    const isAddingEndpoint =
+      currentStep === 'end' ||
+      (isSelectingEndpointRef.current && currentStep !== 'waypoints') ||
+      (!hasEndpoint && currentStep !== 'waypoints' && currentStep !== 'start')
     
     // Get previous point to calculate distance
     const previousPoint = points
@@ -1445,7 +1558,7 @@ export default function PlanYourTripPage() {
       }
     }
     // Close popup after adding point
-    setShowPlacesPopup(false)
+    closePlacesPopup()
   }
 
   const handleSelectNearbyHotel = (hotel: {
@@ -1461,7 +1574,10 @@ export default function PlanYourTripPage() {
     const hasEndpoint = points.find((p) => p.type === 'end')
     // If ref is set, we're definitely selecting endpoint (even if currentStep changed to 'complete')
     // Also check if currentStep is 'end' OR if we have endpoint but ref is still set (user selecting replacement)
-    const isAddingEndpoint = isSelectingEndpointRef.current || currentStep === 'end' || (!hasEndpoint && currentStep !== 'waypoints' && currentStep !== 'start')
+    const isAddingEndpoint =
+      currentStep === 'end' ||
+      (isSelectingEndpointRef.current && currentStep !== 'waypoints') ||
+      (!hasEndpoint && currentStep !== 'waypoints' && currentStep !== 'start')
     
     // Get previous point to calculate distance
     const previousPoint = points
@@ -1540,7 +1656,7 @@ export default function PlanYourTripPage() {
       }
     }
     // Close popup after adding point
-    setShowPlacesPopup(false)
+    closePlacesPopup()
   }
 
   const handleAddTypedLocation = () => {
@@ -1667,6 +1783,85 @@ export default function PlanYourTripPage() {
     setCurrentStep('complete')
   }
 
+  const handleGetFullSummary = async () => {
+    // Basic validation
+    if (!expectedStartDate || !startingTime || !guestCount) {
+      alert('Please fill in starting date, time, and guest count.')
+      return
+    }
+
+    if (points.length < 2 || !points.find((p) => p.type === 'end')) {
+      alert('Please complete your trip plan with at least a start and end point.')
+      return
+    }
+
+    if (!selectedVehicle) {
+      alert('Please select a vehicle.')
+      return
+    }
+
+    setIsSendingEmail(true)
+    
+    // Prepare trip data for email with correct cost calculation
+    const totalDistanceKm = totalDistance ? parseFloat(totalDistance.replace(' km', '')) : 0
+    const totalStayCost = points
+      .filter((point) => point.type !== 'start' && point.type !== 'end')
+      .reduce((sum, point) => {
+        const stayCost = point.stayCost ?? tripConfig?.defaultStayCost ?? 0
+        return sum + stayCost
+      }, 0)
+    const costPerKm = selectedVehicle?.lkrPerKilometer ?? tripConfig?.lkrPerKilometer ?? 0
+    const calculatedTotalCost = (totalDistanceKm * costPerKm) + totalStayCost
+
+    const tripData = {
+      customerEmail,
+      customerContact,
+      expectedStartDate,
+      startingTime,
+      guestCount,
+      vehicle: selectedRegisteredVehicle || {
+        vehicleType: selectedVehicle.vehicleType,
+        model: 'Generic Configuration',
+        plateNumber: 'N/A'
+      },
+      points: points.map(p => {
+        // If it's the start point and name is generic "Your Location", use the address instead
+        const displayName = (p.type === 'start' && (p.name === 'Your Location' || p.name === t('planYourTrip.yourLocation'))) 
+          ? p.address 
+          : p.name;
+        
+        return {
+          type: p.type,
+          name: displayName,
+          address: p.address
+        }
+      }),
+      totalDistance,
+      totalDuration,
+      totalCost: calculatedTotalCost
+    }
+
+    try {
+      const response = await fetch('/api/send-trip-summary', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(tripData),
+      })
+
+      if (response.ok) {
+        setShowSummaryRequested(true)
+        alert('Trip summary generated and email sent to admin!')
+      } else {
+        alert('Failed to send trip summary email. Please try again.')
+      }
+    } catch (error) {
+      console.error('Error sending trip summary:', error)
+      alert('An error occurred. Please try again.')
+    } finally {
+      setIsSendingEmail(false)
+    }
+  }
+
   const getPointLabel = (point: Point, index: number) => {
     if (point.type === 'start') return t('planYourTrip.start')
     if (point.type === 'end') return t('planYourTrip.end')
@@ -1705,6 +1900,38 @@ export default function PlanYourTripPage() {
           <div className="plan-stepper-header">
             <h1>{t('nav.planYourTrip') || 'Plan Your Trip'}</h1>
             <p>{t('planYourTrip.subtitle') || 'Plan smarter, travel better'}</p>
+          </div>
+
+          {/* Customer Details - Email, Contact */}
+          <div className="trip-details-container customer-contact-details">
+            <div className="trip-details-row">
+              <div className="trip-detail-field">
+                <label htmlFor="customer-email" className="trip-detail-label">
+                  {t('planYourTrip.customerEmail') || 'Email Address'}
+                </label>
+                <input
+                  type="email"
+                  id="customer-email"
+                  value={customerEmail}
+                  onChange={(e) => setCustomerEmail(e.target.value)}
+                  className="trip-detail-input"
+                  placeholder="example@mail.com"
+                />
+              </div>
+              <div className="trip-detail-field">
+                <label htmlFor="customer-contact" className="trip-detail-label">
+                  {t('planYourTrip.customerContact') || 'Contact Number'}
+                </label>
+                <input
+                  type="text"
+                  id="customer-contact"
+                  value={customerContact}
+                  onChange={(e) => setCustomerContact(e.target.value)}
+                  className="trip-detail-input"
+                  placeholder="+94 77 123 4567"
+                />
+              </div>
+            </div>
           </div>
 
           {/* Trip Details - Date, Time, Guest Count */}
@@ -1956,9 +2183,11 @@ export default function PlanYourTripPage() {
                           )}
                           {(() => {
                             // Show default details for unsaved places (use tripConfig defaults)
-                            const stayDuration =
-                              point.stayDuration ?? tripConfig?.stayTimeInMinutes ?? 0
-                            const stayCost = point.stayCost ?? tripConfig?.defaultStayCost ?? 0
+                            // const stayDuration =
+                            //   point.stayDuration ?? tripConfig?.stayTimeInMinutes ?? 0
+                            const stayDuration = 0 // Stay Duration hidden
+                            // const stayCost = point.stayCost ?? tripConfig?.defaultStayCost ?? 0
+                            const stayCost = 0 // Stay Cost hidden & excluded from total
                             const costPerKm =
                               selectedVehicle?.lkrPerKilometer ?? tripConfig?.lkrPerKilometer ?? 0
                             const distanceInKm = point.distanceInKm ?? 0
@@ -1972,15 +2201,19 @@ export default function PlanYourTripPage() {
 
                             return (
                               <div className="point-details-container">
+                                {/* Stay Duration hidden - uncomment to restore
                                 {stayDuration > 0 && (
                                   <div>
                                     ⏱️ {t('planYourTrip.stayDuration')}:{' '}
                                     {formatDuration(stayDuration)}
                                   </div>
                                 )}
+                                */}
+                                {/* Stay Cost hidden - uncomment to restore
                                 {stayCost > 0 && (
                                   <div>💰 Stay Cost: {formatCurrency(stayCost)}</div>
                                 )}
+                                */}
                                 {distanceInKm > 0 && (
                                   <>
                                     <div>
@@ -1999,6 +2232,13 @@ export default function PlanYourTripPage() {
                               </div>
                             )
                           })()}
+                          <button
+                            type="button"
+                            className="waypoint-hotels-btn"
+                            onClick={() => openHotelsForWaypoint(point, index)}
+                          >
+                            🏨 Hotels For Accommodations
+                          </button>
                         </div>
                         <button onClick={() => removePoint(point.id)} className="remove-btn">
                           ×
@@ -2068,7 +2308,7 @@ export default function PlanYourTripPage() {
                           setCurrentStep('complete')
                           setSearchValue('')
                           setTypedLocation(null)
-                          setShowPlacesPopup(false)
+                          closePlacesPopup()
                           setReferenceLocationForNearby(null)
                           if (autocompleteInput) {
                             autocompleteInput.value = ''
@@ -2202,8 +2442,34 @@ export default function PlanYourTripPage() {
               </div>
             )}
 
-            {/* Full Trip Summary - under End Point when route exists */}
-            {points.length >= 1 &&
+            {/* Search Vehicles Button - shown when a vehicle type is selected */}
+            {selectedVehicle && (
+              <div className="vehicle-actions-container">
+                <div className="search-vehicles-btn-container">
+                  <button
+                    type="button"
+                    className="search-vehicles-btn"
+                    onClick={() => setShowVehicleSearchPopup(true)}
+                  >
+                    🚗 {t('planYourTrip.searchVehicles') || 'Search Vehicles'}
+                  </button>
+                </div>
+                
+                <div className="get-summary-btn-container">
+                  <button
+                    type="button"
+                    className="get-summary-btn"
+                    onClick={handleGetFullSummary}
+                    disabled={isSendingEmail}
+                  >
+                    📄 {isSendingEmail ? t('planYourTrip.sending') : t('planYourTrip.getFullSummary') || 'Get Full Trip Summary'}
+                  </button>
+                </div>
+              </div>
+            )}
+
+            {/* Full Trip Summary - under End Point when route exists and requested */}
+            {showSummaryRequested && points.length >= 1 &&
               points.find((p) => p.type === 'end') &&
               (totalDuration || totalDistance) &&
               (() => {
@@ -2244,15 +2510,32 @@ export default function PlanYourTripPage() {
                         <strong>Total Travel Duration:</strong> ⏱️ {totalDuration}
                       </p>
                     )}
+                    {/* Total Stay Time hidden - uncomment to restore
                     {totalStayMinutes > 0 && (
                       <p className="trip-summary-item">
                         <strong>Total Stay Time:</strong> ⏱️ {formatDuration(totalStayMinutes)}
                       </p>
                     )}
+                    */}
                     {totalDistance && (
                       <p className="trip-summary-item">
                         <strong>Total Distance:</strong> 📍 {totalDistance}
                       </p>
+                    )}
+                    {selectedRegisteredVehicle && (
+                      <div className="trip-summary-vehicle-info">
+                        <p className="trip-summary-item">
+                          <strong>Vehicle:</strong> 🆔 {selectedRegisteredVehicle.plateNumber}
+                        </p>
+                        {(() => {
+                          const url = selectedRegisteredVehicle.vehiclePhotoFront?.url || 
+                                      selectedRegisteredVehicle.vehiclePhotoFront?.publicUrl || 
+                                      (selectedRegisteredVehicle.vehiclePhotoFront?.filename ? `/api/media/file/${selectedRegisteredVehicle.vehiclePhotoFront.filename}` : null)
+                          return url ? (
+                            <img src={url} alt={selectedRegisteredVehicle.plateNumber} className="summary-vehicle-img" />
+                          ) : null
+                        })()}
+                      </div>
                     )}
                     {totalCost > 0 && (
                       <p className="trip-summary-cost">
@@ -2361,16 +2644,33 @@ export default function PlanYourTripPage() {
                               <strong>Total Travel Duration:</strong> ⏱️ {totalDuration}
                             </p>
                           )}
+                          {/* Total Stay Time hidden - uncomment to restore
                           {totalStayMinutes > 0 && (
                             <p className="trip-summary-item">
                               <strong>Total Stay Time:</strong> ⏱️{' '}
                               {formatDuration(totalStayMinutes)}
                             </p>
                           )}
+                          */}
                           {totalDistance && (
                             <p className="trip-summary-item">
                               <strong>Total Distance:</strong> 📍 {totalDistance}
                             </p>
+                          )}
+                          {selectedRegisteredVehicle && (
+                            <div className="trip-summary-vehicle-info">
+                              <p className="trip-summary-item">
+                                <strong>Vehicle:</strong> 🆔 {selectedRegisteredVehicle.plateNumber}
+                              </p>
+                              {(() => {
+                                const url = selectedRegisteredVehicle.vehiclePhotoFront?.url || 
+                                            selectedRegisteredVehicle.vehiclePhotoFront?.publicUrl || 
+                                            (selectedRegisteredVehicle.vehiclePhotoFront?.filename ? `/api/media/file/${selectedRegisteredVehicle.vehiclePhotoFront.filename}` : null)
+                                return url ? (
+                                  <img src={url} alt={selectedRegisteredVehicle.plateNumber} className="summary-vehicle-img" />
+                                ) : null
+                              })()}
+                            </div>
                           )}
                           {totalCost > 0 && (
                             <p className="trip-summary-cost">
@@ -2430,29 +2730,28 @@ export default function PlanYourTripPage() {
           className="places-popup-overlay" 
           onClick={() => {
             // Close popup without clearing the field - preserve Google Maps autocomplete value
-            setShowPlacesPopup(false)
+            closePlacesPopup()
           }}
         >
           <div className="places-popup-modal" onClick={(e) => e.stopPropagation()}>
             <div className="places-popup-header">
               <h3 className="places-popup-title">
-                📍 Nearby Locations & Hotels (within 20km)
+                📍 {t('planYourTrip.nearbyLocations') || 'Nearby Locations (within 20km)'}
               </h3>
               <button
                 className="places-popup-close"
                 onClick={() => {
                   // Close popup without clearing the field - preserve Google Maps autocomplete value
-                  setShowPlacesPopup(false)
+                  closePlacesPopup()
                 }}
                 aria-label="Close"
               >
                 ×
               </button>
             </div>
-            <div className="places-popup-content-side-by-side">
-              {/* Left Side - Locations */}
+            <div className="places-popup-content">
               <div className="locations-panel">
-                <h4 className="panel-title">📍 Locations</h4>
+                <h4 className="panel-title">📍 {t('planYourTrip.locations') || 'Locations'}</h4>
                 <div className="saved-places-list">
                   {nearbyPlaces.length > 0 ? (
                     nearbyPlaces.map((place) => (
@@ -2465,7 +2764,7 @@ export default function PlanYourTripPage() {
                         <div className="saved-place-info">
                           <strong className="saved-place-name">{place.name}</strong>
                           <span className="saved-place-distance">
-                            {place.distance.toFixed(1)} km away
+                            {place.distance.toFixed(1)} {t('planYourTrip.away') || 'km away'}
                           </span>
                           <span className="saved-place-coordinates">
                             📍 {place.latitude.toFixed(6)}, {place.longitude.toFixed(6)}
@@ -2483,19 +2782,39 @@ export default function PlanYourTripPage() {
                       </div>
                     ))
                   ) : (
-                    <p className="no-items-message">No locations found in this area</p>
+                    <p className="no-items-message">{t('planYourTrip.noLocationsFound') || 'No locations found in this area'}</p>
                   )}
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      )}
 
-              {/* Right Side - Hotels */}
+      {/* Waypoint Hotels Modal */}
+      {showWaypointHotels && waypointHotelsFor && (
+        <div className="places-popup-overlay" onClick={() => setShowWaypointHotels(false)}>
+          <div className="places-popup-modal" onClick={(e) => e.stopPropagation()}>
+            <div className="places-popup-header">
+              <h3 className="places-popup-title">
+                🏨 {t('planYourTrip.hotels') || 'Hotels'} — {waypointHotelsFor.label}
+              </h3>
+              <button
+                className="places-popup-close"
+                onClick={() => setShowWaypointHotels(false)}
+                aria-label="Close"
+              >
+                ×
+              </button>
+            </div>
+            <div className="places-popup-content">
               <div className="hotels-panel">
-                <h4 className="panel-title">🏨 Hotels</h4>
+                <h4 className="panel-title">🏨 {t('planYourTrip.hotels') || 'Hotels'}</h4>
                 <div className="saved-places-list">
-                  {nearbyHotels.length > 0 ? (
-                    nearbyHotels.map((hotel) => (
-                      <div 
-                        key={hotel.id} 
+                  {waypointHotels.length > 0 ? (
+                    waypointHotels.map((hotel) => (
+                      <div
+                        key={hotel.id}
                         className="saved-place-card hotel-card clickable-card"
                         onClick={() => handleSelectNearbyHotel(hotel)}
                         style={{ cursor: 'pointer' }}
@@ -2503,11 +2822,9 @@ export default function PlanYourTripPage() {
                         <div className="saved-place-info">
                           <strong className="saved-place-name">{hotel.hotelName}</strong>
                           <span className="hotel-rating">
-                            {'⭐'.repeat(parseInt(hotel.starRating))} {hotel.starRating} Star
+                            {'⭐'.repeat(parseInt(hotel.starRating))} {hotel.starRating} {t('planYourTrip.starHotel') || 'Star Hotel'}
                           </span>
-                          <span className="saved-place-distance">
-                            {hotel.distance.toFixed(1)} km away
-                          </span>
+                          <span className="saved-place-distance">{hotel.distance.toFixed(1)} {t('planYourTrip.away') || 'km away'}</span>
                           <span className="saved-place-coordinates">
                             📍 {hotel.latitude.toFixed(6)}, {hotel.longitude.toFixed(6)}
                           </span>
@@ -2520,7 +2837,7 @@ export default function PlanYourTripPage() {
                             }}
                             className="add-point-btn"
                           >
-                            Add Point
+                            {t('planYourTrip.addPoint') || 'Add Point'}
                           </button>
                           <button
                             onClick={(e) => {
@@ -2530,13 +2847,13 @@ export default function PlanYourTripPage() {
                             }}
                             className="more-details-btn"
                           >
-                            More Details
+                            {t('planYourTrip.moreDetails') || 'More Details'}
                           </button>
                         </div>
                       </div>
                     ))
                   ) : (
-                    <p className="no-items-message">No hotels found in this area</p>
+                    <p className="no-items-message">{t('planYourTrip.noHotelsFound') || 'No hotels found in this area'}</p>
                   )}
                 </div>
               </div>
@@ -2562,7 +2879,7 @@ export default function PlanYourTripPage() {
             <div className="hotel-details-content">
               <div className="hotel-details-section">
                 <div className="hotel-rating-large">
-                  {'⭐'.repeat(parseInt(selectedHotel.starRating))} {selectedHotel.starRating} Star Hotel
+                  {'⭐'.repeat(parseInt(selectedHotel.starRating))} {selectedHotel.starRating} {t('planYourTrip.starHotel') || 'Star Hotel'}
                 </div>
                 <div className="hotel-location">
                   <strong>📍 Location:</strong> {selectedHotel.latitude.toFixed(6)}, {selectedHotel.longitude.toFixed(6)}
@@ -2622,6 +2939,165 @@ export default function PlanYourTripPage() {
                     </div>
                   </div>
                 )}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      {/* Vehicle Search Popup Modal */}
+      {showVehicleSearchPopup && selectedVehicle && (() => {
+        // Filter vehicles by the same vehicleType as the selected vehicle
+        const matchingVehicles = vehicles.filter(
+          (v) => v.vehicleType.toLowerCase() === selectedVehicle.vehicleType.toLowerCase()
+        )
+        return (
+          <div
+            className="places-popup-overlay"
+            onClick={() => setShowVehicleSearchPopup(false)}
+          >
+            <div
+              className="places-popup-modal vehicle-search-modal"
+              onClick={(e) => e.stopPropagation()}
+            >
+              {/* Header */}
+              <div className="places-popup-header">
+                <h3 className="places-popup-title">
+                  🚗 {t('planYourTrip.availableVehicles') || 'Available Vehicles'}
+                </h3>
+                <button
+                  type="button"
+                  className="places-popup-close"
+                  onClick={() => setShowVehicleSearchPopup(false)}
+                >
+                  ×
+                </button>
+              </div>
+
+              {/* Body */}
+              <div className="vehicle-search-popup-body">
+                <p className="vehicle-search-subtitle">
+                  {t('planYourTrip.showingVehicles') || 'Showing all vehicles available for your trip'}
+                </p>
+
+                {registeredVehicles.length === 0 ? (
+                  <div className="no-items-message">
+                    {t('planYourTrip.noRegisteredVehicles') || 'No registered vehicles found.'}
+                  </div>
+                ) : (
+                  <div className="vehicle-search-grid">
+                    {registeredVehicles.map((vehicle) => {
+                      const frontPhotoUrl = vehicle.vehiclePhotoFront?.url || vehicle.vehiclePhotoFront?.publicUrl || (vehicle.vehiclePhotoFront?.filename ? `/api/media/file/${vehicle.vehiclePhotoFront.filename}` : null)
+                      
+                      return (
+                        <div
+                          key={vehicle.id}
+                          className={`vehicle-search-card ${selectedRegisteredVehicle?.id === vehicle.id ? 'vehicle-search-card--selected' : ''}`}
+                        >
+                          <div 
+                            className="vehicle-search-card-image"
+                            onClick={() => {
+                              setViewingVehicle(vehicle)
+                              setShowVehicleDetailsModal(true)
+                            }}
+                            style={{ cursor: 'pointer' }}
+                          >
+                            {frontPhotoUrl ? (
+                              <img src={frontPhotoUrl} alt={vehicle.plateNumber} />
+                            ) : (
+                              <div className="vehicle-search-card-icon">🚗</div>
+                            )}
+                            <div className="image-overlay-hint">{t('planYourTrip.clickToViewPhotos') || 'Click to view all photos'}</div>
+                          </div>
+                          <div className="vehicle-search-card-info">
+                            <div className="vehicle-search-card-type">{vehicle.plateNumber}</div>
+                            <div className="vehicle-search-card-detail">
+                              <strong>{t('planYourTrip.model') || 'Model'}:</strong> <span>{vehicle.model}</span>
+                            </div>
+                            <div className="vehicle-search-card-detail">
+                              <strong>{t('planYourTrip.type') || 'Type'}:</strong> <span>{vehicle.vehicleType}</span>
+                            </div>
+                          </div>
+                          <div className="vehicle-search-card-actions">
+                            {selectedRegisteredVehicle?.id === vehicle.id ? (
+                              <span className="vehicle-search-selected-badge">✓ {t('planYourTrip.added') || 'Added'}</span>
+                            ) : (
+                              <button
+                                type="button"
+                                className="vehicle-search-select-btn"
+                                onClick={() => {
+                                  setSelectedRegisteredVehicle(vehicle)
+                                  // Also try to find matching config for pricing
+                                  const config = vehicles.find(v => v.vehicleType.toLowerCase() === vehicle.vehicleType.toLowerCase())
+                                  if (config) setSelectedVehicle(config)
+                                  setShowVehicleSearchPopup(false)
+                                }}
+                              >
+                                {t('planYourTrip.addVehicle') || 'Add Vehicle'}
+                              </button>
+                            )}
+                          </div>
+                        </div>
+                      )
+                    })}
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        )
+      })()}
+      {/* Vehicle Details Modal (4 Photos) */}
+      {showVehicleDetailsModal && viewingVehicle && (
+        <div className="places-popup-overlay" onClick={() => setShowVehicleDetailsModal(false)}>
+          <div className="places-popup-modal vehicle-details-modal" onClick={(e) => e.stopPropagation()}>
+            <div className="places-popup-header">
+              <h3 className="places-popup-title">
+                🚗 {viewingVehicle.plateNumber} - {viewingVehicle.model}
+              </h3>
+              <button
+                type="button"
+                className="places-popup-close"
+                onClick={() => setShowVehicleDetailsModal(false)}
+              >
+                ×
+              </button>
+            </div>
+            <div className="vehicle-details-popup-body">
+              <div className="vehicle-photos-grid">
+                {[
+                  { label: 'Front', img: viewingVehicle.vehiclePhotoFront },
+                  { label: 'Back', img: viewingVehicle.vehiclePhotoBack },
+                  { label: 'Left Side', img: viewingVehicle.vehiclePhotoLeft },
+                  { label: 'Right Side', img: viewingVehicle.vehiclePhotoRight },
+                ].map((photo, idx) => {
+                  const url = photo.img?.url || photo.img?.publicUrl || (photo.img?.filename ? `/api/media/file/${photo.img.filename}` : null)
+                  return (
+                    <div key={idx} className="vehicle-photo-item">
+                      <div className="vehicle-photo-label">{photo.label}</div>
+                      {url ? (
+                        <img src={url} alt={`${viewingVehicle.plateNumber} ${photo.label}`} className="vehicle-photo-img" />
+                      ) : (
+                        <div className="no-photo-placeholder">No Photo</div>
+                      )}
+                    </div>
+                  )
+                })}
+              </div>
+              <div className="vehicle-details-actions">
+                <button
+                  type="button"
+                  className="add-vehicle-final-btn"
+                  onClick={() => {
+                    setSelectedRegisteredVehicle(viewingVehicle)
+                    // Also try to find matching config for pricing
+                    const config = vehicles.find(v => v.vehicleType.toLowerCase() === viewingVehicle.vehicleType.toLowerCase())
+                    if (config) setSelectedVehicle(config)
+                    setShowVehicleDetailsModal(false)
+                    setShowVehicleSearchPopup(false)
+                  }}
+                >
+                  Add Vehicle
+                </button>
               </div>
             </div>
           </div>
