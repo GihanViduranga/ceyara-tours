@@ -81,6 +81,7 @@ export interface Config {
     'vehicle-configuration': VehicleConfiguration;
     'visiting-places': VisitingPlace;
     drivers: Driver;
+    vehicles: Vehicle;
     guides: Guide;
     hotels: Hotel;
     'tour-requests': TourRequest;
@@ -105,6 +106,7 @@ export interface Config {
     'vehicle-configuration': VehicleConfigurationSelect<false> | VehicleConfigurationSelect<true>;
     'visiting-places': VisitingPlacesSelect<false> | VisitingPlacesSelect<true>;
     drivers: DriversSelect<false> | DriversSelect<true>;
+    vehicles: VehiclesSelect<false> | VehiclesSelect<true>;
     guides: GuidesSelect<false> | GuidesSelect<true>;
     hotels: HotelsSelect<false> | HotelsSelect<true>;
     'tour-requests': TourRequestsSelect<false> | TourRequestsSelect<true>;
@@ -1102,9 +1104,9 @@ export interface TripConfiguration {
 export interface VehicleConfiguration {
   id: string;
   /**
-   * Type of vehicle (e.g., Car, Van, Bus, SUV)
+   * Select the type of vehicle
    */
-  vehicleType: string;
+  vehicleType: 'Car' | 'Van' | 'Bus';
   /**
    * Maximum number of passengers the vehicle can accommodate
    */
@@ -1224,38 +1226,6 @@ export interface Driver {
     | ('western_province' | 'hill_country' | 'cultural_triangle' | 'south_coast' | 'east_coast' | 'entire_country')[]
     | null;
   /**
-   * Vehicle Type
-   */
-  vehicleType?: ('car' | 'van' | 'bus') | null;
-  /**
-   * Vehicle Registration Book (Copy)
-   */
-  vehicleRegistrationBook?: (string | null) | Media;
-  /**
-   * Revenue Licence (Copy)
-   */
-  revenueLicence?: (string | null) | Media;
-  /**
-   * Insurance Card (Copy)
-   */
-  insuranceCard?: (string | null) | Media;
-  /**
-   * Vehicle Photo - Front
-   */
-  vehiclePhotoFront?: (string | null) | Media;
-  /**
-   * Vehicle Photo - Back
-   */
-  vehiclePhotoBack?: (string | null) | Media;
-  /**
-   * Vehicle Photo - Side
-   */
-  vehiclePhotoSide?: (string | null) | Media;
-  /**
-   * Vehicle Photo - Interior
-   */
-  vehiclePhotoInterior?: (string | null) | Media;
-  /**
    * Bank Name
    */
   bankName?: string | null;
@@ -1271,6 +1241,47 @@ export interface Driver {
    * Account Number
    */
   accountNumber?: string | null;
+  updatedAt: string;
+  createdAt: string;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "vehicles".
+ */
+export interface Vehicle {
+  id: string;
+  /**
+   * Driver that owns this vehicle
+   */
+  driver: string | Driver;
+  /**
+   * Vehicle plate number
+   */
+  plateNumber: string;
+  /**
+   * Vehicle model (e.g., Toyota Prius 2018)
+   */
+  model: string;
+  /**
+   * Select the type of vehicle
+   */
+  vehicleType: 'Car' | 'Van' | 'Bus';
+  /**
+   * Vehicle photo - front
+   */
+  vehiclePhotoFront: string | Media;
+  /**
+   * Vehicle photo - back
+   */
+  vehiclePhotoBack: string | Media;
+  /**
+   * Vehicle photo - left side
+   */
+  vehiclePhotoLeft: string | Media;
+  /**
+   * Vehicle photo - right side
+   */
+  vehiclePhotoRight: string | Media;
   updatedAt: string;
   createdAt: string;
 }
@@ -1540,6 +1551,10 @@ export interface PayloadLockedDocument {
     | ({
         relationTo: 'drivers';
         value: string | Driver;
+      } | null)
+    | ({
+        relationTo: 'vehicles';
+        value: string | Vehicle;
       } | null)
     | ({
         relationTo: 'guides';
@@ -2283,18 +2298,26 @@ export interface DriversSelect<T extends boolean = true> {
   yearsOfExperience?: T;
   languagesSpoken?: T;
   areasFamiliar?: T;
-  vehicleType?: T;
-  vehicleRegistrationBook?: T;
-  revenueLicence?: T;
-  insuranceCard?: T;
-  vehiclePhotoFront?: T;
-  vehiclePhotoBack?: T;
-  vehiclePhotoSide?: T;
-  vehiclePhotoInterior?: T;
   bankName?: T;
   bankBranch?: T;
   accountHolderName?: T;
   accountNumber?: T;
+  updatedAt?: T;
+  createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "vehicles_select".
+ */
+export interface VehiclesSelect<T extends boolean = true> {
+  driver?: T;
+  plateNumber?: T;
+  model?: T;
+  vehicleType?: T;
+  vehiclePhotoFront?: T;
+  vehiclePhotoBack?: T;
+  vehiclePhotoLeft?: T;
+  vehiclePhotoRight?: T;
   updatedAt?: T;
   createdAt?: T;
 }
