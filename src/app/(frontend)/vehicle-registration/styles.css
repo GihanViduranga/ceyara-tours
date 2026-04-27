@@ -1,0 +1,99 @@
+.vehicle-registration-page {
+  min-height: 100vh;
+  padding-top: 20px;
+}
+
+.vehicle-registration-hero {
+  background: linear-gradient(135deg, #065f46 0%, #10b981 100%);
+  color: white;
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.vehicle-registration-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+.vehicle-registration-hero-subtitle {
+  font-size: 1.25rem;
+  opacity: 0.92;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.vehicle-registration-content {
+  padding: 3rem 0;
+  background: #f8f9fa;
+}
+
+.vehicle-registration-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+.vehicle-btn-group {
+  justify-content: flex-end;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.driver-summary {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid #d1fae5;
+  background: #ecfdf5;
+}
+
+.driver-summary-title {
+  font-weight: 700;
+  color: #065f46;
+  margin-bottom: 0.75rem;
+}
+
+.driver-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.driver-summary-label {
+  font-size: 0.85rem;
+  color: #065f46;
+  opacity: 0.85;
+  margin-bottom: 0.25rem;
+}
+
+.driver-summary-value {
+  font-weight: 600;
+  color: #064e3b;
+}
+
+@media (max-width: 768px) {
+  .vehicle-registration-hero h1 {
+    font-size: 2rem;
+  }
+
+  .vehicle-registration-hero-subtitle {
+    font-size: 1rem;
+  }
+
+  .driver-summary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
