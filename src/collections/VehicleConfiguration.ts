@@ -22,11 +22,16 @@ export const VehicleConfiguration: CollectionConfig = {
   fields: [
     {
       name: 'vehicleType',
-      type: 'text',
+      type: 'select',
       label: 'Vehicle Type',
       required: true,
+      options: [
+        { label: 'Car', value: 'Car' },
+        { label: 'Van', value: 'Van' },
+        { label: 'Bus', value: 'Bus' },
+      ],
       admin: {
-        description: 'Type of vehicle (e.g., Car, Van, Bus, SUV)',
+        description: 'Select the type of vehicle',
       },
     },
     {
