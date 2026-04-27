@@ -172,83 +172,6 @@ export const Drivers: CollectionConfig = {
         description: 'Areas Familiar With',
       },
     },
-    // Vehicle Details
-    {
-      name: 'vehicleType',
-      type: 'select',
-      required: false,
-      options: [
-        { label: 'Car', value: 'car' },
-        { label: 'Van', value: 'van' },
-        { label: 'Bus', value: 'bus' },
-      ],
-      admin: {
-        description: 'Vehicle Type',
-      },
-    },
-    {
-      name: 'vehicleRegistrationBook',
-      type: 'upload',
-      relationTo: 'media',
-      required: false,
-      admin: {
-        description: 'Vehicle Registration Book (Copy)',
-      },
-    },
-    {
-      name: 'revenueLicence',
-      type: 'upload',
-      relationTo: 'media',
-      required: false,
-      admin: {
-        description: 'Revenue Licence (Copy)',
-      },
-    },
-    {
-      name: 'insuranceCard',
-      type: 'upload',
-      relationTo: 'media',
-      required: false,
-      admin: {
-        description: 'Insurance Card (Copy)',
-      },
-    },
-    {
-      name: 'vehiclePhotoFront',
-      type: 'upload',
-      relationTo: 'media',
-      required: false,
-      admin: {
-        description: 'Vehicle Photo - Front',
-      },
-    },
-    {
-      name: 'vehiclePhotoBack',
-      type: 'upload',
-      relationTo: 'media',
-      required: false,
-      admin: {
-        description: 'Vehicle Photo - Back',
-      },
-    },
-    {
-      name: 'vehiclePhotoSide',
-      type: 'upload',
-      relationTo: 'media',
-      required: false,
-      admin: {
-        description: 'Vehicle Photo - Side',
-      },
-    },
-    {
-      name: 'vehiclePhotoInterior',
-      type: 'upload',
-      relationTo: 'media',
-      required: false,
-      admin: {
-        description: 'Vehicle Photo - Interior',
-      },
-    },
     // Bank & Payment Information
     {
       name: 'bankName',
@@ -368,9 +291,6 @@ ${doc.yearsOfExperience ? `- Years of Experience: ${doc.yearsOfExperience}` : ''
 ${doc.languagesSpoken ? `- Languages Spoken: ${doc.languagesSpoken}` : ''}
 - Areas Familiar With: ${areasFamiliarText}
 
-Vehicle Details:
-${doc.vehicleType ? `- Vehicle Type: ${doc.vehicleType}` : '- Vehicle Type: Not specified'}
-
 Bank & Payment Information:
 ${doc.bankName ? `- Bank Name: ${doc.bankName}` : ''}
 ${doc.bankBranch ? `- Branch: ${doc.bankBranch}` : ''}
@@ -431,11 +351,6 @@ Registration Date: ${new Date().toLocaleString('en-US', { dateStyle: 'full', tim
         ${doc.yearsOfExperience ? `<div class="field"><span class="field-label">Years of Experience:</span> ${doc.yearsOfExperience}</div>` : ''}
         ${doc.languagesSpoken ? `<div class="field"><span class="field-label">Languages Spoken:</span> ${doc.languagesSpoken}</div>` : ''}
         <div class="field"><span class="field-label">Areas Familiar With:</span> ${areasFamiliarText}</div>
-      </div>
-      
-      <div class="section">
-        <div class="section-title">Vehicle Details</div>
-        <div class="field"><span class="field-label">Vehicle Type:</span> ${doc.vehicleType || 'Not specified'}</div>
       </div>
       
       ${doc.bankName || doc.bankBranch || doc.accountHolderName || doc.accountNumber ? `
