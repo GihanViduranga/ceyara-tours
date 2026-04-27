@@ -68,6 +68,23 @@
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
+.register-vehicle-btn {
+  background: rgba(16, 185, 129, 0.2);
+  color: white;
+  border-color: white;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register-vehicle-btn:hover {
+  background: white;
+  color: #065f46;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
 /* Search and Filter Section */
 .registration-search {
   background: #f8f9fa;
