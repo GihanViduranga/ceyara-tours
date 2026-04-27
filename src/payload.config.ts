@@ -21,6 +21,7 @@ import { Testimonials } from './collections/Testimonials'
 import { TripConfiguration } from './collections/TripConfiguration'
 import { Users } from './collections/Users'
 import { VehicleConfiguration } from './collections/VehicleConfiguration'
+import { Vehicles } from './collections/Vehicles'
 import { VisitingPlaces } from './collections/VisitingPlaces'
 
 const filename = fileURLToPath(import.meta.url)
@@ -79,6 +80,7 @@ export default buildConfig({
     VehicleConfiguration,
     VisitingPlaces,
     Drivers,
+    Vehicles,
     Guides,
     Hotels,
     TourRequest,
